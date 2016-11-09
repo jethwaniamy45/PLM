@@ -1,0 +1,44 @@
+Application,Environment,Used for Release,Enovia Version,Fixed Pack,Latest build,Total Build time,Database Refresh,Env. Owner,Build Contact,Build-Type,Notes
+ENERGYPLM,DEV1,6_1_15,2012x,1440,9/7/2016,<30 minutes,8/15/2016 from Prod,Kedar Namburi,Geoffrey Vollmer,Jenkins,
+ENERGYPLM,DEV2,6_0_90,2012x,1440,8/24/2016,<30 minutes,7/22/2016 from Prod,Kedar Namburi,Geoffrey Vollmer,Jenkins,Copics Webmethods testing
+ENERGYPLM,QA1,6_1_30,2012x,1440,9/6/2016,<30 minutes,8/2/2015 from Prod,Kedar Namburi,Geoffrey Vollmer,Jenkins,
+ENERGYPLM,QA2,6_1_20,2012x,1440,9/28/2016,<30 minutes,7/7/2016 from Prod,Kedar Namburi,Geoffrey Vollmer,Jenkins,
+ENERGYPLM,BF,6_1_21,2012x,1440,9/1/2016,<30 minutes,8/24/2016 from Prod,Kedar Namburi,Geoffrey Vollmer,PW Webops,
+ENERGYPLM,PT,6_0_82,2012x,1440,7/28/2016,<30 minutes,7/13/2016 from Prod,Kedar Namburi,Geoffrey Vollmer,PW Webops,
+ENERGYPLM,Prod,6_1_20,2012x,1440,8/30/2016,<30 minutes,,Kedar Namburi,Geoffrey Vollmer,PW Webops,
+POWERPLM,DEV1,1_0,2016x,1613,9/29/2016, 30 minutes,NA,Need to find out who this is,Geoffrey Vollmer,Jenkins,
+POWERPLM,DEV2,1_0,2016x,1613,9/26/2016, 30 minutes,NA,Need to find out who this is,Geoffrey Vollmer,Jenkins,
+POWERPLM,QA1,1_0,2016x,1613,9/29/2016, 30 minutes,NA,Need to find out who this is,Geoffrey Vollmer,Jenkins,
+POWERPLM,BF,1_0,2016x,1613,9/29/2016, 30 minutes,NA,Need to find out who this is,Geoffrey Vollmer,Jenkins,
+PGSLM,QA,1_3,2015x,1542,9/29/2016,<20 Minutes,7/14/2016 from Prod,Kim Avila,Geoffrey Vollmer,Jenkins and PW webops,Still testing Jenkins for builds
+PGSLM,QA2,1_2,2015x,1542,9/28/2016,<20 Minutes,7/23/2016 from Prod,Kim Avila,Geoffrey Vollmer,Jenkins and PW webops,Still testing Jenkins for builds
+PGSLM,PROD,1_1_1,2015x,1542,8/25/2016,<20 Minutes,,Kim Avila,Geoffrey Vollmer,Jenkins and PW webops,Still testing Jenkins for builds
+AEROPLM,DEV,Dev_3_13_0,2013x,HF58,10/20/2016,20 minutes,Release_3_8_0,Ramakanth,Anil Boyapati,Jenkins,
+AEROPLM,QA,Release_3_12_0,2013x,HF58,,,Release_3_8_0,Ramakanth,Anil Boyapati,Jenkins,
+AEROPLM,DEV2,Dev_3_15_0,2013x,HF58,,,Release_3_8_0,Ramakanth,Anil Boyapati,Jenkins,Planned-Refresh in progress
+AEROPLM,QA2,Release_3_15_0,2013x,HF58,,,Release_3_8_0,Ramakanth,Anil Boyapati,Jenkins,Planned-Refresh in progress
+AEROPLM,PROD,Release_3_12_0,2013x,HF58,9/16/2016,20 minutes,,Ramakanth,Anil Boyapati,PW Webops Deployer,
+WINDPLM,DEV1,wind_dev_4_5,2013x,HF50 x86,9/19/2016,120 mins,7/26/2016 R_04_02_30,Surya Rao,Ryan,Jenkins,development for October Release
+WINDPLM,NEWDEV2,wind_dev_4_6,2013x,HF50 RHEL,,,9/19/2016 R_04_04_00,Surya Rao,Ryan,Jenkins,Being Refreshed this week (9/19)
+WINDPLM,DEV3,wind_dev_4_3_IB,2013x,HF50 RHEL,9/2/2016,30 mins,7/26/2016 R_04_02_30,Surya Rao,Ryan,Jenkins,being used as test environment for future RACES releases at this time
+WINDPLM,DEV4,wind_dev_4_4,2013x,HF50 RHEL,9/15/2016,45 mins,7/26/2016 R_04_02_30,Surya Rao,Ryan,Jenkins,To be Refreshed.
+WINDPLM,DEV5,Release_4_12,2013x,HF50 RHEL,,,9/19/2016 R_04_04_00,Surya Rao,Ryan,Jenkins,"Environment still being built by web team, will be used by RACES America's Release for May 2017"
+WINDPLM,QA1,Release_4_5,2013x,HF50 x86,9/19/2016,120 mins,7/26/2016 R_04_02_30,Surya Rao,Ryan,Jenkins,October Release
+WINDPLM,QA2,Release_4_4_10,2013x,HF50 RHEL,9/19/2016,10 mins,8/26/2016 R_04_03,Surya Rao,Ryan,Jenkins,September Emergency Release
+WINDPLM,QA3,Release_4_6,2013x,HF50 RHEL,,,to be done,Surya Rao,Ryan,Jenkins,"November Release, not built yet"
+WINDPLM,PROD,Release_4_4,2013x,HF50 x86,9/16/2016,90 mins,not done in PROD,Surya Rao,Ryan,Webops,September Release
+NUCLEARPLM,DEV,Release_4_0,2016x,54,9/19/2016,90 mins,8/15/16 From Prod,Bonnie,Ryan,Jenkins,SIT on August 29th 
+NUCLEARPLM,QA,Release_4_0,2016x,54,9/19/2016,55 mins,8/15/16 From Prod,Bonnie,Ryan,Jenkins,SIT on September 12th
+NUCLEARPLM,PROD,Release_4_0,2016x,54,,,8/15/16 From Prod,Bonnie,Ryan,Jenkins,Buildout in progress.
+FLOWTECH,DEV,,2012x,1234,1/7/2015,<10 minutes,,Bob Gusmini,Geoffrey Vollmer,PW Webops Deployer,They don’t use this env.
+FLOWTECH,QA,2_0_13,2012x,1234,9/27/2016,<10 minutes,,Bob Gusmini,Geoffrey Vollmer,PW Webops Deployer,
+FLOWTECH,PROD,2_0_12,2012x,1234,7/25/2016,<10 minutes,,Bob Gusmini,Geoffrey Vollmer,PW Webops Deployer,
+MRAS,Non Vault DEV,6_5,2013x,1428,7/22/2016,<30 minutes,,Sathish Yogendran and Hari Kalyanasundaram,Geoffrey Vollmer,TSG Webops Deployer,
+MRAS,Vault DEV,6_5,2013x,1428,7/22/2016,<30 minutes,,Sathish Yogendran and Hari Kalyanasundaram,Geoffrey Vollmer,Vault DEV Deployer,
+MRAS,Vault QA,6_5,2013x,1428,7/25/2016,<30 minutes,6/27/2016 from Prod,Sathish Yogendran and Hari Kalyanasundaram,Geoffrey Vollmer,Vault QA Deployer,
+MRAS,Vault Training,6_4,2013x,1428,4/14/2016,<30,,Sathish Yogendran and Hari Kalyanasundaram,Geoffrey Vollmer,Manual,There is deployer setup for this so have to copy the war over manually from another env and run spinner manually on server
+MRAS,Vault PROD,6_5,2013x,1428,8/18/2016,<30 minutes,,Sathish Yogendran and Hari Kalyanasundaram,Geoffrey Vollmer,Vault PROD Deployer,
+AVIATIONDWB,Non Vault DEV,5_6_140,2011,1104,9/12/2016,<10 minutes,,Erin Spinelli,Geoffrey Vollmer,TSG Webops Deployer,
+AVIATIONDWB,Vault DEV,5_6_140,2011,1104,9/12/2016,<10 minutes,,Erin Spinelli,Geoffrey Vollmer,Vault DEV Deployer,
+AVIATIONDWB,Vault QA,5_6_140,2011,1104,9/12/2016,<10 minutes,4/7/2016 From Prod,Erin Spinelli,Geoffrey Vollmer,Vault QA Deployer,
+AVIATIONDWB,Vault PROD,5_6_131,2011,1104,8/11/2016,<10 minutes,,Erin Spinelli,Geoffrey Vollmer,Vault PROD Deployer,

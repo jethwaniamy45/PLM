@@ -1,0 +1,1114 @@
+Build Type,Date,Time,Application,Environment,Release,Publish Type,App Job Name,App Job Build Number,Spinner Job Name,Spinner Job Build Number,App Job Duration,Spinner Job Duration,Total Execution,Total Time (In mins.secs)
+Manual,8/1/2016,2:16:55,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,506,PLM-WINDPLM-DB,441,31 mins 49 secs,1 mins 30 secs,33 mins 19 secs,33.19
+Manual,8/1/2016,3:34:18,ENERGYPLM,QA2,Release_6_1_10,all,PLM-ENERGYPLM-APP,297,PLM-ENERGYPLM-DB,224,97 mins 32 secs,0 mins 54 secs,98 mins 26 secs,98.26
+Auto,8/1/2016,4:20:29,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,507,PLM-WINDPLM-DB,442,31 mins 36 secs,1 mins 40 secs,33 mins 16 secs,33.16
+Auto,8/1/2016,5:55:54,WINDPLM,QA2,Release_4_4,all,PLM-WINDPLM-APP,508,PLM-WINDPLM-DB,443,27 mins 56 secs,0 mins 53 secs,28 mins 50 secs,28.5
+Auto,8/1/2016,6:09:24,WINDPLM,QA2,Release_4_4,app,PLM-WINDPLM-APP,509,,,14 mins 23 secs,,14 mins 23 secs,14.23
+Auto,8/1/2016,7:03:52,WINDPLM,DEV4,wind_dev_4_4,app,PLM-WINDPLM-APP,510,,,25 mins 10 secs,,25 mins 10 secs,25.1
+Manual,8/1/2016,7:54:37,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,511,PLM-WINDPLM-DB,444,21 mins 4 secs,1 mins 0 secs,22 mins 5 secs,22.5
+Manual,8/1/2016,10:13:28,ENERGYPLM,QA2,Release_6_1_10,all,PLM-ENERGYPLM-APP,298,PLM-ENERGYPLM-DB,225,16 mins 50 secs,0 mins 30 secs,17 mins 21 secs,17.21
+Auto,8/1/2016,10:49:20,AEROPLM,DEV,Dev_3_10_0,db,PLM-AEROPLM-APP,189,PLM-AEROPLM-DB,197,5 mins 35 secs,1 mins 12 secs,6 mins 48 secs,6.48
+Auto,8/1/2016,10:55:58,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,513,PLM-WINDPLM-DB,445,15 mins 26 secs,0 mins 43 secs,16 mins 10 secs,16.1
+Manual,8/1/2016,11:47:05,NuclearPLM,DEV16,Release_4_0,all,PLM-NuclearPLM-APP,4,PLM-NuclearPLM-DB,4,102 mins 28 secs,7 mins 8 secs,109 mins 36 secs,109.36
+Auto,8/1/2016,14:08:27,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,514,PLM-WINDPLM-DB,446,27 mins 46 secs,0 mins 51 secs,28 mins 37 secs,28.37
+Manual,8/1/2016,15:27:42,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,31,PLM-POWERPLM-DB,20,86 mins 21 secs,1 mins 31 secs,87 mins 52 secs,87.52
+Manual,8/1/2016,17:21:33,POWERPLM,DEV2,Release_1_0,all,PLM-POWERPLM-APP,32,PLM-POWERPLM-DB,21,80 mins 14 secs,1 mins 31 secs,81 mins 45 secs,81.45
+Manual,8/1/2016,17:39:23,NuclearPLM,DEV16,Release_4_0,db,PLM-NuclearPLM-APP,5,PLM-NuclearPLM-DB,5,86 mins 5 secs,6 mins 13 secs,92 mins 19 secs,92.19
+Auto,8/2/2016,0:06:48,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,515,PLM-WINDPLM-DB,447,23 mins 19 secs,0 mins 55 secs,24 mins 14 secs,24.14
+Auto,8/2/2016,3:07:13,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,516,PLM-WINDPLM-DB,448,24 mins 16 secs,0 mins 52 secs,25 mins 8 secs,25.8
+Auto,8/2/2016,3:25:21,WINDPLM,DEV,wind_dev_4_5,app,PLM-WINDPLM-APP,517,,,19 mins 6 secs,,19 mins 6 secs,19.6
+Auto,8/2/2016,3:57:51,WINDPLM,DEV3,wind_dev_4_3_IB,app,PLM-WINDPLM-APP,518,,,18 mins 20 secs,,18 mins 20 secs,18.2
+Auto,8/2/2016,7:03:16,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,519,PLM-WINDPLM-DB,449,20 mins 39 secs,0 mins 53 secs,21 mins 33 secs,21.33
+Auto,8/2/2016,7:26:29,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,520,PLM-WINDPLM-DB,450,22 mins 19 secs,0 mins 47 secs,23 mins 6 secs,23.6
+Manual,8/2/2016,7:44:04,POWERPLM,DEV1,Release_1_0,db,PLM-POWERPLM-APP,33,PLM-POWERPLM-DB,22,62 mins 43 secs,1 mins 24 secs,64 mins 7 secs,64.7
+Auto,8/2/2016,7:49:06,WINDPLM,QA3,Release_4_3,db,PLM-WINDPLM-APP,521,PLM-WINDPLM-DB,451,20 mins 5 secs,0 mins 48 secs,20 mins 54 secs,20.54
+Manual,8/2/2016,8:48:14,ENERGYPLM,QA2,Release_6_1_10,all,PLM-ENERGYPLM-APP,299,PLM-ENERGYPLM-DB,226,33 mins 23 secs,0 mins 51 secs,34 mins 15 secs,34.15
+Manual,8/2/2016,8:51:50,POWERPLM,DEV2,Release_1_0,db,PLM-POWERPLM-APP,34,PLM-POWERPLM-DB,23,61 mins 35 secs,1 mins 33 secs,63 mins 8 secs,63.8
+Auto,8/2/2016,9:14:09,WINDPLM,DEV3,wind_dev_4_3_IB,all,PLM-WINDPLM-APP,522,PLM-WINDPLM-DB,452,23 mins 55 secs,0 mins 57 secs,24 mins 53 secs,24.53
+Manual,8/2/2016,9:43:13,NuclearPLM,DEV16,Release_4_0,all,PLM-NuclearPLM-APP,8,PLM-NuclearPLM-DB,6,106 mins 5 secs,1 mins 28 secs,107 mins 33 secs,107.33
+Auto,8/2/2016,13:59:00,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,523,PLM-WINDPLM-DB,453,20 mins 31 secs,0 mins 48 secs,21 mins 20 secs,21.2
+Manual,8/2/2016,15:49:56,POWERPLM,DEV1,Release_1_0,db,PLM-POWERPLM-APP,35,PLM-POWERPLM-DB,24,50 mins 2 secs,1 mins 27 secs,51 mins 30 secs,51.3
+Manual,8/2/2016,16:41:00,POWERPLM,DEV2,Release_1_0,db,PLM-POWERPLM-APP,36,PLM-POWERPLM-DB,25,51 mins 2 secs,1 mins 27 secs,52 mins 30 secs,52.3
+Auto,8/3/2016,0:01:30,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,524,PLM-WINDPLM-DB,454,19 mins 20 secs,1 mins 2 secs,20 mins 22 secs,20.22
+Auto,8/3/2016,3:01:08,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,525,PLM-WINDPLM-DB,455,16 mins 39 secs,0 mins 52 secs,17 mins 32 secs,17.32
+Auto,8/3/2016,3:19:52,WINDPLM,QA2,Release_4_4,all,PLM-WINDPLM-APP,526,PLM-WINDPLM-DB,456,19 mins 9 secs,0 mins 42 secs,19 mins 51 secs,19.51
+Auto,8/3/2016,5:55:47,WINDPLM,QA3,Release_4_3,all,PLM-WINDPLM-APP,527,PLM-WINDPLM-DB,457,18 mins 18 secs,0 mins 41 secs,19 mins 0 secs,19
+Auto,8/3/2016,6:13:44,WINDPLM,QA3,Release_4_3,db,PLM-WINDPLM-APP,528,PLM-WINDPLM-DB,458,6 mins 28 secs,0 mins 39 secs,7 mins 8 secs,7.8
+Auto,8/3/2016,6:28:44,WINDPLM,QA3,Release_4_3,db,PLM-WINDPLM-APP,529,PLM-WINDPLM-DB,459,6 mins 30 secs,0 mins 42 secs,7 mins 13 secs,7.13
+Auto,8/3/2016,6:57:59,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,530,PLM-WINDPLM-DB,460,18 mins 5 secs,0 mins 37 secs,18 mins 43 secs,18.43
+Auto,8/3/2016,7:12:53,WINDPLM,QA3,Release_4_3,db,PLM-WINDPLM-APP,531,PLM-WINDPLM-DB,461,14 mins 33 secs,0 mins 43 secs,15 mins 17 secs,15.17
+Auto,8/3/2016,8:54:46,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,532,PLM-WINDPLM-DB,462,15 mins 11 secs,0 mins 56 secs,16 mins 7 secs,16.7
+Manual,8/3/2016,10:38:13,ENERGYPLM,QA2,Release_6_1_10,db,PLM-ENERGYPLM-APP,300,PLM-ENERGYPLM-DB,227,10 mins 40 secs,1 mins 0 secs,11 mins 41 secs,11.41
+Auto,8/3/2016,11:04:04,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,533,PLM-WINDPLM-DB,463,18 mins 55 secs,1 mins 1 secs,19 mins 57 secs,19.57
+Manual,8/3/2016,11:41:45,NuclearPLM,DEV16,Release_4_0,app,PLM-NuclearPLM-APP,11,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/3/2016,13:58:06,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,534,PLM-WINDPLM-DB,464,19 mins 9 secs,0 mins 48 secs,19 mins 57 secs,19.57
+Auto,8/3/2016,23:56:46,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,535,PLM-WINDPLM-DB,465,14 mins 55 secs,0 mins 45 secs,15 mins 41 secs,15.41
+Manual,8/4/2016,3:19:09,AEROPLM,DEV,Dev_3_10_0,app,PLM-AEROPLM-APP,190,,,42 mins 37 secs,,42 mins 37 secs,42.37
+Auto,8/4/2016,3:48:36,WINDPLM,QA2,Release_4_4,all,PLM-WINDPLM-APP,536,PLM-WINDPLM-DB,466,19 mins 19 secs,0 mins 38 secs,19 mins 58 secs,19.58
+Manual,8/4/2016,3:53:43,ENERGYPLM,QA1,Release_6_1_10,all,PLM-ENERGYPLM-APP,301,PLM-ENERGYPLM-DB,228,33 mins 53 secs,0 mins 44 secs,34 mins 38 secs,34.38
+Auto,8/4/2016,4:03:27,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,537,PLM-WINDPLM-DB,467,14 mins 38 secs,0 mins 48 secs,15 mins 26 secs,15.26
+Manual,8/4/2016,4:37:52,AEROPLM,QA,Release_3_8_0,app,PLM-AEROPLM-APP,191,,,18 mins 17 secs,,18 mins 17 secs,18.17
+Auto,8/4/2016,6:07:59,WINDPLM,QA3,Release_4_3,db,PLM-WINDPLM-APP,538,PLM-WINDPLM-DB,468,14 mins 47 secs,0 mins 50 secs,15 mins 38 secs,15.38
+Auto,8/4/2016,6:32:59,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,539,PLM-WINDPLM-DB,469,17 mins 54 secs,0 mins 54 secs,18 mins 49 secs,18.49
+Auto,8/4/2016,6:55:43,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,540,PLM-WINDPLM-DB,470,17 mins 37 secs,0 mins 47 secs,18 mins 24 secs,18.24
+Auto,8/4/2016,10:57:11,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,541,PLM-WINDPLM-DB,471,16 mins 37 secs,0 mins 45 secs,17 mins 23 secs,17.23
+Manual,8/4/2016,13:33:20,NuclearPLM,DEV16,Release_4_0,app,PLM-NuclearPLM-APP,12,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/4/2016,13:58:56,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,542,PLM-WINDPLM-DB,472,20 mins 35 secs,0 mins 57 secs,21 mins 32 secs,21.32
+Auto,8/5/2016,2:55:08,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,543,PLM-WINDPLM-DB,473,13 mins 23 secs,0 mins 55 secs,14 mins 18 secs,14.18
+Auto,8/5/2016,3:13:07,WINDPLM,QA2,Release_4_4,all,PLM-WINDPLM-APP,544,PLM-WINDPLM-DB,474,18 mins 16 secs,0 mins 37 secs,18 mins 54 secs,18.54
+Auto,8/5/2016,3:22:25,WINDPLM,QA2,Release_4_4,app,PLM-WINDPLM-APP,545,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/5/2016,3:57:48,WINDPLM,DEV3,wind_dev_4_3_IB,all,PLM-WINDPLM-APP,546,PLM-WINDPLM-DB,475,17 mins 56 secs,0 mins 42 secs,18 mins 39 secs,18.39
+Auto,8/5/2016,8:48:28,WINDPLM,DEV3,wind_dev_4_3_IB,all,PLM-WINDPLM-APP,547,PLM-WINDPLM-DB,476,9 mins 32 secs,0 mins 40 secs,10 mins 12 secs,10.12
+Auto,8/5/2016,9:03:46,WINDPLM,QA3,Release_4_3,db,PLM-WINDPLM-APP,548,PLM-WINDPLM-DB,477,15 mins 4 secs,0 mins 43 secs,15 mins 47 secs,15.47
+Manual,8/5/2016,9:39:03,ENERGYPLM,QA1,Release_6_1_10,app,PLM-ENERGYPLM-APP,303,,,17 mins 26 secs,,17 mins 26 secs,17.26
+Auto,8/5/2016,10:58:57,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,549,PLM-WINDPLM-DB,478,17 mins 32 secs,0 mins 52 secs,18 mins 25 secs,18.25
+Manual,8/5/2016,11:28:17,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,550,PLM-WINDPLM-DB,479,20 mins 5 secs,1 mins 28 secs,21 mins 34 secs,21.34
+Manual,8/5/2016,12:10:07,NuclearPLM,DEV16,Release_4_0,all,PLM-NuclearPLM-APP,13,PLM-NuclearPLM-DB,7,72 mins 21 secs,2 mins 8 secs,74 mins 30 secs,74.3
+Auto,8/6/2016,0:03:06,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,552,PLM-WINDPLM-DB,480,19 mins 44 secs,0 mins 49 secs,20 mins 34 secs,20.34
+Auto,8/6/2016,3:20:21,WINDPLM,QA2,Release_4_4,app,PLM-WINDPLM-APP,553,,,19 mins 35 secs,,19 mins 35 secs,19.35
+Auto,8/6/2016,7:00:13,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,554,PLM-WINDPLM-DB,481,20 mins 16 secs,1 mins 3 secs,21 mins 20 secs,21.2
+Manual,8/8/2016,4:53:50,ENERGYPLM,QA1,Release_6_1_10,db,PLM-ENERGYPLM-APP,304,PLM-ENERGYPLM-DB,229,10 mins 34 secs,0 mins 51 secs,11 mins 26 secs,11.26
+Auto,8/8/2016,5:20:24,WINDPLM,QA2,Release_4_4,app,PLM-WINDPLM-APP,555,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/8/2016,5:37:55,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,556,PLM-WINDPLM-DB,482,6 mins 11 secs,0 mins 50 secs,7 mins 2 secs,7.2
+Auto,8/8/2016,6:17:56,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,557,PLM-WINDPLM-DB,483,6 mins 21 secs,0 mins 46 secs,7 mins 7 secs,7.7
+Auto,8/8/2016,6:48:23,WINDPLM,QA3,Release_4_3,all,PLM-WINDPLM-APP,558,PLM-WINDPLM-DB,484,20 mins 4 secs,0 mins 52 secs,20 mins 56 secs,20.56
+Auto,8/8/2016,7:05:37,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,559,PLM-WINDPLM-DB,485,16 mins 38 secs,1 mins 13 secs,17 mins 52 secs,17.52
+Auto,8/8/2016,7:21:22,WINDPLM,QA3,Release_4_3,db,PLM-WINDPLM-APP,560,PLM-WINDPLM-DB,486,16 mins 18 secs,0 mins 43 secs,17 mins 1 secs,17.1
+Auto,8/8/2016,8:54:34,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,561,PLM-WINDPLM-DB,487,15 mins 4 secs,0 mins 46 secs,15 mins 50 secs,15.5
+Auto,8/8/2016,14:10:54,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,562,PLM-WINDPLM-DB,488,27 mins 45 secs,1 mins 12 secs,28 mins 58 secs,28.58
+Manual,8/8/2016,14:37:10,NuclearPLM,DEV16,Release_4_0,all,PLM-NuclearPLM-APP,15,PLM-NuclearPLM-DB,8,75 mins 9 secs,2 mins 11 secs,77 mins 20 secs,77.2
+Manual,8/8/2016,16:10:51,ENERGYPLM,QA1,Release_6_1_10,all,PLM-ENERGYPLM-APP,305,PLM-ENERGYPLM-DB,230,21 mins 9 secs,0 mins 41 secs,21 mins 51 secs,21.51
+Auto,8/9/2016,3:19:42,WINDPLM,QA3,Release_4_3,db,PLM-WINDPLM-APP,563,PLM-WINDPLM-DB,489,20 mins 50 secs,0 mins 55 secs,21 mins 45 secs,21.45
+Auto,8/9/2016,5:33:51,WINDPLM,QA3,Release_4_3,db,PLM-WINDPLM-APP,564,PLM-WINDPLM-DB,490,6 mins 34 secs,0 mins 40 secs,7 mins 15 secs,7.15
+Auto,8/9/2016,6:19:49,WINDPLM,QA2,Release_4_4,all,PLM-WINDPLM-APP,565,PLM-WINDPLM-DB,491,19 mins 13 secs,0 mins 44 secs,19 mins 57 secs,19.57
+Auto,8/9/2016,6:57:49,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,566,PLM-WINDPLM-DB,492,18 mins 31 secs,0 mins 39 secs,19 mins 10 secs,19.1
+Auto,8/9/2016,9:46:06,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,567,PLM-WINDPLM-DB,493,15 mins 18 secs,0 mins 44 secs,16 mins 3 secs,16.3
+Auto,8/9/2016,10:39:31,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,568,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/9/2016,10:58:41,WINDPLM,DEV,wind_dev_4_5,app,PLM-WINDPLM-APP,569,,,0 mins 0 secs,,0 mins 0 secs,0
+Manual,8/9/2016,12:15:30,POWERPLM,DEV1,Release_1_0,db,PLM-POWERPLM-APP,41,PLM-POWERPLM-DB,30,51 mins 33 secs,1 mins 26 secs,53 mins 0 secs,53
+Manual,8/9/2016,14:00:37,NuclearPLM,DEV16,Release_4_0,all,PLM-NuclearPLM-APP,16,PLM-NuclearPLM-DB,9,72 mins 9 secs,1 mins 56 secs,74 mins 5 secs,74.5
+Auto,8/10/2016,0:04:48,WINDPLM,DEV3,wind_dev_4_3_IB,app,PLM-WINDPLM-APP,570,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/10/2016,3:03:06,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,571,PLM-WINDPLM-DB,494,18 mins 45 secs,0 mins 47 secs,19 mins 32 secs,19.32
+Auto,8/10/2016,3:56:42,WINDPLM,QA2,Release_4_4,all,PLM-WINDPLM-APP,572,PLM-WINDPLM-DB,495,20 mins 46 secs,0 mins 45 secs,21 mins 32 secs,21.32
+Auto,8/10/2016,4:16:03,WINDPLM,DEV3,wind_dev_4_3_IB,app,PLM-WINDPLM-APP,573,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/10/2016,6:58:05,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,574,PLM-WINDPLM-DB,496,18 mins 56 secs,0 mins 40 secs,19 mins 36 secs,19.36
+Auto,8/10/2016,7:30:39,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,575,PLM-WINDPLM-DB,497,18 mins 31 secs,0 mins 51 secs,19 mins 23 secs,19.23
+Auto,8/10/2016,8:58:09,WINDPLM,DEV3,wind_dev_4_3_IB,app,PLM-WINDPLM-APP,576,,,0 mins 0 secs,,0 mins 0 secs,0
+Manual,8/10/2016,9:01:58,ENERGYPLM,QA1,Release_6_1_10,db,PLM-ENERGYPLM-APP,306,PLM-ENERGYPLM-DB,231,11 mins 1 secs,1 mins 6 secs,12 mins 8 secs,12.8
+Auto,8/10/2016,9:17:49,WINDPLM,QA3,Release_4_3,app,PLM-WINDPLM-APP,577,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/10/2016,11:00:47,WINDPLM,QA2,Release_4_4,all,PLM-WINDPLM-APP,578,PLM-WINDPLM-DB,498,22 mins 18 secs,0 mins 43 secs,23 mins 2 secs,23.2
+Auto,8/10/2016,11:17:01,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,579,PLM-WINDPLM-DB,499,16 mins 9 secs,0 mins 43 secs,16 mins 52 secs,16.52
+Manual,8/10/2016,13:34:06,NuclearPLM,DEV16,Release_4_0,all,PLM-NuclearPLM-APP,17,PLM-NuclearPLM-DB,10,33 mins 19 secs,2 mins 25 secs,35 mins 44 secs,35.44
+Auto,8/10/2016,14:00:09,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,580,PLM-WINDPLM-DB,500,21 mins 31 secs,0 mins 52 secs,22 mins 23 secs,22.23
+Auto,8/11/2016,0:00:08,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,581,PLM-WINDPLM-DB,501,17 mins 6 secs,0 mins 47 secs,17 mins 54 secs,17.54
+Auto,8/11/2016,0:34:24,WINDPLM,QA2,Release_4_4,all,PLM-WINDPLM-APP,582,PLM-WINDPLM-DB,502,22 mins 13 secs,0 mins 46 secs,22 mins 59 secs,22.59
+Auto,8/11/2016,1:58:30,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,583,PLM-WINDPLM-DB,503,6 mins 43 secs,0 mins 43 secs,7 mins 26 secs,7.26
+Auto,8/11/2016,3:06:55,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,584,PLM-WINDPLM-DB,504,25 mins 1 secs,0 mins 59 secs,26 mins 1 secs,26.1
+Auto,8/11/2016,3:30:50,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,585,PLM-WINDPLM-DB,505,24 mins 9 secs,0 mins 50 secs,25 mins 0 secs,25
+Manual,8/11/2016,3:37:40,ENERGYPLM,QA1,Release_6_1_10,db,PLM-ENERGYPLM-APP,307,PLM-ENERGYPLM-DB,232,36 mins 12 secs,1 mins 3 secs,37 mins 16 secs,37.16
+Auto,8/11/2016,3:57:26,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,586,PLM-WINDPLM-DB,506,16 mins 12 secs,0 mins 45 secs,16 mins 57 secs,16.57
+Auto,8/11/2016,6:05:29,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,587,PLM-WINDPLM-DB,507,6 mins 34 secs,0 mins 43 secs,7 mins 17 secs,7.17
+Auto,8/11/2016,6:29:09,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,588,PLM-WINDPLM-DB,508,15 mins 31 secs,0 mins 51 secs,16 mins 22 secs,16.22
+Auto,8/11/2016,6:45:24,WINDPLM,QA3,Release_4_3,db,PLM-WINDPLM-APP,589,PLM-WINDPLM-DB,509,16 mins 19 secs,0 mins 49 secs,17 mins 8 secs,17.8
+Auto,8/11/2016,6:59:54,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,590,PLM-WINDPLM-DB,510,14 mins 28 secs,0 mins 52 secs,15 mins 21 secs,15.21
+Manual,8/11/2016,7:43:00,ENERGYPLM,QA2,Release_6_0_91,db,PLM-ENERGYPLM-APP,308,PLM-ENERGYPLM-DB,233,24 mins 58 secs,0 mins 43 secs,25 mins 42 secs,25.42
+Auto,8/11/2016,8:56:50,WINDPLM,DEV3,wind_dev_4_3_IB,app,PLM-WINDPLM-APP,591,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/11/2016,9:54:37,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,592,PLM-WINDPLM-DB,511,15 mins 23 secs,0 mins 54 secs,16 mins 18 secs,16.18
+Auto,8/11/2016,10:56:22,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,593,PLM-WINDPLM-DB,512,20 mins 21 secs,0 mins 40 secs,21 mins 1 secs,21.1
+Auto,8/11/2016,11:16:03,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,594,PLM-WINDPLM-DB,513,19 mins 35 secs,0 mins 42 secs,20 mins 18 secs,20.18
+Auto,8/11/2016,14:06:50,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,595,PLM-WINDPLM-DB,514,26 mins 56 secs,1 mins 6 secs,28 mins 2 secs,28.2
+Manual,8/11/2016,14:51:52,NuclearPLM,DEV16,Release_4_0,all,PLM-NuclearPLM-APP,18,PLM-NuclearPLM-DB,11,81 mins 26 secs,1 mins 50 secs,83 mins 16 secs,83.16
+Auto,8/12/2016,0:00:50,WINDPLM,QA2,Release_4_4,all,PLM-WINDPLM-APP,596,PLM-WINDPLM-DB,515,23 mins 45 secs,0 mins 57 secs,24 mins 43 secs,24.43
+Auto,8/12/2016,0:17:48,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,597,PLM-WINDPLM-DB,516,16 mins 54 secs,0 mins 49 secs,17 mins 43 secs,17.43
+Auto,8/12/2016,2:54:50,WINDPLM,QA3,Release_4_3,all,PLM-WINDPLM-APP,598,PLM-WINDPLM-DB,517,20 mins 13 secs,0 mins 41 secs,20 mins 54 secs,20.54
+Auto,8/12/2016,3:56:06,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,599,PLM-WINDPLM-DB,518,15 mins 22 secs,0 mins 48 secs,16 mins 10 secs,16.1
+Manual,8/12/2016,4:00:34,ENERGYPLM,QA1,Release_6_1_10,db,PLM-ENERGYPLM-APP,309,PLM-ENERGYPLM-DB,234,26 mins 53 secs,1 mins 4 secs,27 mins 57 secs,27.57
+Auto,8/12/2016,4:11:14,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,600,PLM-WINDPLM-DB,519,15 mins 40 secs,0 mins 46 secs,16 mins 26 secs,16.26
+Manual,8/12/2016,6:02:22,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,601,PLM-WINDPLM-DB,520,15 mins 14 secs,0 mins 46 secs,16 mins 1 secs,16.1
+Auto,8/12/2016,6:57:52,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,602,PLM-WINDPLM-DB,521,17 mins 10 secs,0 mins 57 secs,18 mins 7 secs,18.7
+Auto,8/12/2016,7:17:31,WINDPLM,DEV4,wind_dev_4_4,app,PLM-WINDPLM-APP,603,,,20 mins 40 secs,,20 mins 40 secs,20.4
+Auto,8/12/2016,7:33:39,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,604,PLM-WINDPLM-DB,522,15 mins 2 secs,0 mins 44 secs,15 mins 47 secs,15.47
+Auto,8/12/2016,8:11:13,WINDPLM,QA3,Release_4_3,all,PLM-WINDPLM-APP,605,PLM-WINDPLM-DB,523,18 mins 39 secs,0 mins 49 secs,19 mins 29 secs,19.29
+Auto,8/12/2016,8:57:44,WINDPLM,DEV3,wind_dev_4_3_IB,all,PLM-WINDPLM-APP,606,PLM-WINDPLM-DB,524,19 mins 7 secs,0 mins 40 secs,19 mins 47 secs,19.47
+Auto,8/12/2016,9:53:56,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,607,PLM-WINDPLM-DB,525,15 mins 6 secs,0 mins 52 secs,15 mins 58 secs,15.58
+Manual,8/12/2016,12:21:55,ENERGYPLM,QA1,Release_6_1_10,all,PLM-ENERGYPLM-APP,310,PLM-ENERGYPLM-DB,235,14 mins 31 secs,0 mins 39 secs,15 mins 10 secs,15.1
+Auto,8/12/2016,13:50:54,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,608,PLM-WINDPLM-DB,526,12 mins 13 secs,0 mins 59 secs,13 mins 12 secs,13.12
+Manual,8/12/2016,15:10:21,ENERGYPLM,QA2,Release_6_0_91,app,PLM-ENERGYPLM-APP,311,,,25 mins 15 secs,,25 mins 15 secs,25.15
+Auto,8/12/2016,17:51:06,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,609,PLM-WINDPLM-DB,527,10 mins 13 secs,0 mins 44 secs,10 mins 58 secs,10.58
+Auto,8/12/2016,23:57:10,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,610,PLM-WINDPLM-DB,528,14 mins 58 secs,0 mins 44 secs,15 mins 43 secs,15.43
+Auto,8/13/2016,1:21:13,WINDPLM,QA2,Release_4_4,all,PLM-WINDPLM-APP,611,PLM-WINDPLM-DB,529,20 mins 41 secs,0 mins 43 secs,21 mins 24 secs,21.24
+Auto,8/13/2016,2:57:00,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,612,PLM-WINDPLM-DB,530,16 mins 7 secs,0 mins 58 secs,17 mins 5 secs,17.5
+Auto,8/13/2016,13:47:53,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,613,PLM-WINDPLM-DB,531,9 mins 29 secs,0 mins 52 secs,10 mins 22 secs,10.22
+Manual,8/15/2016,9:28:23,ENERGYPLM,QA2,Release_6_0_91,all,PLM-ENERGYPLM-APP,312,PLM-ENERGYPLM-DB,236,22 mins 44 secs,0 mins 43 secs,23 mins 27 secs,23.27
+Manual,8/15/2016,10:30:07,NuclearPLM,DEV16,Release_4_0,all,PLM-NuclearPLM-APP,21,PLM-NuclearPLM-DB,14,82 mins 34 secs,2 mins 24 secs,84 mins 58 secs,84.58
+Manual,8/15/2016,11:25:52,ENERGYPLM,QA2,Release_6_0_91,app,PLM-ENERGYPLM-APP,313,,,25 mins 40 secs,,25 mins 40 secs,25.4
+Manual,8/15/2016,13:16:55,ENERGYPLM,QA2,Release_6_0_91,db,PLM-ENERGYPLM-APP,314,PLM-ENERGYPLM-DB,237,11 mins 34 secs,0 mins 36 secs,12 mins 10 secs,12.1
+Manual,8/15/2016,17:31:13,ENERGYPLM,QA2,Release_6_0_91,db,PLM-ENERGYPLM-APP,315,PLM-ENERGYPLM-DB,238,8 mins 52 secs,0 mins 37 secs,9 mins 30 secs,9.3
+Manual,8/15/2016,18:22:40,ENERGYPLM,QA2,Release_6_0_91,db,PLM-ENERGYPLM-APP,316,PLM-ENERGYPLM-DB,239,9 mins 10 secs,0 mins 30 secs,9 mins 41 secs,9.41
+Auto,8/16/2016,0:24:20,WINDPLM,QA2,Release_4_4,all,PLM-WINDPLM-APP,614,PLM-WINDPLM-DB,532,23 mins 22 secs,0 mins 47 secs,24 mins 10 secs,24.1
+Manual,8/16/2016,0:53:48,ENERGYPLM,QA2,Release_6_0_91,db,PLM-ENERGYPLM-APP,317,PLM-ENERGYPLM-DB,240,10 mins 30 secs,0 mins 33 secs,11 mins 3 secs,11.3
+Manual,8/16/2016,5:29:46,ENERGYPLM,QA1,Release_6_1_10,db,PLM-ENERGYPLM-APP,318,PLM-ENERGYPLM-DB,241,28 mins 0 secs,0 mins 44 secs,28 mins 44 secs,28.44
+Auto,8/16/2016,7:00:54,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,615,PLM-WINDPLM-DB,533,20 mins 7 secs,0 mins 53 secs,21 mins 0 secs,21
+Auto,8/16/2016,7:18:47,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,616,PLM-WINDPLM-DB,534,18 mins 12 secs,0 mins 37 secs,18 mins 49 secs,18.49
+Auto,8/16/2016,7:34:26,WINDPLM,QA3,Release_4_3,db,PLM-WINDPLM-APP,617,PLM-WINDPLM-DB,535,15 mins 18 secs,0 mins 48 secs,16 mins 6 secs,16.6
+Auto,8/16/2016,9:01:49,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,618,PLM-WINDPLM-DB,536,19 mins 38 secs,0 mins 45 secs,20 mins 24 secs,20.24
+Manual,8/16/2016,9:02:07,ENERGYPLM,QA2,Release_6_0_91,db,PLM-ENERGYPLM-APP,319,PLM-ENERGYPLM-DB,242,28 mins 58 secs,1 mins 9 secs,30 mins 7 secs,30.7
+Manual,8/16/2016,9:58:22,ENERGYPLM,QA1,Release_6_1_10,db,PLM-ENERGYPLM-APP,320,PLM-ENERGYPLM-DB,243,26 mins 49 secs,0 mins 42 secs,27 mins 31 secs,27.31
+Auto,8/16/2016,9:59:47,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,619,PLM-WINDPLM-DB,537,18 mins 2 secs,0 mins 53 secs,18 mins 56 secs,18.56
+Auto,8/16/2016,12:03:09,WINDPLM,QA3,Release_4_3,db,PLM-WINDPLM-APP,621,PLM-WINDPLM-DB,538,15 mins 37 secs,0 mins 47 secs,16 mins 25 secs,16.25
+Manual,8/16/2016,12:31:54,ENERGYPLM,QA2,Release_6_0_91,all,PLM-ENERGYPLM-APP,321,PLM-ENERGYPLM-DB,244,26 mins 38 secs,0 mins 29 secs,27 mins 8 secs,27.8
+Auto,8/16/2016,14:04:25,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,622,PLM-WINDPLM-DB,539,24 mins 59 secs,1 mins 9 secs,26 mins 9 secs,26.9
+Manual,8/16/2016,14:43:00,NuclearPLM,DEV16,Release_4_0,all,PLM-NuclearPLM-APP,22,PLM-NuclearPLM-DB,15,77 mins 28 secs,1 mins 55 secs,79 mins 23 secs,79.23
+Manual,8/16/2016,14:54:40,ENERGYPLM,QA2,Release_6_0_91,db,PLM-ENERGYPLM-APP,322,PLM-ENERGYPLM-DB,245,9 mins 40 secs,0 mins 40 secs,10 mins 21 secs,10.21
+Auto,8/16/2016,17:51:53,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,623,PLM-WINDPLM-DB,540,10 mins 43 secs,0 mins 47 secs,11 mins 30 secs,11.3
+Auto,8/17/2016,0:00:17,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,624,PLM-WINDPLM-DB,541,16 mins 57 secs,0 mins 48 secs,17 mins 46 secs,17.46
+Auto,8/17/2016,0:46:41,WINDPLM,QA2,Release_4_4,all,PLM-WINDPLM-APP,625,PLM-WINDPLM-DB,542,20 mins 15 secs,0 mins 45 secs,21 mins 0 secs,21
+Auto,8/17/2016,1:39:35,WINDPLM,QA3,Release_4_3,db,PLM-WINDPLM-APP,626,PLM-WINDPLM-DB,543,24 mins 51 secs,1 mins 5 secs,25 mins 56 secs,25.56
+Manual,8/17/2016,2:39:11,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,627,PLM-WINDPLM-DB,544,26 mins 58 secs,0 mins 43 secs,27 mins 42 secs,27.42
+Auto,8/17/2016,3:02:04,WINDPLM,QA2,Release_4_4,app,PLM-WINDPLM-APP,628,,,0 mins 0 secs,,0 mins 0 secs,0
+Manual,8/17/2016,5:47:22,ENERGYPLM,QA1,Release_6_1_10,all,PLM-ENERGYPLM-APP,323,PLM-ENERGYPLM-DB,246,37 mins 23 secs,0 mins 34 secs,37 mins 57 secs,37.57
+Auto,8/17/2016,7:09:47,WINDPLM,DEV4,wind_dev_4_4,app,PLM-WINDPLM-APP,629,,,0 mins 0 secs,,0 mins 0 secs,0
+Manual,8/17/2016,7:56:42,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,42,PLM-POWERPLM-DB,31,101 mins 40 secs,1 mins 37 secs,103 mins 17 secs,103.17
+Auto,8/17/2016,9:03:49,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,630,PLM-WINDPLM-DB,545,21 mins 31 secs,0 mins 59 secs,22 mins 31 secs,22.31
+Auto,8/17/2016,10:00:49,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,631,PLM-WINDPLM-DB,546,20 mins 54 secs,1 mins 29 secs,22 mins 23 secs,22.23
+Auto,8/17/2016,10:59:59,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,632,PLM-WINDPLM-DB,547,19 mins 11 secs,0 mins 37 secs,19 mins 48 secs,19.48
+Auto,8/17/2016,12:06:56,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,633,PLM-WINDPLM-DB,548,15 mins 50 secs,0 mins 47 secs,16 mins 38 secs,16.38
+Manual,8/17/2016,12:43:22,WINDPLM,DEV4,wind_dev_4_4,app,PLM-WINDPLM-APP,634,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/17/2016,13:52:13,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,635,PLM-WINDPLM-DB,549,10 mins 49 secs,0 mins 58 secs,11 mins 48 secs,11.48
+Manual,8/17/2016,14:10:47,NuclearPLM,DEV16,Release_4_0,all,PLM-NuclearPLM-APP,23,PLM-NuclearPLM-DB,16,75 mins 31 secs,2 mins 15 secs,77 mins 46 secs,77.46
+Manual,8/17/2016,15:20:10,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,43,PLM-POWERPLM-DB,32,81 mins 8 secs,1 mins 31 secs,82 mins 40 secs,82.4
+Manual,8/17/2016,16:36:37,POWERPLM,DEV2,Release_1_0,all,PLM-POWERPLM-APP,44,PLM-POWERPLM-DB,33,76 mins 52 secs,1 mins 3 secs,77 mins 56 secs,77.56
+Auto,8/18/2016,1:36:18,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,636,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/18/2016,1:56:47,WINDPLM,QA2,Release_4_4,app,PLM-WINDPLM-APP,637,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/18/2016,2:04:16,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,638,PLM-WINDPLM-DB,550,6 mins 11 secs,0 mins 50 secs,7 mins 2 secs,7.2
+Auto,8/18/2016,6:59:36,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,639,PLM-WINDPLM-DB,551,17 mins 36 secs,0 mins 55 secs,18 mins 32 secs,18.32
+Auto,8/18/2016,7:17:10,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,640,PLM-WINDPLM-DB,552,17 mins 29 secs,0 mins 59 secs,18 mins 28 secs,18.28
+Auto,8/18/2016,9:01:41,WINDPLM,DEV3,wind_dev_4_3_IB,all,PLM-WINDPLM-APP,641,PLM-WINDPLM-DB,553,22 mins 19 secs,0 mins 53 secs,23 mins 12 secs,23.12
+Manual,8/18/2016,9:08:04,ENERGYPLM,QA1,Release_6_1_10,all,PLM-ENERGYPLM-APP,324,PLM-ENERGYPLM-DB,247,21 mins 30 secs,0 mins 54 secs,22 mins 25 secs,22.25
+Manual,8/18/2016,9:35:51,ENERGYPLM,QA2,Release_6_0_90_temp,all,PLM-ENERGYPLM-APP,325,PLM-ENERGYPLM-DB,248,27 mins 59 secs,0 mins 43 secs,28 mins 42 secs,28.42
+Auto,8/18/2016,10:44:29,WINDPLM,QA3,Release_4_3,all,PLM-WINDPLM-APP,642,PLM-WINDPLM-DB,554,21 mins 22 secs,0 mins 44 secs,22 mins 6 secs,22.6
+Auto,8/18/2016,10:59:17,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,643,PLM-WINDPLM-DB,555,14 mins 41 secs,0 mins 43 secs,15 mins 25 secs,15.25
+Manual,8/18/2016,13:23:29,POWERPLM,QA1,Release_1_0,app,PLM-POWERPLM-APP,45,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/18/2016,14:10:32,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,644,PLM-WINDPLM-DB,556,22 mins 42 secs,0 mins 54 secs,23 mins 36 secs,23.36
+Manual,8/18/2016,14:15:54,NuclearPLM,DEV16,Release_4_0,all,PLM-NuclearPLM-APP,24,PLM-NuclearPLM-DB,17,78 mins 59 secs,2 mins 20 secs,81 mins 20 secs,81.2
+Auto,8/18/2016,17:48:45,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,645,PLM-WINDPLM-DB,557,6 mins 42 secs,0 mins 56 secs,7 mins 38 secs,7.38
+Manual,8/18/2016,20:58:07,ENERGYPLM,QA1,Release_6_1_10,all,PLM-ENERGYPLM-APP,326,PLM-ENERGYPLM-DB,249,31 mins 29 secs,0 mins 35 secs,32 mins 5 secs,32.5
+Auto,8/19/2016,0:19:39,WINDPLM,QA2,Release_4_4,app,PLM-WINDPLM-APP,646,,,24 mins 22 secs,,24 mins 22 secs,24.22
+Auto,8/19/2016,0:26:57,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,647,PLM-WINDPLM-DB,558,6 mins 5 secs,0 mins 47 secs,6 mins 52 secs,6.52
+Auto,8/19/2016,5:50:08,WINDPLM,QA3,Release_4_3,db,PLM-WINDPLM-APP,648,PLM-WINDPLM-DB,559,16 mins 35 secs,0 mins 47 secs,17 mins 23 secs,17.23
+Auto,8/19/2016,6:40:18,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,649,PLM-WINDPLM-DB,560,19 mins 7 secs,1 mins 3 secs,20 mins 11 secs,20.11
+Auto,8/19/2016,6:59:03,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,650,PLM-WINDPLM-DB,561,15 mins 14 secs,1 mins 9 secs,16 mins 23 secs,16.23
+Manual,8/19/2016,7:10:41,ENERGYPLM,QA1,Release_6_1_10,all,PLM-ENERGYPLM-APP,327,PLM-ENERGYPLM-DB,250,20 mins 0 secs,0 mins 45 secs,20 mins 45 secs,20.45
+Auto,8/19/2016,7:19:48,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,651,PLM-WINDPLM-DB,562,21 mins 16 secs,0 mins 42 secs,21 mins 58 secs,21.58
+Auto,8/19/2016,9:58:02,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,652,PLM-WINDPLM-DB,563,18 mins 57 secs,0 mins 55 secs,19 mins 53 secs,19.53
+Manual,8/19/2016,10:43:27,ENERGYPLM,QA1,Release_6_1_10,all,PLM-ENERGYPLM-APP,328,PLM-ENERGYPLM-DB,251,15 mins 5 secs,0 mins 39 secs,15 mins 44 secs,15.44
+Auto,8/19/2016,10:56:41,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,653,PLM-WINDPLM-DB,564,15 mins 55 secs,0 mins 46 secs,16 mins 42 secs,16.42
+Manual,8/19/2016,11:17:17,ENERGYPLM,QA1,Release_6_1_10,app,PLM-ENERGYPLM-APP,329,,,14 mins 45 secs,,14 mins 45 secs,14.45
+Manual,8/19/2016,12:32:15,POWERPLM,QA1,Release_1_0,app,PLM-POWERPLM-APP,46,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/19/2016,14:02:53,WINDPLM,DEV4,wind_dev_4_4,app,PLM-WINDPLM-APP,655,,,23 mins 18 secs,,23 mins 18 secs,23.18
+Manual,8/19/2016,14:11:23,NuclearPLM,DEV16,Release_4_0,all,PLM-NuclearPLM-APP,25,PLM-NuclearPLM-DB,18,79 mins 25 secs,2 mins 39 secs,82 mins 4 secs,82.4
+Manual,8/19/2016,21:42:52,ENERGYPLM,QA1,Release_6_1_10,all,PLM-ENERGYPLM-APP,330,PLM-ENERGYPLM-DB,252,20 mins 16 secs,0 mins 38 secs,20 mins 54 secs,20.54
+Auto,8/20/2016,3:07:19,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,656,PLM-WINDPLM-DB,566,23 mins 42 secs,1 mins 2 secs,24 mins 45 secs,24.45
+Auto,8/20/2016,4:52:20,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,657,PLM-WINDPLM-DB,567,16 mins 8 secs,0 mins 51 secs,17 mins 0 secs,17
+Auto,8/20/2016,6:56:26,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,658,PLM-WINDPLM-DB,568,17 mins 11 secs,1 mins 1 secs,18 mins 13 secs,18.13
+Manual,8/20/2016,8:02:07,NuclearPLM,DEV16,Release_4_0,all,PLM-NuclearPLM-APP,26,PLM-NuclearPLM-DB,19,76 mins 56 secs,2 mins 23 secs,79 mins 19 secs,79.19
+Manual,8/22/2016,9:36:23,ENERGYPLM,QA1,Release_6_1_10,all,PLM-ENERGYPLM-APP,331,PLM-ENERGYPLM-DB,253,18 mins 44 secs,0 mins 34 secs,19 mins 18 secs,19.18
+Auto,8/22/2016,11:05:28,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,660,PLM-WINDPLM-DB,570,24 mins 28 secs,0 mins 45 secs,25 mins 14 secs,25.14
+Manual,8/22/2016,12:27:36,NuclearPLM,DEV16,Release_4_0,all,PLM-NuclearPLM-APP,28,PLM-NuclearPLM-DB,20,79 mins 9 secs,2 mins 31 secs,81 mins 41 secs,81.41
+Manual,8/22/2016,13:18:51,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,47,PLM-POWERPLM-DB,34,88 mins 4 secs,1 mins 30 secs,89 mins 35 secs,89.35
+Auto,8/22/2016,14:13:13,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,661,PLM-WINDPLM-DB,571,21 mins 54 secs,0 mins 59 secs,22 mins 54 secs,22.54
+Manual,8/22/2016,14:43:46,POWERPLM,DEV2,Release_1_0,all,PLM-POWERPLM-APP,48,PLM-POWERPLM-DB,35,80 mins 31 secs,1 mins 24 secs,81 mins 56 secs,81.56
+Manual,8/22/2016,17:31:00,ENERGYPLM,QA1,Release_6_1_10,all,PLM-ENERGYPLM-APP,334,PLM-ENERGYPLM-DB,254,15 mins 37 secs,0 mins 32 secs,16 mins 10 secs,16.1
+Auto,8/23/2016,0:40:41,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,662,PLM-WINDPLM-DB,572,19 mins 2 secs,0 mins 52 secs,19 mins 55 secs,19.55
+Auto,8/23/2016,0:45:44,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,663,PLM-WINDPLM-DB,573,5 mins 22 secs,0 mins 39 secs,6 mins 1 secs,6.1
+Manual,8/23/2016,1:29:08,ENERGYPLM,QA1,Release_6_1_10,db,PLM-ENERGYPLM-APP,335,PLM-ENERGYPLM-DB,255,10 mins 40 secs,0 mins 40 secs,11 mins 21 secs,11.21
+Auto,8/23/2016,1:45:16,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,664,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/23/2016,1:51:35,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,665,PLM-WINDPLM-DB,574,5 mins 4 secs,0 mins 39 secs,5 mins 43 secs,5.43
+Auto,8/23/2016,2:21:31,WINDPLM,QA2,Release_4_4,all,PLM-WINDPLM-APP,666,PLM-WINDPLM-DB,575,16 mins 43 secs,0 mins 37 secs,17 mins 20 secs,17.2
+Auto,8/23/2016,2:58:37,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,667,PLM-WINDPLM-DB,576,18 mins 3 secs,0 mins 38 secs,18 mins 42 secs,18.42
+Manual,8/23/2016,3:23:31,ENERGYPLM,QA1,Release_6_1_10,db,PLM-ENERGYPLM-APP,336,PLM-ENERGYPLM-DB,256,13 mins 23 secs,0 mins 38 secs,14 mins 1 secs,14.1
+Auto,8/23/2016,6:52:19,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,668,PLM-WINDPLM-DB,577,16 mins 39 secs,0 mins 46 secs,17 mins 25 secs,17.25
+Auto,8/23/2016,7:07:49,WINDPLM,DEV4,wind_dev_4_4,app,PLM-WINDPLM-APP,669,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/23/2016,9:36:02,WINDPLM,QA2,Release_4_4,app,PLM-WINDPLM-APP,673,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/23/2016,9:54:16,WINDPLM,DEV4,wind_dev_4_4,app,PLM-WINDPLM-APP,674,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/23/2016,10:55:50,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,675,PLM-WINDPLM-DB,578,16 mins 36 secs,0 mins 35 secs,17 mins 11 secs,17.11
+Auto,8/23/2016,12:00:47,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,676,PLM-WINDPLM-DB,579,24 mins 46 secs,0 mins 45 secs,25 mins 31 secs,25.31
+Manual,8/23/2016,12:46:32,NuclearPLM,DEV16,Release_4_0,all,PLM-NuclearPLM-APP,32,PLM-NuclearPLM-DB,23,80 mins 11 secs,2 mins 15 secs,82 mins 26 secs,82.26
+Auto,8/23/2016,14:06:09,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,677,PLM-WINDPLM-DB,580,24 mins 6 secs,0 mins 52 secs,24 mins 58 secs,24.58
+Manual,8/23/2016,14:36:42,POWERPLM,QA1,Release_1_0,app,PLM-POWERPLM-APP,49,,,0 mins 0 secs,,0 mins 0 secs,0
+Manual,8/23/2016,15:58:54,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,50,PLM-POWERPLM-DB,36,74 mins 33 secs,1 mins 29 secs,76 mins 3 secs,76.3
+Manual,8/23/2016,17:08:41,POWERPLM,DEV2,Release_1_0,all,PLM-POWERPLM-APP,51,PLM-POWERPLM-DB,37,70 mins 8 secs,1 mins 20 secs,71 mins 28 secs,71.28
+Auto,8/23/2016,17:47:16,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,678,PLM-WINDPLM-DB,581,6 mins 0 secs,1 mins 6 secs,7 mins 7 secs,7.7
+Manual,8/23/2016,19:31:41,POWERPLM,QA1,Release_1_0,app,PLM-POWERPLM-APP,52,,,0 mins 0 secs,,0 mins 0 secs,0
+Manual,8/23/2016,23:49:39,ENERGYPLM,QA1,Release_6_1_10,db,PLM-ENERGYPLM-APP,337,PLM-ENERGYPLM-DB,257,11 mins 25 secs,1 mins 0 secs,12 mins 25 secs,12.25
+Auto,8/24/2016,1:02:32,WINDPLM,QA2,Release_4_4,all,PLM-WINDPLM-APP,679,PLM-WINDPLM-DB,582,20 mins 8 secs,1 mins 2 secs,21 mins 10 secs,21.1
+Auto,8/24/2016,2:31:15,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,680,PLM-WINDPLM-DB,583,21 mins 21 secs,0 mins 53 secs,22 mins 14 secs,22.14
+Auto,8/24/2016,2:58:16,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,681,PLM-WINDPLM-DB,584,15 mins 55 secs,0 mins 42 secs,16 mins 37 secs,16.37
+Auto,8/24/2016,5:02:46,WINDPLM,QA2,Release_4_4,all,PLM-WINDPLM-APP,682,PLM-WINDPLM-DB,585,22 mins 32 secs,1 mins 2 secs,23 mins 34 secs,23.34
+Manual,8/24/2016,5:18:08,ENERGYPLM,QA1,Release_6_1_10,db,PLM-ENERGYPLM-APP,338,PLM-ENERGYPLM-DB,258,16 mins 24 secs,0 mins 53 secs,17 mins 17 secs,17.17
+Auto,8/24/2016,6:58:05,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,683,PLM-WINDPLM-DB,586,17 mins 34 secs,0 mins 50 secs,18 mins 25 secs,18.25
+Auto,8/24/2016,7:14:54,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,684,PLM-WINDPLM-DB,587,17 mins 15 secs,0 mins 37 secs,17 mins 53 secs,17.53
+Auto,8/24/2016,9:54:26,WINDPLM,DEV4,wind_dev_4_4,app,PLM-WINDPLM-APP,685,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/24/2016,10:54:03,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,686,PLM-WINDPLM-DB,588,13 mins 29 secs,0 mins 41 secs,14 mins 10 secs,14.1
+Manual,8/24/2016,13:50:00,POWERPLM,QA1,Release_1_0,all,PLM-POWERPLM-APP,54,PLM-POWERPLM-DB,38,78 mins 16 secs,1 mins 30 secs,79 mins 47 secs,79.47
+Manual,8/24/2016,14:00:43,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,33,PLM-NuclearPLM-DB,24,85 mins 15 secs,2 mins 32 secs,87 mins 48 secs,87.48
+Auto,8/24/2016,14:14:53,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,687,PLM-WINDPLM-DB,589,20 mins 8 secs,0 mins 49 secs,20 mins 57 secs,20.57
+Manual,8/24/2016,15:54:32,ENERGYPLM,DEV2,Release_6_0_90,all,PLM-ENERGYPLM-APP,339,PLM-ENERGYPLM-DB,259,36 mins 34 secs,0 mins 32 secs,37 mins 6 secs,37.6
+Manual,8/24/2016,15:56:25,POWERPLM,QA1,Release_1_0,all,PLM-POWERPLM-APP,55,PLM-POWERPLM-DB,39,80 mins 17 secs,1 mins 35 secs,81 mins 52 secs,81.52
+Manual,8/24/2016,16:07:05,NuclearPLM,QA,Release_4_0,db,PLM-NuclearPLM-APP,34,PLM-NuclearPLM-DB,25,40 mins 40 secs,2 mins 21 secs,43 mins 2 secs,43.2
+Auto,8/24/2016,17:56:00,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,688,PLM-WINDPLM-DB,590,12 mins 44 secs,1 mins 21 secs,14 mins 6 secs,14.6
+Manual,8/24/2016,19:46:19,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,35,PLM-NuclearPLM-DB,26,77 mins 30 secs,1 mins 30 secs,79 mins 0 secs,79
+Auto,8/25/2016,0:45:20,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,689,PLM-WINDPLM-DB,591,19 mins 26 secs,0 mins 48 secs,20 mins 15 secs,20.15
+Auto,8/25/2016,0:52:44,WINDPLM,QA2,Release_4_4,app,PLM-WINDPLM-APP,690,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/25/2016,2:59:46,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,691,PLM-WINDPLM-DB,592,22 mins 44 secs,0 mins 43 secs,23 mins 27 secs,23.27
+Manual,8/25/2016,3:17:18,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,56,PLM-POWERPLM-DB,40,93 mins 27 secs,1 mins 57 secs,95 mins 25 secs,95.25
+Auto,8/25/2016,3:26:19,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,692,PLM-WINDPLM-DB,593,26 mins 40 secs,0 mins 39 secs,27 mins 20 secs,27.2
+Manual,8/25/2016,4:44:09,POWERPLM,QA1,Release_1_0,all,PLM-POWERPLM-APP,57,PLM-POWERPLM-DB,41,80 mins 55 secs,1 mins 27 secs,82 mins 22 secs,82.22
+Auto,8/25/2016,5:26:24,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,693,PLM-WINDPLM-DB,594,15 mins 55 secs,0 mins 49 secs,16 mins 45 secs,16.45
+Auto,8/25/2016,7:10:10,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,695,PLM-WINDPLM-DB,596,16 mins 21 secs,0 mins 35 secs,16 mins 56 secs,16.56
+Manual,8/25/2016,8:25:42,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,36,PLM-NuclearPLM-DB,27,70 mins 26 secs,2 mins 8 secs,72 mins 34 secs,72.34
+Auto,8/25/2016,9:05:03,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,696,PLM-WINDPLM-DB,597,15 mins 36 secs,0 mins 51 secs,16 mins 27 secs,16.27
+Auto,8/25/2016,9:54:59,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,697,PLM-WINDPLM-DB,598,16 mins 55 secs,0 mins 51 secs,17 mins 47 secs,17.47
+Auto,8/25/2016,10:57:28,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,698,PLM-WINDPLM-DB,599,17 mins 3 secs,0 mins 37 secs,17 mins 41 secs,17.41
+Manual,8/25/2016,13:59:00,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,58,PLM-POWERPLM-DB,42,81 mins 18 secs,1 mins 24 secs,82 mins 43 secs,82.43
+Auto,8/25/2016,14:02:20,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,700,PLM-WINDPLM-DB,601,22 mins 0 secs,0 mins 58 secs,22 mins 58 secs,22.58
+Manual,8/25/2016,14:58:41,POWERPLM,QA1,Release_1_0,all,PLM-POWERPLM-APP,59,PLM-POWERPLM-DB,43,75 mins 24 secs,1 mins 24 secs,76 mins 48 secs,76.48
+Auto,8/25/2016,17:51:28,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,701,PLM-WINDPLM-DB,602,10 mins 49 secs,0 mins 46 secs,11 mins 35 secs,11.35
+Auto,8/26/2016,0:15:20,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,702,PLM-WINDPLM-DB,603,18 mins 52 secs,0 mins 49 secs,19 mins 42 secs,19.42
+Auto,8/26/2016,0:23:54,WINDPLM,QA2,Release_4_4,app,PLM-WINDPLM-APP,703,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/26/2016,0:52:46,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,704,PLM-WINDPLM-DB,604,6 mins 39 secs,0 mins 43 secs,7 mins 22 secs,7.22
+Auto,8/26/2016,1:01:44,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,705,PLM-WINDPLM-DB,605,5 mins 17 secs,0 mins 56 secs,6 mins 14 secs,6.14
+Auto,8/26/2016,2:58:40,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,706,PLM-WINDPLM-DB,606,15 mins 18 secs,0 mins 57 secs,16 mins 15 secs,16.15
+Auto,8/26/2016,3:12:10,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,707,PLM-WINDPLM-DB,607,13 mins 48 secs,0 mins 38 secs,14 mins 26 secs,14.26
+Manual,8/26/2016,3:55:29,ENERGYPLM,DEV1,Release_6_1_10,all,PLM-ENERGYPLM-APP,340,PLM-ENERGYPLM-DB,260,34 mins 51 secs,0 mins 34 secs,35 mins 25 secs,35.25
+Auto,8/26/2016,3:56:39,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,708,PLM-WINDPLM-DB,608,15 mins 30 secs,0 mins 43 secs,16 mins 13 secs,16.13
+Manual,8/26/2016,4:57:46,ENERGYPLM,DEV1,Release_6_1_10,db,PLM-ENERGYPLM-APP,341,PLM-ENERGYPLM-DB,261,10 mins 37 secs,0 mins 34 secs,11 mins 12 secs,11.12
+Auto,8/26/2016,5:22:37,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,709,PLM-WINDPLM-DB,609,16 mins 22 secs,0 mins 47 secs,17 mins 9 secs,17.9
+Manual,8/26/2016,5:33:02,ENERGYPLM,DEV1,Release_6_1_10,db,PLM-ENERGYPLM-APP,342,PLM-ENERGYPLM-DB,262,9 mins 12 secs,0 mins 32 secs,9 mins 45 secs,9.45
+Auto,8/26/2016,8:54:26,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,712,PLM-WINDPLM-DB,610,14 mins 15 secs,0 mins 49 secs,15 mins 5 secs,15.5
+Manual,8/26/2016,9:08:41,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,713,PLM-WINDPLM-DB,611,16 mins 42 secs,0 mins 41 secs,17 mins 24 secs,17.24
+Auto,8/26/2016,9:59:53,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,714,PLM-WINDPLM-DB,612,21 mins 57 secs,0 mins 50 secs,22 mins 48 secs,22.48
+Manual,8/26/2016,11:06:31,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,38,PLM-NuclearPLM-DB,28,64 mins 18 secs,2 mins 30 secs,66 mins 49 secs,66.49
+Manual,8/26/2016,13:36:23,POWERPLM,QA1,Release_1_0,all,PLM-POWERPLM-APP,61,PLM-POWERPLM-DB,45,68 mins 0 secs,1 mins 29 secs,69 mins 30 secs,69.3
+Auto,8/26/2016,13:50:08,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,717,PLM-WINDPLM-DB,614,10 mins 29 secs,0 mins 48 secs,11 mins 18 secs,11.18
+Manual,8/26/2016,15:04:52,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,39,PLM-NuclearPLM-DB,29,67 mins 18 secs,2 mins 34 secs,69 mins 52 secs,69.52
+Manual,8/26/2016,15:43:42,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,62,PLM-POWERPLM-DB,46,74 mins 45 secs,1 mins 35 secs,76 mins 21 secs,76.21
+Manual,8/26/2016,16:52:03,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,63,PLM-POWERPLM-DB,47,68 mins 43 secs,1 mins 2 secs,69 mins 46 secs,69.46
+Auto,8/27/2016,2:04:51,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,718,PLM-WINDPLM-DB,615,18 mins 23 secs,1 mins 6 secs,19 mins 30 secs,19.3
+Auto,8/27/2016,2:25:33,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,719,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/27/2016,2:50:40,WINDPLM,QA2,Release_4_4,app,PLM-WINDPLM-APP,720,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/27/2016,3:14:59,WINDPLM,DEV,wind_dev_4_5,app,PLM-WINDPLM-APP,721,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/27/2016,6:48:28,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,722,PLM-WINDPLM-DB,616,9 mins 37 secs,0 mins 39 secs,10 mins 16 secs,10.16
+Auto,8/27/2016,9:26:33,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,723,PLM-WINDPLM-DB,617,16 mins 56 secs,0 mins 36 secs,17 mins 33 secs,17.33
+Auto,8/29/2016,0:12:39,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,724,PLM-WINDPLM-DB,618,26 mins 0 secs,1 mins 34 secs,27 mins 34 secs,27.34
+Auto,8/29/2016,0:25:49,WINDPLM,QA2,Release_4_4,app,PLM-WINDPLM-APP,725,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/29/2016,1:38:46,AEROPLM,DEV,Dev_3_10_0,db,PLM-AEROPLM-APP,192,PLM-AEROPLM-DB,198,22 mins 38 secs,1 mins 59 secs,24 mins 37 secs,24.37
+Auto,8/29/2016,3:13:57,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,726,PLM-WINDPLM-DB,619,28 mins 52 secs,1 mins 4 secs,29 mins 56 secs,29.56
+Auto,8/29/2016,4:04:24,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,727,PLM-WINDPLM-DB,620,21 mins 46 secs,2 mins 18 secs,24 mins 4 secs,24.4
+Manual,8/29/2016,4:09:09,POWERPLM,QA1,Release_1_0,all,PLM-POWERPLM-APP,64,PLM-POWERPLM-DB,48,149 mins 49 secs,3 mins 16 secs,153 mins 6 secs,153.6
+Manual,8/29/2016,5:49:08,POWERPLM,DEV2,Release_1_0,all,PLM-POWERPLM-APP,65,PLM-POWERPLM-DB,49,101 mins 43 secs,1 mins 20 secs,103 mins 3 secs,103.3
+Auto,8/29/2016,6:57:32,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,728,PLM-WINDPLM-DB,621,18 mins 43 secs,0 mins 35 secs,19 mins 18 secs,19.18
+Manual,8/29/2016,8:21:41,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,40,PLM-NuclearPLM-DB,30,70 mins 48 secs,2 mins 17 secs,73 mins 6 secs,73.6
+Auto,8/29/2016,9:52:14,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,730,PLM-WINDPLM-DB,623,13 mins 58 secs,0 mins 57 secs,14 mins 55 secs,14.55
+Auto,8/29/2016,10:09:42,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,731,PLM-WINDPLM-DB,624,13 mins 32 secs,0 mins 52 secs,14 mins 24 secs,14.24
+Auto,8/29/2016,11:12:45,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,733,PLM-WINDPLM-DB,625,7 mins 28 secs,0 mins 44 secs,8 mins 13 secs,8.13
+Auto,8/29/2016,11:32:53,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,734,PLM-WINDPLM-DB,626,16 mins 53 secs,0 mins 38 secs,17 mins 32 secs,17.32
+Auto,8/29/2016,13:51:12,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,735,PLM-WINDPLM-DB,627,13 mins 11 secs,0 mins 52 secs,14 mins 3 secs,14.3
+Auto,8/29/2016,17:49:26,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,736,PLM-WINDPLM-DB,628,9 mins 12 secs,0 mins 49 secs,10 mins 2 secs,10.2
+Auto,8/29/2016,23:56:23,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,737,PLM-WINDPLM-DB,629,14 mins 28 secs,0 mins 59 secs,15 mins 28 secs,15.28
+Auto,8/30/2016,0:58:12,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,738,PLM-WINDPLM-DB,630,15 mins 56 secs,0 mins 46 secs,16 mins 43 secs,16.43
+Auto,8/30/2016,1:08:26,WINDPLM,QA2,Release_4_4,app,PLM-WINDPLM-APP,739,,,0 mins 0 secs,,0 mins 0 secs,0
+Manual,8/30/2016,3:21:36,ENERGYPLM,DEV1,Release_6_1_12,db,PLM-ENERGYPLM-APP,343,PLM-ENERGYPLM-DB,263,39 mins 24 secs,1 mins 2 secs,40 mins 26 secs,40.26
+Auto,8/30/2016,3:21:44,AEROPLM,DEV,Dev_3_10_0,all,PLM-AEROPLM-APP,193,PLM-AEROPLM-DB,199,18 mins 45 secs,0 mins 53 secs,19 mins 39 secs,19.39
+Auto,8/30/2016,3:34:56,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,741,PLM-WINDPLM-DB,631,20 mins 58 secs,0 mins 40 secs,21 mins 38 secs,21.38
+Auto,8/30/2016,3:51:55,WINDPLM,DEV4,wind_dev_4_4,app,PLM-WINDPLM-APP,742,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/30/2016,4:06:45,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,743,PLM-WINDPLM-DB,632,13 mins 45 secs,0 mins 42 secs,14 mins 28 secs,14.28
+Manual,8/30/2016,4:41:44,ENERGYPLM,QA1,Release_6_1_20,all,PLM-ENERGYPLM-APP,344,PLM-ENERGYPLM-DB,264,30 mins 0 secs,0 mins 28 secs,30 mins 29 secs,30.29
+Auto,8/30/2016,5:04:11,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,744,PLM-WINDPLM-DB,633,13 mins 56 secs,0 mins 49 secs,14 mins 45 secs,14.45
+Auto,8/30/2016,5:43:42,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,745,PLM-WINDPLM-DB,634,13 mins 39 secs,0 mins 39 secs,14 mins 19 secs,14.19
+Auto,8/30/2016,6:55:36,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,746,PLM-WINDPLM-DB,635,14 mins 17 secs,0 mins 53 secs,15 mins 10 secs,15.1
+Auto,8/30/2016,7:11:41,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,747,PLM-WINDPLM-DB,636,16 mins 35 secs,0 mins 35 secs,17 mins 11 secs,17.11
+Auto,8/30/2016,7:28:12,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,748,PLM-WINDPLM-DB,637,16 mins 26 secs,0 mins 37 secs,17 mins 3 secs,17.3
+Auto,8/30/2016,7:57:54,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,749,PLM-WINDPLM-DB,638,13 mins 19 secs,0 mins 39 secs,13 mins 58 secs,13.58
+Manual,8/30/2016,8:46:46,ENERGYPLM,QA1,Release_6_1_20,all,PLM-ENERGYPLM-APP,345,PLM-ENERGYPLM-DB,265,17 mins 22 secs,0 mins 29 secs,17 mins 52 secs,17.52
+Auto,8/30/2016,8:54:33,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,750,PLM-WINDPLM-DB,639,13 mins 51 secs,0 mins 40 secs,14 mins 31 secs,14.31
+Auto,8/30/2016,9:51:41,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,751,PLM-WINDPLM-DB,640,13 mins 30 secs,0 mins 50 secs,14 mins 21 secs,14.21
+Auto,8/30/2016,10:58:27,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,752,,,0 mins 0 secs,,0 mins 0 secs,0
+Manual,8/30/2016,11:19:46,ENERGYPLM,QA1,Release_6_1_20,db,PLM-ENERGYPLM-APP,346,PLM-ENERGYPLM-DB,266,12 mins 35 secs,0 mins 35 secs,13 mins 10 secs,13.1
+Manual,8/30/2016,12:51:15,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,41,PLM-NuclearPLM-DB,31,66 mins 22 secs,2 mins 5 secs,68 mins 27 secs,68.27
+Auto,8/30/2016,14:02:13,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,754,PLM-WINDPLM-DB,642,22 mins 28 secs,1 mins 0 secs,23 mins 29 secs,23.29
+Manual,8/30/2016,14:09:57,ENERGYPLM,DEV1,Release_6_1_12,all,PLM-ENERGYPLM-APP,347,PLM-ENERGYPLM-DB,267,33 mins 45 secs,0 mins 28 secs,34 mins 14 secs,34.14
+Auto,8/31/2016,0:54:49,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,755,PLM-WINDPLM-DB,643,18 mins 46 secs,0 mins 52 secs,19 mins 39 secs,19.39
+Auto,8/31/2016,1:03:33,WINDPLM,QA2,Release_4_4,app,PLM-WINDPLM-APP,756,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/31/2016,3:00:57,WINDPLM,DEV4,wind_dev_4_4,app,PLM-WINDPLM-APP,757,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/31/2016,3:19:56,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,758,PLM-WINDPLM-DB,644,18 mins 6 secs,0 mins 39 secs,18 mins 46 secs,18.46
+Auto,8/31/2016,3:38:34,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,759,PLM-WINDPLM-DB,645,17 mins 49 secs,0 mins 42 secs,18 mins 31 secs,18.31
+Auto,8/31/2016,3:56:56,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,760,PLM-WINDPLM-DB,646,15 mins 35 secs,0 mins 54 secs,16 mins 30 secs,16.3
+Manual,8/31/2016,4:31:23,ENERGYPLM,QA1,Release_6_1_20,app,PLM-ENERGYPLM-APP,348,,,34 mins 20 secs,,34 mins 20 secs,34.2
+Auto,8/31/2016,6:28:51,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,761,PLM-WINDPLM-DB,647,13 mins 56 secs,0 mins 52 secs,14 mins 48 secs,14.48
+Auto,8/31/2016,6:53:09,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,762,PLM-WINDPLM-DB,648,13 mins 21 secs,0 mins 57 secs,14 mins 18 secs,14.18
+Auto,8/31/2016,7:05:51,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,763,PLM-WINDPLM-DB,649,13 mins 0 secs,0 mins 40 secs,13 mins 40 secs,13.4
+Auto,8/31/2016,8:53:27,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,764,PLM-WINDPLM-DB,650,16 mins 39 secs,0 mins 47 secs,17 mins 27 secs,17.27
+Auto,8/31/2016,9:12:24,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,765,PLM-WINDPLM-DB,651,18 mins 44 secs,0 mins 52 secs,19 mins 36 secs,19.36
+Auto,8/31/2016,9:54:22,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,766,PLM-WINDPLM-DB,652,15 mins 12 secs,1 mins 13 secs,16 mins 26 secs,16.26
+Manual,8/31/2016,10:23:56,ENERGYPLM,QA1,Release_6_1_12,db,PLM-ENERGYPLM-APP,349,PLM-ENERGYPLM-DB,268,25 mins 17 secs,0 mins 48 secs,26 mins 6 secs,26.6
+Manual,8/31/2016,11:15:18,POWERPLM,DEV2,Release_1_0,db,PLM-POWERPLM-APP,66,PLM-POWERPLM-DB,50,57 mins 24 secs,1 mins 36 secs,59 mins 0 secs,59
+Manual,8/31/2016,11:15:34,ENERGYPLM,QA1,Release_6_1_20,all,PLM-ENERGYPLM-APP,350,PLM-ENERGYPLM-DB,269,34 mins 58 secs,0 mins 35 secs,35 mins 34 secs,35.34
+Manual,8/31/2016,11:58:18,WINDPLM,QA3,wind_dev_4_3_IB,all,PLM-WINDPLM-APP,767,PLM-WINDPLM-DB,653,22 mins 44 secs,1 mins 8 secs,23 mins 52 secs,23.52
+Auto,8/31/2016,12:12:46,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,768,PLM-WINDPLM-DB,654,14 mins 47 secs,0 mins 42 secs,15 mins 29 secs,15.29
+Manual,8/31/2016,12:20:05,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,43,PLM-NuclearPLM-DB,33,74 mins 42 secs,2 mins 23 secs,77 mins 5 secs,77.5
+Auto,8/31/2016,13:56:40,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,769,PLM-WINDPLM-DB,655,18 mins 33 secs,0 mins 47 secs,19 mins 21 secs,19.21
+Manual,8/31/2016,16:38:55,ENERGYPLM,QA1,Release_6_1_20,all,PLM-ENERGYPLM-APP,351,PLM-ENERGYPLM-DB,270,16 mins 46 secs,0 mins 37 secs,17 mins 24 secs,17.24
+Auto,8/31/2016,17:50:25,WINDPLM,DEV4,wind_dev_4_4,app,PLM-WINDPLM-APP,770,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,8/31/2016,23:50:00,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,771,PLM-WINDPLM-DB,656,18 mins 55 secs,0 mins 56 secs,19 mins 51 secs,19.51
+Auto,9/1/2016,0:05:59,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,772,PLM-WINDPLM-DB,657,15 mins 55 secs,0 mins 53 secs,16 mins 48 secs,16.48
+Auto,9/1/2016,0:25:11,WINDPLM,QA2,Release_4_4,app,PLM-WINDPLM-APP,773,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,9/1/2016,2:29:51,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,774,PLM-WINDPLM-DB,658,24 mins 30 secs,1 mins 5 secs,25 mins 35 secs,25.35
+Auto,9/1/2016,2:39:42,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,775,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,9/1/2016,3:12:31,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,776,PLM-WINDPLM-DB,659,27 mins 2 secs,4 mins 21 secs,31 mins 23 secs,31.23
+Manual,9/1/2016,3:17:08,POWERPLM,DEV2,Release_1_0,all,PLM-POWERPLM-APP,67,PLM-POWERPLM-DB,51,101 mins 45 secs,3 mins 0 secs,104 mins 45 secs,104.45
+Auto,9/1/2016,3:59:19,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,777,PLM-WINDPLM-DB,660,16 mins 47 secs,0 mins 43 secs,17 mins 30 secs,17.3
+Auto,9/1/2016,6:55:34,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,778,PLM-WINDPLM-DB,661,13 mins 36 secs,0 mins 53 secs,14 mins 30 secs,14.3
+Auto,9/1/2016,7:08:56,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,779,PLM-WINDPLM-DB,662,13 mins 18 secs,0 mins 42 secs,14 mins 0 secs,14
+Auto,9/1/2016,8:56:54,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,780,PLM-WINDPLM-DB,663,14 mins 41 secs,1 mins 1 secs,15 mins 42 secs,15.42
+Manual,9/1/2016,9:15:20,WINDPLM,QA3,wind_dev_4_3_IB,all,PLM-WINDPLM-APP,781,PLM-WINDPLM-DB,664,11 mins 13 secs,0 mins 41 secs,11 mins 55 secs,11.55
+Manual,9/1/2016,9:19:34,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,44,PLM-NuclearPLM-DB,34,79 mins 44 secs,2 mins 28 secs,82 mins 13 secs,82.13
+Auto,9/1/2016,9:56:12,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,782,PLM-WINDPLM-DB,665,18 mins 20 secs,0 mins 50 secs,19 mins 10 secs,19.1
+Manual,9/1/2016,10:14:07,WINDPLM,QA3,wind_dev_4_3_IB,all,PLM-WINDPLM-APP,783,PLM-WINDPLM-DB,666,17 mins 50 secs,0 mins 41 secs,18 mins 31 secs,18.31
+Auto,9/1/2016,10:56:14,WINDPLM,DEV,wind_dev_4_5,app,PLM-WINDPLM-APP,784,,,0 mins 0 secs,,0 mins 0 secs,0
+Manual,9/1/2016,11:51:55,WINDPLM,DEV,Release_4_3,db,PLM-WINDPLM-APP,785,PLM-WINDPLM-DB,667,14 mins 43 secs,0 mins 45 secs,15 mins 29 secs,15.29
+Manual,9/1/2016,12:54:56,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,45,PLM-NuclearPLM-DB,35,66 mins 57 secs,1 mins 49 secs,68 mins 46 secs,68.46
+Auto,9/1/2016,13:57:10,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,786,PLM-WINDPLM-DB,668,19 mins 6 secs,0 mins 52 secs,19 mins 59 secs,19.59
+Manual,9/1/2016,15:22:13,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,68,PLM-POWERPLM-DB,52,77 mins 14 secs,1 mins 28 secs,78 mins 42 secs,78.42
+Manual,9/1/2016,16:35:53,POWERPLM,QA1,Release_1_0,all,PLM-POWERPLM-APP,69,PLM-POWERPLM-DB,53,74 mins 21 secs,1 mins 39 secs,76 mins 1 secs,76.1
+Auto,9/1/2016,17:50:20,WINDPLM,DEV4,wind_dev_4_4,app,PLM-WINDPLM-APP,787,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,9/1/2016,23:56:49,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,788,PLM-WINDPLM-DB,669,14 mins 53 secs,0 mins 45 secs,15 mins 38 secs,15.38
+Auto,9/2/2016,0:50:46,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,789,PLM-WINDPLM-DB,670,14 mins 35 secs,0 mins 51 secs,15 mins 27 secs,15.27
+Auto,9/2/2016,1:29:12,WINDPLM,QA2,Release_4_4,app,PLM-WINDPLM-APP,790,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,9/2/2016,1:43:44,AEROPLM,DEV,Dev_3_10_0,db,PLM-AEROPLM-APP,194,PLM-AEROPLM-DB,200,7 mins 28 secs,1 mins 32 secs,9 mins 0 secs,9
+Auto,9/2/2016,1:55:44,AEROPLM,DEV,Dev_3_10_0,app,PLM-AEROPLM-APP,195,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,9/2/2016,2:59:15,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,791,PLM-WINDPLM-DB,671,17 mins 31 secs,0 mins 36 secs,18 mins 8 secs,18.8
+Auto,9/2/2016,3:56:31,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,792,PLM-WINDPLM-DB,672,16 mins 40 secs,0 mins 51 secs,17 mins 31 secs,17.31
+Auto,9/2/2016,6:14:51,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,793,PLM-WINDPLM-DB,673,13 mins 56 secs,1 mins 45 secs,15 mins 41 secs,15.41
+Auto,9/2/2016,6:51:43,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,794,PLM-WINDPLM-DB,674,13 mins 24 secs,0 mins 57 secs,14 mins 21 secs,14.21
+Manual,9/2/2016,7:05:40,WINDPLM,DEV,Release_4_3,db,PLM-WINDPLM-APP,795,PLM-WINDPLM-DB,675,14 mins 16 secs,0 mins 42 secs,14 mins 59 secs,14.59
+Manual,9/2/2016,7:43:09,WINDPLM,DEV,Release_4_3,db,PLM-WINDPLM-APP,796,PLM-WINDPLM-DB,676,6 mins 9 secs,0 mins 39 secs,6 mins 49 secs,6.49
+Manual,9/2/2016,8:09:08,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,46,PLM-NuclearPLM-DB,36,71 mins 20 secs,2 mins 34 secs,73 mins 55 secs,73.55
+Manual,9/2/2016,8:32:23,WINDPLM,DEV,Release_4_3,db,PLM-WINDPLM-APP,797,PLM-WINDPLM-DB,677,5 mins 53 secs,0 mins 39 secs,6 mins 32 secs,6.32
+Auto,9/2/2016,8:51:46,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,798,PLM-WINDPLM-DB,678,14 mins 21 secs,0 mins 45 secs,15 mins 6 secs,15.6
+Manual,9/2/2016,9:45:16,PGSLM,QA,Release_1_2,all,PLM-PGSLM-APP,29,PLM-PGSLM-DB,18,37 mins 43 secs,2 mins 1 secs,39 mins 45 secs,39.45
+Manual,9/2/2016,9:54:56,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,799,PLM-WINDPLM-DB,679,20 mins 24 secs,0 mins 39 secs,21 mins 3 secs,21.3
+Manual,9/2/2016,13:21:26,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,47,PLM-NuclearPLM-DB,37,102 mins 24 secs,2 mins 32 secs,104 mins 57 secs,104.57
+Manual,9/2/2016,13:22:13,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,70,PLM-POWERPLM-DB,54,114 mins 9 secs,3 mins 31 secs,117 mins 40 secs,117.4
+Manual,9/2/2016,14:39:47,POWERPLM,QA1,Release_1_0,all,PLM-POWERPLM-APP,71,PLM-POWERPLM-DB,55,69 mins 37 secs,1 mins 34 secs,71 mins 11 secs,71.11
+Manual,9/6/2016,10:40:24,WINDPLM,QA,Release_4_3,db,PLM-WINDPLM-APP,803,PLM-WINDPLM-DB,682,8 mins 17 secs,1 mins 0 secs,9 mins 18 secs,9.18
+Auto,9/6/2016,11:13:07,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,804,PLM-WINDPLM-DB,683,27 mins 58 secs,0 mins 55 secs,28 mins 54 secs,28.54
+Manual,9/6/2016,12:06:49,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,50,PLM-NuclearPLM-DB,39,86 mins 14 secs,1 mins 54 secs,88 mins 8 secs,88.8
+Manual,9/6/2016,13:04:57,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,72,PLM-POWERPLM-DB,56,84 mins 50 secs,1 mins 35 secs,86 mins 26 secs,86.26
+Auto,9/6/2016,14:00:05,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,805,PLM-WINDPLM-DB,684,21 mins 50 secs,0 mins 49 secs,22 mins 39 secs,22.39
+Auto,9/7/2016,0:04:22,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,806,PLM-WINDPLM-DB,685,17 mins 59 secs,1 mins 12 secs,19 mins 11 secs,19.11
+Auto,9/7/2016,0:14:24,WINDPLM,QA2,Release_4_4,app,PLM-WINDPLM-APP,807,,,11 mins 32 secs,,11 mins 32 secs,11.32
+Auto,9/7/2016,3:04:54,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,808,PLM-WINDPLM-DB,686,20 mins 55 secs,0 mins 40 secs,21 mins 35 secs,21.35
+Auto,9/7/2016,6:32:21,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,809,PLM-WINDPLM-DB,687,19 mins 45 secs,0 mins 46 secs,20 mins 31 secs,20.31
+Auto,9/7/2016,7:05:09,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,810,PLM-WINDPLM-DB,688,22 mins 48 secs,0 mins 45 secs,23 mins 34 secs,23.34
+Manual,9/7/2016,7:55:02,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,51,PLM-NuclearPLM-DB,40,80 mins 15 secs,2 mins 34 secs,82 mins 50 secs,82.5
+Auto,9/7/2016,8:13:20,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,811,PLM-WINDPLM-DB,689,16 mins 34 secs,0 mins 51 secs,17 mins 26 secs,17.26
+Auto,9/7/2016,10:00:48,AEROPLM,QA,Release_3_10_0,all,PLM-AEROPLM-APP,196,PLM-AEROPLM-DB,201,24 mins 8 secs,1 mins 4 secs,25 mins 12 secs,25.12
+Auto,9/7/2016,10:58:49,WINDPLM,DEV,wind_dev_4_5,app,PLM-WINDPLM-APP,812,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,9/7/2016,12:24:03,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,813,PLM-WINDPLM-DB,690,17 mins 27 secs,0 mins 40 secs,18 mins 7 secs,18.7
+Auto,9/7/2016,13:53:37,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,814,PLM-WINDPLM-DB,691,13 mins 47 secs,0 mins 54 secs,14 mins 42 secs,14.42
+Manual,9/7/2016,14:55:35,ENERGYPLM,DEV1,Release_6_1_15,all,PLM-ENERGYPLM-APP,361,PLM-ENERGYPLM-DB,277,17 mins 40 secs,0 mins 29 secs,18 mins 10 secs,18.1
+Manual,9/7/2016,16:10:46,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,73,PLM-POWERPLM-DB,57,83 mins 49 secs,1 mins 38 secs,85 mins 27 secs,85.27
+Manual,9/7/2016,17:26:35,POWERPLM,QA1,Release_1_0,all,PLM-POWERPLM-APP,74,PLM-POWERPLM-DB,58,75 mins 56 secs,1 mins 35 secs,77 mins 31 secs,77.31
+Auto,9/8/2016,2:33:07,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,815,PLM-WINDPLM-DB,692,20 mins 34 secs,0 mins 42 secs,21 mins 16 secs,21.16
+Auto,9/8/2016,2:59:46,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,816,PLM-WINDPLM-DB,693,17 mins 1 secs,0 mins 45 secs,17 mins 46 secs,17.46
+Manual,9/8/2016,5:39:10,ENERGYPLM,QA1,Release_6_1_20,db,PLM-ENERGYPLM-APP,362,PLM-ENERGYPLM-DB,278,25 mins 36 secs,0 mins 43 secs,26 mins 20 secs,26.2
+Auto,9/8/2016,6:49:01,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,817,PLM-WINDPLM-DB,694,9 mins 32 secs,0 mins 39 secs,10 mins 11 secs,10.11
+Manual,9/8/2016,7:45:54,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,52,PLM-NuclearPLM-DB,41,69 mins 13 secs,2 mins 7 secs,71 mins 20 secs,71.2
+Manual,9/8/2016,7:58:44,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,818,PLM-WINDPLM-DB,695,5 mins 49 secs,0 mins 42 secs,6 mins 32 secs,6.32
+Auto,9/8/2016,10:50:43,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,819,PLM-WINDPLM-DB,696,10 mins 52 secs,0 mins 40 secs,11 mins 32 secs,11.32
+Manual,9/9/2016,2:30:12,ENERGYPLM,QA1,Release_6_1_20,all,PLM-ENERGYPLM-APP,363,PLM-ENERGYPLM-DB,279,23 mins 50 secs,0 mins 36 secs,24 mins 26 secs,24.26
+Auto,9/9/2016,2:52:11,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,820,PLM-WINDPLM-DB,697,11 mins 3 secs,0 mins 38 secs,11 mins 41 secs,11.41
+Manual,9/9/2016,3:15:09,ENERGYPLM,QA1,Release_6_1_20,db,PLM-ENERGYPLM-APP,364,PLM-ENERGYPLM-DB,280,8 mins 42 secs,0 mins 32 secs,9 mins 15 secs,9.15
+Auto,9/9/2016,6:22:48,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,821,PLM-WINDPLM-DB,698,15 mins 37 secs,0 mins 40 secs,16 mins 17 secs,16.17
+Auto,9/9/2016,7:00:25,WINDPLM,DEV,wind_dev_4_5,app,PLM-WINDPLM-APP,822,,,0 mins 0 secs,,0 mins 0 secs,0
+Manual,9/9/2016,7:45:06,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,53,PLM-NuclearPLM-DB,42,70 mins 23 secs,2 mins 2 secs,72 mins 25 secs,72.25
+Manual,9/9/2016,9:16:06,ENERGYPLM,QA1,Release_6_1_20,all,PLM-ENERGYPLM-APP,366,PLM-ENERGYPLM-DB,282,2 mins 50 secs,0 mins 16 secs,3 mins 6 secs,3.6
+Manual,9/9/2016,11:47:53,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,54,PLM-NuclearPLM-DB,43,23 mins 21 secs,0 mins 32 secs,23 mins 53 secs,23.53
+Manual,9/9/2016,12:20:55,ENERGYPLM,DEV1,Release_6_1_15,all,PLM-ENERGYPLM-APP,367,PLM-ENERGYPLM-DB,283,10 mins 7 secs,0 mins 18 secs,10 mins 26 secs,10.26
+Manual,9/9/2016,13:14:22,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,75,PLM-POWERPLM-DB,59,82 mins 30 secs,1 mins 48 secs,84 mins 19 secs,84.19
+Manual,9/9/2016,13:34:00,ENERGYPLM,QA1,Release_6_1_20,db,PLM-ENERGYPLM-APP,368,PLM-ENERGYPLM-DB,284,11 mins 44 secs,0 mins 40 secs,12 mins 25 secs,12.25
+Manual,9/9/2016,14:01:37,POWERPLM,QA1,Release_1_0,all,PLM-POWERPLM-APP,76,PLM-POWERPLM-DB,60,0 mins 0 secs,0 mins 33 secs,0 mins 33 secs,0.33
+Auto,9/9/2016,23:48:06,WINDPLM,DEV3,wind_dev_4_3_IB,db,PLM-WINDPLM-APP,823,PLM-WINDPLM-DB,699,5 mins 2 secs,0 mins 33 secs,5 mins 35 secs,5.35
+Auto,9/10/2016,10:46:25,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,824,PLM-WINDPLM-DB,700,6 mins 58 secs,0 mins 20 secs,7 mins 18 secs,7.18
+Manual,9/11/2016,7:32:27,WINDPLM,QA2,Release_4_5,all,PLM-WINDPLM-APP,825,PLM-WINDPLM-DB,701,8 mins 34 secs,0 mins 31 secs,9 mins 5 secs,9.5
+Manual,9/11/2016,7:33:13,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,55,PLM-NuclearPLM-DB,44,15 mins 0 secs,0 mins 36 secs,15 mins 37 secs,15.37
+Auto,9/11/2016,7:44:37,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,826,PLM-WINDPLM-DB,702,6 mins 35 secs,0 mins 24 secs,6 mins 59 secs,6.59
+Manual,9/11/2016,7:48:08,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,56,PLM-NuclearPLM-DB,45,14 mins 28 secs,0 mins 34 secs,15 mins 3 secs,15.3
+Manual,9/11/2016,8:25:42,WINDPLM,QA2,Release_4_4,all,PLM-WINDPLM-APP,827,PLM-WINDPLM-DB,703,6 mins 33 secs,0 mins 21 secs,6 mins 55 secs,6.55
+Manual,9/12/2016,1:46:30,ENERGYPLM,DEV1,Release_6_1_15,all,PLM-ENERGYPLM-APP,369,PLM-ENERGYPLM-DB,285,8 mins 34 secs,0 mins 22 secs,8 mins 57 secs,8.57
+Auto,9/12/2016,2:16:02,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,828,,,6 mins 36 secs,,6 mins 36 secs,6.36
+Auto,9/12/2016,2:19:59,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,829,PLM-WINDPLM-DB,704,1 mins 30 secs,0 mins 21 secs,1 mins 51 secs,1.51
+Auto,9/12/2016,2:46:20,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,830,PLM-WINDPLM-DB,705,5 mins 7 secs,0 mins 23 secs,5 mins 30 secs,5.3
+Auto,9/12/2016,3:38:22,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,831,PLM-WINDPLM-DB,706,5 mins 14 secs,0 mins 22 secs,5 mins 36 secs,5.36
+Auto,9/12/2016,6:04:10,AEROPLM,DEV,Dev_3_10_0,db,PLM-AEROPLM-APP,197,PLM-AEROPLM-DB,202,3 mins 17 secs,0 mins 44 secs,4 mins 1 secs,4.1
+Auto,9/12/2016,6:46:15,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,832,PLM-WINDPLM-DB,707,7 mins 12 secs,0 mins 36 secs,7 mins 48 secs,7.48
+Manual,9/12/2016,6:46:39,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,57,PLM-NuclearPLM-DB,46,16 mins 23 secs,0 mins 35 secs,16 mins 59 secs,16.59
+Manual,9/12/2016,7:00:13,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,58,PLM-NuclearPLM-DB,47,13 mins 34 secs,0 mins 38 secs,14 mins 12 secs,14.12
+Auto,9/12/2016,7:44:51,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,833,PLM-WINDPLM-DB,708,5 mins 33 secs,0 mins 39 secs,6 mins 13 secs,6.13
+Auto,9/12/2016,8:32:34,AEROPLM,QA,Release_3_10_0,db,PLM-AEROPLM-APP,198,PLM-AEROPLM-DB,203,5 mins 55 secs,0 mins 43 secs,6 mins 38 secs,6.38
+Manual,9/12/2016,8:33:50,ENERGYPLM,QA1,Release_6_1_20,db,PLM-ENERGYPLM-APP,370,PLM-ENERGYPLM-DB,286,8 mins 22 secs,0 mins 33 secs,8 mins 55 secs,8.55
+Auto,9/12/2016,9:34:51,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,834,PLM-WINDPLM-DB,709,1 mins 38 secs,0 mins 31 secs,2 mins 10 secs,2.1
+Auto,9/12/2016,10:07:04,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,835,PLM-WINDPLM-DB,710,6 mins 58 secs,0 mins 22 secs,7 mins 21 secs,7.21
+Auto,9/12/2016,10:08:42,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,836,,,2 mins 12 secs,,2 mins 12 secs,2.12
+Auto,9/12/2016,10:41:08,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,837,PLM-WINDPLM-DB,711,6 mins 14 secs,0 mins 20 secs,6 mins 35 secs,6.35
+Manual,9/12/2016,11:33:58,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,59,PLM-NuclearPLM-DB,48,14 mins 31 secs,0 mins 32 secs,15 mins 4 secs,15.4
+Manual,9/12/2016,12:42:37,ENERGYPLM,QA1,Release_6_1_20,all,PLM-ENERGYPLM-APP,371,PLM-ENERGYPLM-DB,287,3 mins 53 secs,0 mins 19 secs,4 mins 12 secs,4.12
+Auto,9/12/2016,13:39:21,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,838,PLM-WINDPLM-DB,712,5 mins 47 secs,0 mins 41 secs,6 mins 28 secs,6.28
+Manual,9/12/2016,16:03:33,POWERPLM,BF,Release_1_0,all,PLM-POWERPLM-APP,78,PLM-POWERPLM-DB,61,0 mins 0 secs,0 mins 31 secs,0 mins 31 secs,0.31
+Manual,9/12/2016,17:14:41,POWERPLM,BF,Release_1_0,db,PLM-POWERPLM-APP,79,PLM-POWERPLM-DB,62,11 mins 50 secs,0 mins 29 secs,12 mins 20 secs,12.2
+Manual,9/12/2016,17:29:45,POWERPLM,DEV2,Release_1_0,all,PLM-POWERPLM-APP,80,PLM-POWERPLM-DB,63,15 mins 45 secs,0 mins 31 secs,16 mins 17 secs,16.17
+Manual,9/12/2016,17:44:17,ENERGYPLM,DEV1,Release_6_1_15,db,PLM-ENERGYPLM-APP,374,PLM-ENERGYPLM-DB,289,2 mins 14 secs,0 mins 17 secs,2 mins 32 secs,2.32
+Auto,9/13/2016,6:35:08,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,839,PLM-WINDPLM-DB,713,1 mins 41 secs,0 mins 33 secs,2 mins 15 secs,2.15
+Manual,9/13/2016,6:46:29,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,60,PLM-NuclearPLM-DB,49,14 mins 50 secs,0 mins 35 secs,15 mins 25 secs,15.25
+Manual,9/13/2016,11:25:09,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,61,PLM-NuclearPLM-DB,50,13 mins 48 secs,0 mins 35 secs,14 mins 24 secs,14.24
+Auto,9/13/2016,13:35:33,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,840,PLM-WINDPLM-DB,714,1 mins 57 secs,0 mins 34 secs,2 mins 32 secs,2.32
+Manual,9/13/2016,13:37:40,ENERGYPLM,QA1,Release_6_1_20,all,PLM-ENERGYPLM-APP,375,PLM-ENERGYPLM-DB,290,8 mins 52 secs,0 mins 18 secs,9 mins 11 secs,9.11
+Manual,9/13/2016,15:12:52,WINDPLM,QA2,Release_4_4,all,PLM-WINDPLM-APP,841,PLM-WINDPLM-DB,715,6 mins 47 secs,0 mins 28 secs,7 mins 16 secs,7.16
+Manual,9/13/2016,15:24:16,PGSLM,QA2,Release_1_2,all,PLM-PGSLM-APP,30,PLM-PGSLM-DB,19,0 mins 0 secs,0 mins 31 secs,0 mins 31 secs,0.31
+Manual,9/13/2016,15:50:36,PGSLM,QA2,Release_1_2,all,PLM-PGSLM-APP,31,PLM-PGSLM-DB,20,0 mins 0 secs,0 mins 34 secs,0 mins 34 secs,0.34
+Auto,9/14/2016,2:09:13,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,842,PLM-WINDPLM-DB,716,1 mins 37 secs,0 mins 26 secs,2 mins 4 secs,2.4
+Auto,9/14/2016,2:42:04,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,843,PLM-WINDPLM-DB,717,6 mins 17 secs,0 mins 20 secs,6 mins 38 secs,6.38
+Auto,9/14/2016,2:50:32,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,844,PLM-WINDPLM-DB,718,5 mins 18 secs,0 mins 23 secs,5 mins 41 secs,5.41
+Auto,9/14/2016,6:11:29,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,845,PLM-WINDPLM-DB,719,6 mins 39 secs,0 mins 20 secs,7 mins 0 secs,7
+Auto,9/14/2016,6:42:56,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,846,PLM-WINDPLM-DB,720,8 mins 50 secs,0 mins 20 secs,9 mins 11 secs,9.11
+Manual,9/14/2016,6:48:54,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,62,PLM-NuclearPLM-DB,51,16 mins 7 secs,0 mins 31 secs,16 mins 38 secs,16.38
+Auto,9/14/2016,9:39:07,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,847,PLM-WINDPLM-DB,721,5 mins 39 secs,0 mins 44 secs,6 mins 24 secs,6.24
+Manual,9/14/2016,10:45:11,PGSLM,QA2,Release_1_2,all,PLM-PGSLM-APP,32,PLM-PGSLM-DB,21,13 mins 30 secs,0 mins 36 secs,14 mins 7 secs,14.7
+Auto,9/14/2016,10:48:23,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,848,PLM-WINDPLM-DB,722,11 mins 15 secs,0 mins 26 secs,11 mins 42 secs,11.42
+Manual,9/14/2016,10:51:14,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,81,PLM-POWERPLM-DB,64,0 mins 0 secs,0 mins 31 secs,0 mins 31 secs,0.31
+Manual,9/14/2016,11:08:38,POWERPLM,DEV2,Release_1_0,all,PLM-POWERPLM-APP,82,PLM-POWERPLM-DB,65,16 mins 36 secs,0 mins 31 secs,17 mins 8 secs,17.8
+Auto,9/14/2016,11:16:07,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,849,PLM-WINDPLM-DB,723,10 mins 9 secs,0 mins 22 secs,10 mins 32 secs,10.32
+Manual,9/14/2016,11:22:25,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,63,PLM-NuclearPLM-DB,52,18 mins 48 secs,0 mins 41 secs,19 mins 29 secs,19.29
+Manual,9/14/2016,11:30:14,POWERPLM,QA1,Release_1_0,all,PLM-POWERPLM-APP,83,PLM-POWERPLM-DB,66,0 mins 0 secs,0 mins 30 secs,0 mins 30 secs,0.3
+Manual,9/14/2016,11:47:14,POWERPLM,BF,Release_1_0,all,PLM-POWERPLM-APP,84,PLM-POWERPLM-DB,67,16 mins 15 secs,0 mins 32 secs,16 mins 48 secs,16.48
+Auto,9/14/2016,13:39:16,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,850,PLM-WINDPLM-DB,724,5 mins 41 secs,0 mins 39 secs,6 mins 20 secs,6.2
+Manual,9/14/2016,13:53:52,ENERGYPLM,QA1,Release_6_1_20,all,PLM-ENERGYPLM-APP,376,PLM-ENERGYPLM-DB,291,3 mins 43 secs,0 mins 17 secs,4 mins 1 secs,4.1
+Manual,9/14/2016,14:23:36,POWERPLM,DEV2,Release_1_0,all,PLM-POWERPLM-APP,85,PLM-POWERPLM-DB,68,0 mins 0 secs,0 mins 36 secs,0 mins 36 secs,0.36
+Auto,9/14/2016,17:38:50,WINDPLM,DEV4,wind_dev_4_4,all,PLM-WINDPLM-APP,851,PLM-WINDPLM-DB,725,2 mins 56 secs,0 mins 28 secs,3 mins 25 secs,3.25
+Auto,9/14/2016,21:45:45,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,852,PLM-WINDPLM-DB,726,5 mins 27 secs,0 mins 29 secs,5 mins 57 secs,5.57
+Auto,9/14/2016,22:51:41,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,853,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,9/15/2016,1:51:23,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,854,PLM-WINDPLM-DB,727,5 mins 37 secs,0 mins 26 secs,6 mins 4 secs,6.4
+Auto,9/15/2016,1:52:48,WINDPLM,QA2,Release_4_4,app,PLM-WINDPLM-APP,855,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,9/15/2016,2:42:16,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,856,PLM-WINDPLM-DB,728,6 mins 14 secs,0 mins 18 secs,6 mins 32 secs,6.32
+Manual,9/15/2016,3:03:10,ENERGYPLM,QA1,Release_6_1_20,db,PLM-ENERGYPLM-APP,377,PLM-ENERGYPLM-DB,292,2 mins 56 secs,0 mins 25 secs,3 mins 21 secs,3.21
+Auto,9/15/2016,4:56:13,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,857,PLM-WINDPLM-DB,729,5 mins 39 secs,0 mins 27 secs,6 mins 6 secs,6.6
+Auto,9/15/2016,5:51:46,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,858,PLM-WINDPLM-DB,730,1 mins 31 secs,0 mins 22 secs,1 mins 53 secs,1.53
+Auto,9/15/2016,6:40:19,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,859,PLM-WINDPLM-DB,731,6 mins 14 secs,0 mins 21 secs,6 mins 35 secs,6.35
+Manual,9/15/2016,6:54:46,ENERGYPLM,QA1,Release_6_1_20,db,PLM-ENERGYPLM-APP,378,PLM-ENERGYPLM-DB,293,2 mins 22 secs,0 mins 21 secs,2 mins 44 secs,2.44
+Manual,9/15/2016,7:46:12,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,64,PLM-NuclearPLM-DB,53,15 mins 7 secs,0 mins 32 secs,15 mins 39 secs,15.39
+Manual,9/15/2016,8:38:22,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,860,PLM-WINDPLM-DB,732,5 mins 58 secs,0 mins 33 secs,6 mins 32 secs,6.32
+Auto,9/15/2016,8:43:25,WINDPLM,QA2,Release_4_4,db,PLM-WINDPLM-APP,861,PLM-WINDPLM-DB,733,5 mins 17 secs,0 mins 25 secs,5 mins 42 secs,5.42
+Auto,9/15/2016,9:13:39,ENERGYPLM,QA1,Release_6_1_20,all,PLM-ENERGYPLM-APP,379,PLM-ENERGYPLM-DB,294,3 mins 22 secs,0 mins 17 secs,3 mins 40 secs,3.4
+Auto,9/15/2016,9:38:59,WINDPLM,DEV4,wind_dev_4_4,db,PLM-WINDPLM-APP,862,PLM-WINDPLM-DB,734,5 mins 35 secs,0 mins 39 secs,6 mins 14 secs,6.14
+Manual,9/15/2016,9:57:05,POWERPLM,BF,Release_1_0,all,PLM-POWERPLM-APP,86,PLM-POWERPLM-DB,69,16 mins 3 secs,0 mins 29 secs,16 mins 32 secs,16.32
+Manual,9/15/2016,10:02:31,ENERGYPLM,QA1,Release_6_1_20,db,PLM-ENERGYPLM-APP,380,PLM-ENERGYPLM-DB,295,2 mins 25 secs,0 mins 22 secs,2 mins 47 secs,2.47
+Auto,9/15/2016,10:40:55,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,863,PLM-WINDPLM-DB,735,5 mins 38 secs,0 mins 29 secs,6 mins 8 secs,6.8
+Manual,9/15/2016,11:22:49,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,65,PLM-NuclearPLM-DB,54,14 mins 33 secs,0 mins 33 secs,15 mins 7 secs,15.7
+Auto,9/15/2016,11:45:42,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,864,PLM-WINDPLM-DB,736,5 mins 31 secs,0 mins 29 secs,6 mins 0 secs,6
+Auto,9/16/2016,2:44:16,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,865,PLM-WINDPLM-DB,737,6 mins 46 secs,0 mins 22 secs,7 mins 9 secs,7.9
+Auto,9/16/2016,3:47:05,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,866,PLM-WINDPLM-DB,738,5 mins 35 secs,0 mins 40 secs,6 mins 16 secs,6.16
+Auto,9/16/2016,3:48:19,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,867,,,0 mins 0 secs,,0 mins 0 secs,0
+Manual,9/16/2016,4:02:55,ENERGYPLM,QA1,Release_6_1_15,db,PLM-ENERGYPLM-APP,381,PLM-ENERGYPLM-DB,296,7 mins 24 secs,0 mins 36 secs,8 mins 0 secs,8
+Auto,9/16/2016,4:28:35,ENERGYPLM,QA1,Release_6_1_20,db,PLM-ENERGYPLM-APP,382,PLM-ENERGYPLM-DB,297,7 mins 18 secs,0 mins 30 secs,7 mins 49 secs,7.49
+Auto,9/16/2016,5:02:24,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,868,,,2 mins 54 secs,,2 mins 54 secs,2.54
+Auto,9/16/2016,6:40:53,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,869,PLM-WINDPLM-DB,739,6 mins 38 secs,0 mins 21 secs,6 mins 59 secs,6.59
+Manual,9/16/2016,6:53:02,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,66,PLM-NuclearPLM-DB,55,14 mins 46 secs,0 mins 36 secs,15 mins 22 secs,15.22
+Auto,9/16/2016,10:26:04,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,870,PLM-WINDPLM-DB,740,5 mins 35 secs,0 mins 29 secs,6 mins 5 secs,6.5
+Auto,9/16/2016,10:41:06,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,871,PLM-WINDPLM-DB,741,6 mins 21 secs,0 mins 19 secs,6 mins 40 secs,6.4
+Manual,9/16/2016,10:54:06,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,67,PLM-NuclearPLM-DB,56,14 mins 28 secs,0 mins 31 secs,15 mins 0 secs,15
+Auto,9/16/2016,11:21:29,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,872,PLM-WINDPLM-DB,742,6 mins 33 secs,0 mins 21 secs,6 mins 54 secs,6.54
+Manual,9/16/2016,14:28:35,PGSLM,QA2,Release_1_2,all,PLM-PGSLM-APP,33,PLM-PGSLM-DB,22,0 mins 0 secs,0 mins 31 secs,0 mins 31 secs,0.31
+Auto,9/17/2016,2:43:44,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,873,PLM-WINDPLM-DB,743,7 mins 17 secs,0 mins 27 secs,7 mins 44 secs,7.44
+Auto,9/17/2016,6:37:06,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,874,PLM-WINDPLM-DB,744,3 mins 19 secs,0 mins 39 secs,3 mins 59 secs,3.59
+Auto,9/17/2016,10:36:29,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,875,PLM-WINDPLM-DB,745,1 mins 25 secs,0 mins 22 secs,1 mins 47 secs,1.47
+Auto,9/18/2016,2:37:37,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,876,PLM-WINDPLM-DB,746,1 mins 26 secs,0 mins 19 secs,1 mins 46 secs,1.46
+Manual,9/18/2016,7:44:44,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,68,PLM-NuclearPLM-DB,57,14 mins 24 secs,0 mins 31 secs,14 mins 56 secs,14.56
+Manual,9/18/2016,7:57:52,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,69,PLM-NuclearPLM-DB,58,13 mins 8 secs,0 mins 34 secs,13 mins 42 secs,13.42
+Auto,9/19/2016,2:01:54,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,877,PLM-WINDPLM-DB,747,5 mins 48 secs,0 mins 37 secs,6 mins 25 secs,6.25
+Auto,9/19/2016,2:37:22,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,878,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,9/19/2016,2:43:43,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,879,PLM-WINDPLM-DB,748,5 mins 18 secs,0 mins 23 secs,5 mins 42 secs,5.42
+Auto,9/19/2016,6:36:26,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,880,PLM-WINDPLM-DB,749,2 mins 50 secs,0 mins 21 secs,3 mins 12 secs,3.12
+Manual,9/19/2016,7:36:30,NuclearPLM,QA,Release_4_0,db,PLM-NuclearPLM-APP,71,PLM-NuclearPLM-DB,60,12 mins 5 secs,1 mins 22 secs,13 mins 27 secs,13.27
+Manual,9/19/2016,11:31:13,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,87,PLM-POWERPLM-DB,70,16 mins 41 secs,0 mins 30 secs,17 mins 12 secs,17.12
+Manual,9/19/2016,11:42:00,PGSLM,QA2,Release_1_2,all,PLM-PGSLM-APP,34,PLM-PGSLM-DB,23,8 mins 57 secs,0 mins 34 secs,9 mins 32 secs,9.32
+Manual,9/19/2016,12:25:40,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,72,PLM-NuclearPLM-DB,61,14 mins 38 secs,0 mins 32 secs,15 mins 11 secs,15.11
+Manual,9/19/2016,13:41:35,PGSLM,QA2,Release_1_2,all,PLM-PGSLM-APP,35,PLM-PGSLM-DB,24,8 mins 53 secs,0 mins 29 secs,9 mins 22 secs,9.22
+Manual,9/20/2016,2:17:17,ENERGYPLM,QA1,Release_6_1_20,db,PLM-ENERGYPLM-APP,384,PLM-ENERGYPLM-DB,298,2 mins 25 secs,0 mins 23 secs,2 mins 48 secs,2.48
+Auto,9/20/2016,2:44:34,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,883,PLM-WINDPLM-DB,751,6 mins 59 secs,0 mins 21 secs,7 mins 21 secs,7.21
+Auto,9/20/2016,6:39:06,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,884,PLM-WINDPLM-DB,752,3 mins 43 secs,0 mins 25 secs,4 mins 8 secs,4.8
+Manual,9/20/2016,6:46:44,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,73,PLM-NuclearPLM-DB,62,16 mins 9 secs,0 mins 32 secs,16 mins 42 secs,16.42
+Auto,9/20/2016,10:37:58,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,885,PLM-WINDPLM-DB,753,1 mins 44 secs,0 mins 35 secs,2 mins 19 secs,2.19
+Manual,9/20/2016,11:50:44,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,74,PLM-NuclearPLM-DB,63,18 mins 8 secs,0 mins 53 secs,19 mins 1 secs,19.1
+Manual,9/20/2016,12:09:14,WINDPLM,DEV5,HEAD,app,PLM-WINDPLM-APP,886,,,0 mins 0 secs,,0 mins 0 secs,0
+Manual,9/20/2016,12:24:10,PGSLM,QA2,Release_1_2,all,PLM-PGSLM-APP,36,PLM-PGSLM-DB,25,0 mins 0 secs,0 mins 46 secs,0 mins 46 secs,0.46
+Manual,9/20/2016,13:49:57,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,88,PLM-POWERPLM-DB,71,0 mins 0 secs,0 mins 36 secs,0 mins 36 secs,0.36
+Manual,9/20/2016,13:50:23,PGSLM,QA2,Release_1_2,app,PLM-PGSLM-APP,37,,,0 mins 0 secs,,0 mins 0 secs,0
+Manual,9/20/2016,14:16:06,PGSLM,QA2,Release_1_2,db,PLM-PGSLM-APP,38,PLM-PGSLM-DB,26,5 mins 15 secs,0 mins 36 secs,5 mins 51 secs,5.51
+Manual,9/20/2016,14:23:09,PGSLM,QA2,Release_1_2,app,PLM-PGSLM-APP,39,,,0 mins 0 secs,,0 mins 0 secs,0
+Manual,9/20/2016,15:47:51,ENERGYPLM,QA1,Release_6_1_20,all,PLM-ENERGYPLM-APP,385,PLM-ENERGYPLM-DB,299,3 mins 33 secs,0 mins 19 secs,3 mins 52 secs,3.52
+Auto,9/21/2016,6:41:37,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,888,PLM-WINDPLM-DB,755,5 mins 29 secs,0 mins 26 secs,5 mins 55 secs,5.55
+Manual,9/21/2016,6:43:41,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,75,PLM-NuclearPLM-DB,64,0 mins 0 secs,0 mins 37 secs,0 mins 37 secs,0.37
+Auto,9/21/2016,10:39:11,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,889,PLM-WINDPLM-DB,756,2 mins 47 secs,0 mins 21 secs,3 mins 9 secs,3.9
+Manual,9/21/2016,11:44:30,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,76,PLM-NuclearPLM-DB,65,14 mins 42 secs,0 mins 32 secs,15 mins 14 secs,15.14
+Manual,9/21/2016,13:03:38,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,90,PLM-POWERPLM-DB,72,0 mins 0 secs,0 mins 35 secs,0 mins 35 secs,0.35
+Manual,9/21/2016,15:50:24,POWERPLM,DEV1,Release_1_0,db,PLM-POWERPLM-APP,91,PLM-POWERPLM-DB,73,11 mins 58 secs,0 mins 30 secs,12 mins 28 secs,12.28
+Auto,9/22/2016,2:39:18,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,890,PLM-WINDPLM-DB,757,1 mins 37 secs,0 mins 27 secs,2 mins 5 secs,2.5
+Auto,9/22/2016,3:16:06,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,891,PLM-WINDPLM-DB,758,5 mins 22 secs,0 mins 32 secs,5 mins 54 secs,5.54
+Manual,9/22/2016,6:16:45,WINDPLM,QA,Release_4_4,db,PLM-WINDPLM-APP,892,PLM-WINDPLM-DB,759,5 mins 18 secs,0 mins 39 secs,5 mins 57 secs,5.57
+Auto,9/22/2016,6:40:13,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,893,PLM-WINDPLM-DB,760,6 mins 35 secs,0 mins 26 secs,7 mins 1 secs,7.1
+Manual,9/22/2016,6:58:38,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,77,PLM-NuclearPLM-DB,66,23 mins 0 secs,0 mins 38 secs,23 mins 38 secs,23.38
+Auto,9/22/2016,10:38:45,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,894,PLM-WINDPLM-DB,761,2 mins 40 secs,0 mins 25 secs,3 mins 6 secs,3.6
+Manual,9/22/2016,12:36:42,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,78,PLM-NuclearPLM-DB,67,22 mins 56 secs,0 mins 38 secs,23 mins 35 secs,23.35
+Auto,9/23/2016,1:25:52,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,895,PLM-WINDPLM-DB,762,9 mins 25 secs,0 mins 24 secs,9 mins 50 secs,9.5
+Auto,9/23/2016,1:29:12,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,896,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,9/23/2016,2:46:19,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,897,PLM-WINDPLM-DB,763,8 mins 11 secs,0 mins 20 secs,8 mins 31 secs,8.31
+Manual,9/23/2016,3:32:53,POWERPLM,QA1,Release_1_0,all,PLM-POWERPLM-APP,92,PLM-POWERPLM-DB,74,22 mins 30 secs,0 mins 30 secs,23 mins 0 secs,23
+Manual,9/23/2016,6:16:20,ENERGYPLM,DEV2,Release_6_0_91,db,PLM-ENERGYPLM-APP,386,PLM-ENERGYPLM-DB,300,9 mins 22 secs,0 mins 32 secs,9 mins 55 secs,9.55
+Manual,9/23/2016,6:35:08,ENERGYPLM,DEV2,Release_6_0_92,db,PLM-ENERGYPLM-APP,387,PLM-ENERGYPLM-DB,301,10 mins 4 secs,0 mins 35 secs,10 mins 40 secs,10.4
+Auto,9/23/2016,6:40:46,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,898,PLM-WINDPLM-DB,764,4 mins 36 secs,0 mins 24 secs,5 mins 0 secs,5
+Manual,9/23/2016,7:04:03,ENERGYPLM,DEV2,Release_6_1_10,db,PLM-ENERGYPLM-APP,388,PLM-ENERGYPLM-DB,302,19 mins 53 secs,0 mins 46 secs,20 mins 40 secs,20.4
+Manual,9/23/2016,7:06:16,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,79,PLM-NuclearPLM-DB,68,30 mins 17 secs,0 mins 49 secs,31 mins 7 secs,31.7
+Auto,9/23/2016,7:14:57,AEROPLM,DEV,Dev_3_12_0,all,PLM-AEROPLM-APP,199,PLM-AEROPLM-DB,204,9 mins 55 secs,0 mins 46 secs,10 mins 41 secs,10.41
+Manual,9/23/2016,7:24:22,ENERGYPLM,DEV2,Release_6_1_12,db,PLM-ENERGYPLM-APP,389,PLM-ENERGYPLM-DB,303,11 mins 5 secs,0 mins 35 secs,11 mins 40 secs,11.4
+Manual,9/23/2016,7:40:29,ENERGYPLM,DEV2,Release_6_1_15,db,PLM-ENERGYPLM-APP,390,PLM-ENERGYPLM-DB,304,10 mins 18 secs,0 mins 26 secs,10 mins 44 secs,10.44
+Manual,9/23/2016,8:03:45,ENERGYPLM,DEV2,Release_6_1_20,all,PLM-ENERGYPLM-APP,391,PLM-ENERGYPLM-DB,305,10 mins 56 secs,0 mins 18 secs,11 mins 14 secs,11.14
+Manual,9/23/2016,8:59:57,WINDPLM,DEV,wind_dev_4_5,app,PLM-WINDPLM-APP,899,,,4 mins 40 secs,,4 mins 40 secs,4.4
+Auto,9/23/2016,10:00:43,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,900,PLM-WINDPLM-DB,765,8 mins 51 secs,0 mins 23 secs,9 mins 14 secs,9.14
+Auto,9/23/2016,10:44:54,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,901,PLM-WINDPLM-DB,766,8 mins 42 secs,0 mins 21 secs,9 mins 4 secs,9.4
+Auto,9/23/2016,10:59:16,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,902,,,8 mins 55 secs,,8 mins 55 secs,8.55
+Manual,9/23/2016,11:56:11,ENERGYPLM,QA1,Release_6_1_30,all,PLM-ENERGYPLM-APP,392,PLM-ENERGYPLM-DB,306,15 mins 36 secs,0 mins 19 secs,15 mins 56 secs,15.56
+Manual,9/23/2016,12:05:49,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,80,PLM-NuclearPLM-DB,69,25 mins 0 secs,0 mins 41 secs,25 mins 41 secs,25.41
+Manual,9/23/2016,14:52:51,PGSLM,QA2,Release_1_2,db,PLM-PGSLM-APP,40,PLM-PGSLM-DB,27,9 mins 13 secs,0 mins 35 secs,9 mins 49 secs,9.49
+Manual,9/23/2016,15:03:08,PGSLM,QA2,Release_1_2,app,PLM-PGSLM-APP,41,,,0 mins 0 secs,,0 mins 0 secs,0
+Manual,9/23/2016,15:25:09,PGSLM,QA2,Release_1_2,db,PLM-PGSLM-APP,42,PLM-PGSLM-DB,28,8 mins 17 secs,0 mins 33 secs,8 mins 50 secs,8.5
+Manual,9/23/2016,16:31:17,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,93,PLM-POWERPLM-DB,75,0 mins 0 secs,0 mins 43 secs,0 mins 43 secs,0.43
+Manual,9/23/2016,16:56:31,POWERPLM,DEV2,Release_1_0,all,PLM-POWERPLM-APP,94,PLM-POWERPLM-DB,76,0 mins 0 secs,0 mins 39 secs,0 mins 39 secs,0.39
+Auto,9/24/2016,2:45:32,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,903,PLM-WINDPLM-DB,767,7 mins 52 secs,0 mins 31 secs,8 mins 24 secs,8.24
+Auto,9/24/2016,4:08:32,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,904,PLM-WINDPLM-DB,768,7 mins 18 secs,0 mins 32 secs,7 mins 50 secs,7.5
+Auto,9/24/2016,6:43:33,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,905,PLM-WINDPLM-DB,769,8 mins 24 secs,0 mins 24 secs,8 mins 48 secs,8.48
+Auto,9/24/2016,10:38:31,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,906,PLM-WINDPLM-DB,770,2 mins 26 secs,0 mins 21 secs,2 mins 48 secs,2.48
+Manual,9/24/2016,11:02:02,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,81,PLM-NuclearPLM-DB,70,22 mins 20 secs,0 mins 35 secs,22 mins 56 secs,22.56
+Manual,9/24/2016,11:24:01,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,82,PLM-NuclearPLM-DB,71,22 mins 0 secs,0 mins 37 secs,22 mins 38 secs,22.38
+Auto,9/26/2016,2:55:54,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,907,PLM-WINDPLM-DB,771,9 mins 28 secs,0 mins 22 secs,9 mins 51 secs,9.51
+Auto,9/26/2016,3:07:30,AEROPLM,DEV,Dev_3_12_0,db,PLM-AEROPLM-APP,200,PLM-AEROPLM-DB,205,2 mins 24 secs,0 mins 52 secs,3 mins 17 secs,3.17
+Auto,9/26/2016,3:42:28,AEROPLM,DEV,Dev_3_12_0,db,PLM-AEROPLM-APP,201,PLM-AEROPLM-DB,206,2 mins 20 secs,0 mins 46 secs,3 mins 7 secs,3.7
+Auto,9/26/2016,6:22:13,AEROPLM,DEV,Dev_3_12_0,db,PLM-AEROPLM-APP,202,PLM-AEROPLM-DB,207,2 mins 16 secs,0 mins 39 secs,2 mins 55 secs,2.55
+Auto,9/26/2016,6:44:44,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,908,PLM-WINDPLM-DB,772,9 mins 37 secs,0 mins 26 secs,10 mins 4 secs,10.4
+Manual,9/26/2016,6:55:22,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,83,PLM-NuclearPLM-DB,72,19 mins 27 secs,0 mins 32 secs,20 mins 0 secs,20
+Auto,9/26/2016,7:21:43,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,909,PLM-WINDPLM-DB,773,6 mins 47 secs,0 mins 20 secs,7 mins 7 secs,7.7
+Auto,9/26/2016,9:20:27,AEROPLM,DEV,Dev_3_12_0,db,PLM-AEROPLM-APP,203,PLM-AEROPLM-DB,208,1 mins 23 secs,0 mins 47 secs,2 mins 10 secs,2.1
+Auto,9/26/2016,10:41:51,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,910,PLM-WINDPLM-DB,774,6 mins 15 secs,0 mins 36 secs,6 mins 52 secs,6.52
+Manual,9/26/2016,11:08:11,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,911,PLM-WINDPLM-DB,775,8 mins 15 secs,0 mins 32 secs,8 mins 48 secs,8.48
+Manual,9/26/2016,12:12:03,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,84,PLM-NuclearPLM-DB,73,19 mins 33 secs,0 mins 49 secs,20 mins 23 secs,20.23
+Manual,9/26/2016,12:39:14,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,95,PLM-POWERPLM-DB,77,16 mins 34 secs,0 mins 38 secs,17 mins 13 secs,17.13
+Manual,9/26/2016,13:18:24,POWERPLM,DEV2,Release_1_0,all,PLM-POWERPLM-APP,96,PLM-POWERPLM-DB,78,0 mins 0 secs,0 mins 30 secs,0 mins 30 secs,0.3
+Auto,9/27/2016,1:46:35,AEROPLM,DEV,Dev_3_12_0,all,PLM-AEROPLM-APP,204,PLM-AEROPLM-DB,209,2 mins 25 secs,0 mins 41 secs,3 mins 6 secs,3.6
+Auto,9/27/2016,2:32:31,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,912,PLM-WINDPLM-DB,776,1 mins 36 secs,0 mins 36 secs,2 mins 12 secs,2.12
+Auto,9/27/2016,2:42:15,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,913,PLM-WINDPLM-DB,777,6 mins 18 secs,0 mins 20 secs,6 mins 39 secs,6.39
+Auto,9/27/2016,4:02:26,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,914,PLM-WINDPLM-DB,778,6 mins 14 secs,0 mins 21 secs,6 mins 35 secs,6.35
+Auto,9/27/2016,5:41:33,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,915,PLM-WINDPLM-DB,779,1 mins 27 secs,0 mins 20 secs,1 mins 48 secs,1.48
+Auto,9/27/2016,6:40:17,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,916,PLM-WINDPLM-DB,780,6 mins 12 secs,0 mins 21 secs,6 mins 33 secs,6.33
+Manual,9/27/2016,6:51:17,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,85,PLM-NuclearPLM-DB,74,14 mins 15 secs,0 mins 35 secs,14 mins 51 secs,14.51
+Auto,9/27/2016,7:27:03,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,917,PLM-WINDPLM-DB,781,6 mins 32 secs,0 mins 19 secs,6 mins 51 secs,6.51
+Auto,9/27/2016,8:16:40,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,918,PLM-WINDPLM-DB,782,1 mins 32 secs,0 mins 19 secs,1 mins 51 secs,1.51
+Manual,9/27/2016,10:38:38,ENERGYPLM,QA1,Release_6_1_30,all,PLM-ENERGYPLM-APP,394,PLM-ENERGYPLM-DB,308,3 mins 46 secs,0 mins 18 secs,4 mins 4 secs,4.4
+Auto,9/27/2016,11:10:48,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,920,PLM-WINDPLM-DB,784,5 mins 22 secs,0 mins 25 secs,5 mins 48 secs,5.48
+Auto,9/27/2016,11:26:42,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,921,,,2 mins 23 secs,,2 mins 23 secs,2.23
+Manual,9/27/2016,12:16:54,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,97,PLM-POWERPLM-DB,79,0 mins 0 secs,0 mins 32 secs,0 mins 32 secs,0.32
+Manual,9/27/2016,12:30:34,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,86,PLM-NuclearPLM-DB,75,15 mins 12 secs,0 mins 36 secs,15 mins 49 secs,15.49
+Manual,9/27/2016,13:00:54,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,99,PLM-POWERPLM-DB,80,15 mins 8 secs,0 mins 40 secs,15 mins 49 secs,15.49
+Manual,9/27/2016,13:15:54,POWERPLM,QA1,Release_1_0,all,PLM-POWERPLM-APP,100,PLM-POWERPLM-DB,81,14 mins 59 secs,0 mins 29 secs,15 mins 28 secs,15.28
+Manual,9/27/2016,15:02:24,POWERPLM,DEV1,Release_1_0,db,PLM-POWERPLM-APP,101,PLM-POWERPLM-DB,82,11 mins 37 secs,0 mins 29 secs,12 mins 7 secs,12.7
+Manual,9/27/2016,16:56:51,PGSLM,QA2,Release_1_2,app,PLM-PGSLM-APP,43,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,9/28/2016,2:44:31,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,922,PLM-WINDPLM-DB,785,6 mins 31 secs,0 mins 22 secs,6 mins 53 secs,6.53
+Auto,9/28/2016,3:16:25,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,923,PLM-WINDPLM-DB,786,5 mins 26 secs,0 mins 25 secs,5 mins 51 secs,5.51
+Manual,9/28/2016,3:33:35,ENERGYPLM,QA1,Release_6_1_30,app,PLM-ENERGYPLM-APP,395,,,4 mins 7 secs,,4 mins 7 secs,4.7
+Auto,9/28/2016,3:40:55,WINDPLM,DEV3,wind_dev_4_6,all,PLM-WINDPLM-APP,924,PLM-WINDPLM-DB,787,7 mins 24 secs,0 mins 52 secs,8 mins 17 secs,8.17
+Auto,9/28/2016,5:11:01,AEROPLM,DEV,Dev_3_12_0,db,PLM-AEROPLM-APP,205,PLM-AEROPLM-DB,210,1 mins 27 secs,0 mins 50 secs,2 mins 18 secs,2.18
+Auto,9/28/2016,6:20:53,AEROPLM,QA,Release_3_12_0,all,PLM-AEROPLM-APP,206,PLM-AEROPLM-DB,211,6 mins 19 secs,0 mins 37 secs,6 mins 56 secs,6.56
+Auto,9/28/2016,6:42:02,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,925,PLM-WINDPLM-DB,788,8 mins 11 secs,0 mins 31 secs,8 mins 42 secs,8.42
+Manual,9/28/2016,6:50:08,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,87,PLM-NuclearPLM-DB,76,15 mins 47 secs,0 mins 35 secs,16 mins 22 secs,16.22
+Manual,9/28/2016,7:48:54,WINDPLM,DEV5,Release_4_4_10,db,PLM-WINDPLM-APP,926,PLM-WINDPLM-DB,789,5 mins 39 secs,0 mins 26 secs,6 mins 5 secs,6.5
+Manual,9/28/2016,8:21:57,WINDPLM,DEV5,Release_4_4_10,db,PLM-WINDPLM-APP,928,PLM-WINDPLM-DB,790,5 mins 14 secs,0 mins 23 secs,5 mins 38 secs,5.38
+Manual,9/28/2016,8:43:11,WINDPLM,DEV5,Release_4_4_10,db,PLM-WINDPLM-APP,929,PLM-WINDPLM-DB,791,5 mins 21 secs,0 mins 23 secs,5 mins 45 secs,5.45
+Manual,9/28/2016,9:01:26,WINDPLM,DEV5,wind_dev_4_12,all,PLM-WINDPLM-APP,930,PLM-WINDPLM-DB,792,6 mins 8 secs,0 mins 21 secs,6 mins 29 secs,6.29
+Manual,9/28/2016,10:03:58,ENERGYPLM,QA1,Release_6_1_30,db,PLM-ENERGYPLM-APP,396,PLM-ENERGYPLM-DB,309,2 mins 23 secs,0 mins 22 secs,2 mins 45 secs,2.45
+Auto,9/28/2016,10:41:32,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,931,PLM-WINDPLM-DB,793,6 mins 20 secs,0 mins 19 secs,6 mins 39 secs,6.39
+Manual,9/28/2016,10:55:09,ENERGYPLM,QA2,Release_6_1_20,app,PLM-ENERGYPLM-APP,397,,,8 mins 7 secs,,8 mins 7 secs,8.7
+Manual,9/28/2016,11:18:57,ENERGYPLM,QA1,Release_6_1_30,all,PLM-ENERGYPLM-APP,398,PLM-ENERGYPLM-DB,310,10 mins 54 secs,0 mins 17 secs,11 mins 11 secs,11.11
+Auto,9/28/2016,11:40:58,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,932,PLM-WINDPLM-DB,794,5 mins 37 secs,0 mins 32 secs,6 mins 9 secs,6.9
+Manual,9/28/2016,11:52:55,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,102,PLM-POWERPLM-DB,83,15 mins 57 secs,0 mins 29 secs,16 mins 27 secs,16.27
+Manual,9/28/2016,12:01:49,PGSLM,QA2,Release_1_2,app,PLM-PGSLM-APP,44,,,0 mins 0 secs,,0 mins 0 secs,0
+Manual,9/28/2016,12:39:28,ENERGYPLM,QA1,Release_6_1_30,all,PLM-ENERGYPLM-APP,399,PLM-ENERGYPLM-DB,311,3 mins 21 secs,0 mins 17 secs,3 mins 38 secs,3.38
+Manual,9/28/2016,15:06:21,PGSLM,QA,Release_1_3,all,PLM-PGSLM-APP,45,PLM-PGSLM-DB,29,16 mins 26 secs,0 mins 30 secs,16 mins 57 secs,16.57
+Manual,9/28/2016,15:40:41,PGSLM,QA,Release_1_3,db,PLM-PGSLM-APP,46,PLM-PGSLM-DB,30,5 mins 38 secs,0 mins 30 secs,6 mins 9 secs,6.9
+Manual,9/28/2016,15:46:50,PGSLM,QA,Release_1_3,app,PLM-PGSLM-APP,47,,,0 mins 0 secs,,0 mins 0 secs,0
+Manual,9/28/2016,21:07:33,PGSLM,QA,Release_1_3,db,PLM-PGSLM-APP,48,PLM-PGSLM-DB,31,6 mins 20 secs,0 mins 29 secs,6 mins 49 secs,6.49
+Manual,9/28/2016,21:13:49,PGSLM,QA,Release_1_3,app,PLM-PGSLM-APP,49,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,9/28/2016,23:42:25,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,933,PLM-WINDPLM-DB,795,5 mins 44 secs,0 mins 34 secs,6 mins 18 secs,6.18
+Auto,9/29/2016,2:42:06,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,934,PLM-WINDPLM-DB,796,6 mins 9 secs,0 mins 20 secs,6 mins 29 secs,6.29
+Auto,9/29/2016,2:50:41,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,935,PLM-WINDPLM-DB,797,5 mins 6 secs,0 mins 31 secs,5 mins 37 secs,5.37
+Auto,9/29/2016,3:06:53,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,936,,,2 mins 27 secs,,2 mins 27 secs,2.27
+Auto,9/29/2016,3:13:23,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,937,PLM-WINDPLM-DB,798,5 mins 43 secs,0 mins 23 secs,6 mins 7 secs,6.7
+Auto,9/29/2016,3:19:07,WINDPLM,QA3,Release_4_6,app,PLM-WINDPLM-APP,938,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,9/29/2016,3:20:16,AEROPLM,DEV,Dev_3_12_0,db,PLM-AEROPLM-APP,207,PLM-AEROPLM-DB,212,5 mins 58 secs,0 mins 46 secs,6 mins 44 secs,6.44
+Manual,9/29/2016,6:52:49,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,90,PLM-NuclearPLM-DB,78,16 mins 57 secs,0 mins 40 secs,17 mins 38 secs,17.38
+Auto,9/29/2016,7:08:39,AEROPLM,QA,Release_3_12_0,db,PLM-AEROPLM-APP,208,PLM-AEROPLM-DB,213,7 mins 25 secs,0 mins 46 secs,8 mins 12 secs,8.12
+Manual,9/29/2016,8:02:34,POWERPLM,BF,Release_1_0,app,PLM-POWERPLM-APP,103,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,9/29/2016,9:17:06,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,940,PLM-WINDPLM-DB,799,6 mins 46 secs,0 mins 24 secs,7 mins 10 secs,7.1
+Manual,9/29/2016,10:00:58,PGSLM,QA,Release_1_3,all,PLM-PGSLM-APP,50,PLM-PGSLM-DB,32,8 mins 46 secs,0 mins 33 secs,9 mins 19 secs,9.19
+Auto,9/29/2016,10:44:16,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,941,PLM-WINDPLM-DB,800,9 mins 4 secs,0 mins 20 secs,9 mins 24 secs,9.24
+Manual,9/29/2016,10:50:15,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,104,PLM-POWERPLM-DB,84,17 mins 36 secs,0 mins 28 secs,18 mins 5 secs,18.5
+Manual,9/29/2016,11:06:56,POWERPLM,QA1,Release_1_0,all,PLM-POWERPLM-APP,105,PLM-POWERPLM-DB,85,16 mins 8 secs,0 mins 32 secs,16 mins 40 secs,16.4
+Auto,9/29/2016,11:17:27,WINDPLM,QA3,Release_4_6,app,PLM-WINDPLM-APP,942,,,10 mins 6 secs,,10 mins 6 secs,10.6
+Manual,9/29/2016,11:19:56,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,91,PLM-NuclearPLM-DB,79,16 mins 48 secs,0 mins 36 secs,17 mins 25 secs,17.25
+Auto,9/29/2016,23:42:55,WINDPLM,DEV3,wind_dev_4_6,all,PLM-WINDPLM-APP,945,PLM-WINDPLM-DB,802,6 mins 25 secs,0 mins 21 secs,6 mins 46 secs,6.46
+Auto,9/30/2016,1:41:04,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,946,PLM-WINDPLM-DB,803,5 mins 30 secs,0 mins 27 secs,5 mins 58 secs,5.58
+Auto,9/30/2016,2:42:22,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,947,PLM-WINDPLM-DB,804,5 mins 58 secs,0 mins 20 secs,6 mins 19 secs,6.19
+Auto,9/30/2016,3:38:51,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,948,PLM-WINDPLM-DB,805,5 mins 34 secs,0 mins 27 secs,6 mins 1 secs,6.1
+Auto,9/30/2016,3:45:29,WINDPLM,DEV3,wind_dev_4_6,app,PLM-WINDPLM-APP,949,,,7 mins 6 secs,,7 mins 6 secs,7.6
+Auto,9/30/2016,3:52:48,AEROPLM,DEV,Dev_3_12_0,db,PLM-AEROPLM-APP,209,PLM-AEROPLM-DB,214,6 mins 53 secs,0 mins 58 secs,7 mins 51 secs,7.51
+Auto,9/30/2016,3:53:26,WINDPLM,QA3,Release_4_6,app,PLM-WINDPLM-APP,950,,,8 mins 9 secs,,8 mins 9 secs,8.9
+Auto,9/30/2016,3:59:46,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,951,,,6 mins 13 secs,,6 mins 13 secs,6.13
+Auto,9/30/2016,4:02:08,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,952,PLM-WINDPLM-DB,806,1 mins 30 secs,0 mins 25 secs,1 mins 55 secs,1.55
+Auto,9/30/2016,6:43:48,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,953,PLM-WINDPLM-DB,807,9 mins 29 secs,0 mins 22 secs,9 mins 52 secs,9.52
+Manual,9/30/2016,6:45:45,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,92,PLM-NuclearPLM-DB,80,16 mins 24 secs,0 mins 31 secs,16 mins 56 secs,16.56
+Auto,9/30/2016,7:41:43,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,954,PLM-WINDPLM-DB,808,6 mins 36 secs,0 mins 20 secs,6 mins 56 secs,6.56
+Manual,9/30/2016,8:30:36,NuclearPLM,QA,Release_4_0,db,PLM-NuclearPLM-APP,93,PLM-NuclearPLM-DB,81,11 mins 45 secs,0 mins 33 secs,12 mins 19 secs,12.19
+Auto,9/30/2016,8:38:51,WINDPLM,DEV3,wind_dev_4_6,app,PLM-WINDPLM-APP,956,,,0 mins 0 secs,,0 mins 0 secs,0
+Manual,9/30/2016,8:54:25,WINDPLM,DEV5,wind_dev_4_12,all,PLM-WINDPLM-APP,957,PLM-WINDPLM-DB,810,6 mins 13 secs,0 mins 19 secs,6 mins 33 secs,6.33
+Manual,9/30/2016,10:01:10,ENERGYPLM,QA1,Release_6_1_30,all,PLM-ENERGYPLM-APP,400,PLM-ENERGYPLM-DB,312,5 mins 37 secs,0 mins 17 secs,5 mins 55 secs,5.55
+Manual,9/30/2016,10:02:41,POWERPLM,DEV1,Release_1_0,db,PLM-POWERPLM-APP,106,PLM-POWERPLM-DB,86,13 mins 17 secs,0 mins 33 secs,13 mins 51 secs,13.51
+Auto,9/30/2016,10:20:40,AEROPLM,QA,Release_3_12_0,db,PLM-AEROPLM-APP,210,PLM-AEROPLM-DB,215,5 mins 18 secs,0 mins 39 secs,5 mins 58 secs,5.58
+Manual,9/30/2016,10:31:50,ENERGYPLM,QA1,Release_6_1_30,db,PLM-ENERGYPLM-APP,401,PLM-ENERGYPLM-DB,313,2 mins 20 secs,0 mins 20 secs,2 mins 41 secs,2.41
+Auto,9/30/2016,10:41:56,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,958,PLM-WINDPLM-DB,811,6 mins 30 secs,0 mins 21 secs,6 mins 51 secs,6.51
+Manual,9/30/2016,11:14:34,NuclearPLM,QA,Release_4_0,db,PLM-NuclearPLM-APP,94,PLM-NuclearPLM-DB,82,11 mins 42 secs,0 mins 36 secs,12 mins 18 secs,12.18
+Auto,9/30/2016,11:26:59,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,959,PLM-WINDPLM-DB,812,6 mins 38 secs,0 mins 22 secs,7 mins 1 secs,7.1
+Manual,9/30/2016,11:46:30,NuclearPLM,QA,Release_4_0,db,PLM-NuclearPLM-APP,95,PLM-NuclearPLM-DB,83,11 mins 7 secs,0 mins 37 secs,11 mins 44 secs,11.44
+Manual,9/30/2016,15:07:56,ENERGYPLM,QA1,Release_6_1_30,all,PLM-ENERGYPLM-APP,402,PLM-ENERGYPLM-DB,314,3 mins 20 secs,0 mins 18 secs,3 mins 38 secs,3.38
+Auto,9/30/2016,23:42:08,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,960,PLM-WINDPLM-DB,813,5 mins 32 secs,0 mins 33 secs,6 mins 5 secs,6.5
+Auto,10/1/2016,2:42:34,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,961,PLM-WINDPLM-DB,814,6 mins 18 secs,0 mins 21 secs,6 mins 39 secs,6.39
+Auto,10/1/2016,6:36:56,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,962,PLM-WINDPLM-DB,815,2 mins 37 secs,0 mins 19 secs,2 mins 56 secs,2.56
+Auto,10/1/2016,7:52:06,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,963,PLM-WINDPLM-DB,816,6 mins 24 secs,0 mins 19 secs,6 mins 43 secs,6.43
+Auto,10/1/2016,10:41:02,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,964,PLM-WINDPLM-DB,817,5 mins 17 secs,0 mins 22 secs,5 mins 40 secs,5.4
+Auto,10/2/2016,6:37:13,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,965,PLM-WINDPLM-DB,818,2 mins 23 secs,0 mins 18 secs,2 mins 41 secs,2.41
+Manual,10/2/2016,19:09:05,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,96,PLM-NuclearPLM-DB,84,14 mins 39 secs,0 mins 36 secs,15 mins 16 secs,15.16
+Manual,10/3/2016,2:26:13,ENERGYPLM,QA1,Release_6_1_30,db,PLM-ENERGYPLM-APP,404,PLM-ENERGYPLM-DB,316,2 mins 9 secs,0 mins 17 secs,2 mins 27 secs,2.27
+Auto,10/3/2016,3:13:05,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,966,PLM-WINDPLM-DB,819,5 mins 43 secs,0 mins 28 secs,6 mins 11 secs,6.11
+Auto,10/3/2016,4:40:30,WINDPLM,DEV5,wind_dev_4_12,db,PLM-WINDPLM-APP,967,PLM-WINDPLM-DB,820,5 mins 20 secs,0 mins 22 secs,5 mins 42 secs,5.42
+Auto,10/3/2016,6:40:12,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,968,PLM-WINDPLM-DB,821,5 mins 18 secs,0 mins 30 secs,5 mins 49 secs,5.49
+Auto,10/3/2016,7:11:11,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,969,PLM-WINDPLM-DB,822,5 mins 16 secs,0 mins 29 secs,5 mins 45 secs,5.45
+Manual,10/3/2016,7:30:08,ENERGYPLM,QA1,Release_6_1_30,db,PLM-ENERGYPLM-APP,405,PLM-ENERGYPLM-DB,317,2 mins 27 secs,0 mins 55 secs,3 mins 23 secs,3.23
+Auto,10/3/2016,7:32:06,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,970,PLM-WINDPLM-DB,823,1 mins 29 secs,0 mins 20 secs,1 mins 49 secs,1.49
+Auto,10/3/2016,10:41:46,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,971,PLM-WINDPLM-DB,824,6 mins 12 secs,0 mins 20 secs,6 mins 32 secs,6.32
+Manual,10/3/2016,11:03:30,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,97,PLM-NuclearPLM-DB,85,14 mins 45 secs,0 mins 49 secs,15 mins 35 secs,15.35
+Manual,10/3/2016,11:34:04,PGSLM,QA2,Release_1_2,all,PLM-PGSLM-APP,51,PLM-PGSLM-DB,33,16 mins 31 secs,0 mins 27 secs,16 mins 59 secs,16.59
+Auto,10/3/2016,12:01:49,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,972,PLM-WINDPLM-DB,825,6 mins 39 secs,0 mins 22 secs,7 mins 1 secs,7.1
+Manual,10/3/2016,12:41:02,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,107,PLM-POWERPLM-DB,87,15 mins 46 secs,0 mins 32 secs,16 mins 19 secs,16.19
+Manual,10/3/2016,15:00:59,ENERGYPLM,QA1,Release_6_1_21,db,PLM-ENERGYPLM-APP,406,PLM-ENERGYPLM-DB,318,7 mins 26 secs,0 mins 44 secs,8 mins 11 secs,8.11
+Manual,10/3/2016,15:19:14,ENERGYPLM,QA1,Release_6_1_30,all,PLM-ENERGYPLM-APP,407,PLM-ENERGYPLM-DB,319,7 mins 51 secs,0 mins 41 secs,8 mins 33 secs,8.33
+Auto,10/3/2016,23:42:19,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,973,PLM-WINDPLM-DB,826,5 mins 41 secs,0 mins 30 secs,6 mins 12 secs,6.12
+Auto,10/4/2016,2:41:28,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,974,PLM-WINDPLM-DB,827,5 mins 10 secs,0 mins 23 secs,5 mins 34 secs,5.34
+Auto,10/4/2016,3:02:42,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,975,PLM-WINDPLM-DB,828,5 mins 9 secs,0 mins 38 secs,5 mins 47 secs,5.47
+Manual,10/4/2016,3:13:33,ENERGYPLM,QA1,Release_6_1_30,all,PLM-ENERGYPLM-APP,408,PLM-ENERGYPLM-DB,320,3 mins 19 secs,0 mins 48 secs,4 mins 7 secs,4.7
+Auto,10/4/2016,3:40:44,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,976,PLM-WINDPLM-DB,829,5 mins 53 secs,0 mins 41 secs,6 mins 34 secs,6.34
+Auto,10/4/2016,6:40:33,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,977,PLM-WINDPLM-DB,830,5 mins 31 secs,0 mins 42 secs,6 mins 13 secs,6.13
+Manual,10/4/2016,7:11:12,ENERGYPLM,QA1,Release_6_1_30,all,PLM-ENERGYPLM-APP,409,PLM-ENERGYPLM-DB,321,3 mins 15 secs,0 mins 47 secs,4 mins 3 secs,4.3
+Auto,10/4/2016,8:45:53,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,979,PLM-WINDPLM-DB,832,5 mins 12 secs,0 mins 42 secs,5 mins 55 secs,5.55
+Auto,10/4/2016,10:42:15,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,980,PLM-WINDPLM-DB,833,5 mins 39 secs,0 mins 52 secs,6 mins 31 secs,6.31
+Manual,10/4/2016,11:02:22,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,98,PLM-NuclearPLM-DB,86,14 mins 31 secs,0 mins 34 secs,15 mins 6 secs,15.6
+Auto,10/4/2016,11:57:43,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,981,PLM-WINDPLM-DB,834,6 mins 31 secs,0 mins 39 secs,7 mins 10 secs,7.1
+Auto,10/4/2016,13:47:53,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,982,PLM-WINDPLM-DB,835,5 mins 7 secs,0 mins 32 secs,5 mins 39 secs,5.39
+Auto,10/4/2016,23:42:46,WINDPLM,DEV3,wind_dev_4_6,all,PLM-WINDPLM-APP,983,PLM-WINDPLM-DB,836,6 mins 3 secs,0 mins 38 secs,6 mins 42 secs,6.42
+Auto,10/5/2016,2:11:33,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,984,PLM-WINDPLM-DB,837,5 mins 31 secs,0 mins 45 secs,6 mins 16 secs,6.16
+Auto,10/5/2016,2:47:03,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,985,PLM-WINDPLM-DB,838,9 mins 16 secs,0 mins 48 secs,10 mins 4 secs,10.4
+Auto,10/5/2016,3:43:48,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,986,PLM-WINDPLM-DB,839,8 mins 0 secs,0 mins 50 secs,8 mins 51 secs,8.51
+Auto,10/5/2016,4:44:20,WINDPLM,DEV5,wind_dev_4_12,all,PLM-WINDPLM-APP,987,PLM-WINDPLM-DB,840,8 mins 43 secs,0 mins 38 secs,9 mins 22 secs,9.22
+Auto,10/5/2016,5:04:57,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,988,PLM-WINDPLM-DB,841,7 mins 41 secs,0 mins 50 secs,8 mins 32 secs,8.32
+Auto,10/5/2016,6:44:23,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,989,PLM-WINDPLM-DB,842,8 mins 23 secs,0 mins 59 secs,9 mins 22 secs,9.22
+Manual,10/5/2016,7:12:26,ENERGYPLM,QA1,Release_6_1_30,db,PLM-ENERGYPLM-APP,410,PLM-ENERGYPLM-DB,322,3 mins 59 secs,1 mins 2 secs,5 mins 1 secs,5.1
+Auto,10/5/2016,7:22:35,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,990,PLM-WINDPLM-DB,843,8 mins 23 secs,0 mins 48 secs,9 mins 11 secs,9.11
+Auto,10/5/2016,7:24:51,WINDPLM,QA3,Release_4_6,app,PLM-WINDPLM-APP,991,,,3 mins 21 secs,,3 mins 21 secs,3.21
+Manual,10/5/2016,8:06:00,ENERGYPLM,QA1,Release_6_1_30,all,PLM-ENERGYPLM-APP,411,PLM-ENERGYPLM-DB,323,4 mins 55 secs,0 mins 54 secs,5 mins 50 secs,5.5
+Auto,10/5/2016,8:51:16,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,993,PLM-WINDPLM-DB,845,7 mins 17 secs,0 mins 47 secs,8 mins 4 secs,8.4
+Auto,10/5/2016,10:44:01,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,994,PLM-WINDPLM-DB,846,7 mins 16 secs,0 mins 44 secs,8 mins 0 secs,8
+Manual,10/5/2016,12:00:20,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,99,PLM-NuclearPLM-DB,87,22 mins 56 secs,0 mins 42 secs,23 mins 38 secs,23.38
+Auto,10/5/2016,12:10:08,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,995,PLM-WINDPLM-DB,847,8 mins 44 secs,0 mins 44 secs,9 mins 29 secs,9.29
+Auto,10/5/2016,12:45:55,WINDPLM,DEV5,wind_dev_4_12,db,PLM-WINDPLM-APP,996,PLM-WINDPLM-DB,848,7 mins 21 secs,0 mins 42 secs,8 mins 4 secs,8.4
+Manual,10/5/2016,13:47:53,ENERGYPLM,QA1,Release_6_1_30,all,PLM-ENERGYPLM-APP,412,PLM-ENERGYPLM-DB,324,4 mins 49 secs,0 mins 49 secs,5 mins 39 secs,5.39
+Manual,10/5/2016,14:53:37,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,108,PLM-POWERPLM-DB,88,0 mins 0 secs,0 mins 33 secs,0 mins 33 secs,0.33
+Auto,10/5/2016,15:46:22,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,997,PLM-WINDPLM-DB,849,7 mins 35 secs,0 mins 48 secs,8 mins 24 secs,8.24
+Auto,10/5/2016,23:44:51,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,998,PLM-WINDPLM-DB,850,7 mins 15 secs,0 mins 37 secs,7 mins 52 secs,7.52
+Auto,10/6/2016,5:26:53,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,999,PLM-WINDPLM-DB,851,2 mins 40 secs,0 mins 43 secs,3 mins 23 secs,3.23
+Auto,10/6/2016,5:44:06,WINDPLM,DEV5,wind_dev_4_12,db,PLM-WINDPLM-APP,1001,PLM-WINDPLM-DB,853,7 mins 12 secs,0 mins 39 secs,7 mins 51 secs,7.51
+Auto,10/6/2016,6:13:22,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,1002,PLM-WINDPLM-DB,854,6 mins 51 secs,0 mins 48 secs,7 mins 39 secs,7.39
+Auto,10/6/2016,6:43:15,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,1003,PLM-WINDPLM-DB,855,8 mins 17 secs,0 mins 58 secs,9 mins 16 secs,9.16
+Manual,10/6/2016,7:36:39,ENERGYPLM,QA1,Release_6_1_30,db,PLM-ENERGYPLM-APP,413,PLM-ENERGYPLM-DB,325,3 mins 42 secs,0 mins 52 secs,4 mins 34 secs,4.34
+Auto,10/6/2016,8:43:37,WINDPLM,DEV3,wind_dev_4_6,all,PLM-WINDPLM-APP,1004,PLM-WINDPLM-DB,856,8 mins 24 secs,0 mins 44 secs,9 mins 8 secs,9.8
+Auto,10/6/2016,8:50:55,WINDPLM,DEV5,wind_dev_4_12,db,PLM-WINDPLM-APP,1005,PLM-WINDPLM-DB,857,7 mins 9 secs,0 mins 48 secs,7 mins 57 secs,7.57
+Auto,10/6/2016,9:40:47,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,1006,PLM-WINDPLM-DB,858,8 mins 27 secs,0 mins 53 secs,9 mins 20 secs,9.2
+Manual,10/6/2016,9:46:32,ENERGYPLM,QA1,Release_6_1_30,all,PLM-ENERGYPLM-APP,414,PLM-ENERGYPLM-DB,326,5 mins 45 secs,0 mins 58 secs,6 mins 44 secs,6.44
+Auto,10/6/2016,9:49:05,WINDPLM,QA3,Release_4_6,app,PLM-WINDPLM-APP,1007,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,10/6/2016,10:43:54,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,1008,PLM-WINDPLM-DB,859,7 mins 16 secs,0 mins 48 secs,8 mins 5 secs,8.5
+Manual,10/6/2016,11:16:09,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,100,PLM-NuclearPLM-DB,88,21 mins 56 secs,0 mins 45 secs,22 mins 41 secs,22.41
+Auto,10/6/2016,11:43:08,WINDPLM,NEWDEV2,wind_dev_4_9_mbs_poc,db,PLM-WINDPLM-APP,1009,PLM-WINDPLM-DB,860,5 mins 37 secs,0 mins 58 secs,6 mins 36 secs,6.36
+Auto,10/6/2016,13:07:53,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,1010,PLM-WINDPLM-DB,861,5 mins 30 secs,0 mins 35 secs,6 mins 5 secs,6.5
+Manual,10/6/2016,13:56:05,PGSLM,QA2,Release_1_2,db,PLM-PGSLM-APP,54,PLM-PGSLM-DB,35,5 mins 57 secs,0 mins 26 secs,6 mins 23 secs,6.23
+Manual,10/6/2016,14:06:36,POWERPLM,DEV1,Release_1_0,db,PLM-POWERPLM-APP,109,PLM-POWERPLM-DB,89,12 mins 24 secs,0 mins 31 secs,12 mins 56 secs,12.56
+Auto,10/6/2016,23:42:55,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1011,PLM-WINDPLM-DB,862,5 mins 52 secs,0 mins 48 secs,6 mins 41 secs,6.41
+Auto,10/7/2016,1:11:00,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,1012,PLM-WINDPLM-DB,863,5 mins 27 secs,0 mins 40 secs,6 mins 7 secs,6.7
+Auto,10/7/2016,1:42:27,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,1013,,,2 mins 14 secs,,2 mins 14 secs,2.14
+Manual,10/7/2016,2:24:06,ENERGYPLM,QA1,Release_6_1_30,all,PLM-ENERGYPLM-APP,415,PLM-ENERGYPLM-DB,327,3 mins 20 secs,0 mins 47 secs,4 mins 8 secs,4.8
+Auto,10/7/2016,2:43:05,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,1014,PLM-WINDPLM-DB,864,6 mins 36 secs,0 mins 41 secs,7 mins 18 secs,7.18
+Auto,10/7/2016,3:46:40,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,1015,PLM-WINDPLM-DB,865,5 mins 44 secs,0 mins 50 secs,6 mins 35 secs,6.35
+Auto,10/7/2016,6:22:40,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,1016,PLM-WINDPLM-DB,866,1 mins 32 secs,0 mins 46 secs,2 mins 18 secs,2.18
+Manual,10/7/2016,6:29:49,POWERPLM,DEV1,Release_1_0,db,PLM-POWERPLM-APP,110,PLM-POWERPLM-DB,90,13 mins 12 secs,0 mins 27 secs,13 mins 39 secs,13.39
+Auto,10/7/2016,6:41:00,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,1017,PLM-WINDPLM-DB,867,6 mins 28 secs,0 mins 43 secs,7 mins 11 secs,7.11
+Auto,10/7/2016,7:01:37,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,1018,,,6 mins 28 secs,,6 mins 28 secs,6.28
+Auto,10/7/2016,8:39:12,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1019,PLM-WINDPLM-DB,868,5 mins 23 secs,0 mins 40 secs,6 mins 3 secs,6.3
+Auto,10/7/2016,9:54:24,AEROPLM,DEV,Dev_3_12_0,db,PLM-AEROPLM-APP,211,PLM-AEROPLM-DB,216,5 mins 15 secs,0 mins 37 secs,5 mins 52 secs,5.52
+Manual,10/7/2016,10:04:39,ENERGYPLM,QA1,Release_6_1_22,db,PLM-ENERGYPLM-APP,416,PLM-ENERGYPLM-DB,328,7 mins 59 secs,0 mins 44 secs,8 mins 43 secs,8.43
+Manual,10/7/2016,10:17:08,ENERGYPLM,QA1,Release_6_1_23,db,PLM-ENERGYPLM-APP,417,PLM-ENERGYPLM-DB,329,7 mins 2 secs,0 mins 26 secs,7 mins 29 secs,7.29
+Auto,10/7/2016,10:31:09,AEROPLM,QA,Release_3_12_0,db,PLM-AEROPLM-APP,212,PLM-AEROPLM-DB,217,6 mins 6 secs,0 mins 44 secs,6 mins 50 secs,6.5
+Manual,10/7/2016,10:34:16,ENERGYPLM,QA1,Release_6_1_30,all,PLM-ENERGYPLM-APP,418,PLM-ENERGYPLM-DB,330,8 mins 35 secs,0 mins 52 secs,9 mins 27 secs,9.27
+Auto,10/7/2016,10:41:57,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,1021,PLM-WINDPLM-DB,870,6 mins 28 secs,0 mins 40 secs,7 mins 8 secs,7.8
+Manual,10/7/2016,11:06:01,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,111,PLM-POWERPLM-DB,91,0 mins 0 secs,0 mins 29 secs,0 mins 29 secs,0.29
+Auto,10/7/2016,11:16:35,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,1022,PLM-WINDPLM-DB,871,5 mins 42 secs,0 mins 51 secs,6 mins 34 secs,6.34
+Manual,10/7/2016,12:35:09,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,101,PLM-NuclearPLM-DB,89,15 mins 21 secs,0 mins 42 secs,16 mins 3 secs,16.3
+Manual,10/7/2016,13:11:15,NuclearPLM,QA,Release_4_0,db,PLM-NuclearPLM-APP,103,PLM-NuclearPLM-DB,90,10 mins 52 secs,0 mins 30 secs,11 mins 22 secs,11.22
+Auto,10/7/2016,23:42:48,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1023,PLM-WINDPLM-DB,872,5 mins 49 secs,0 mins 49 secs,6 mins 38 secs,6.38
+Auto,10/8/2016,2:43:05,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,1024,PLM-WINDPLM-DB,873,6 mins 26 secs,0 mins 39 secs,7 mins 6 secs,7.6
+Auto,10/8/2016,3:46:51,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,1025,PLM-WINDPLM-DB,874,5 mins 58 secs,0 mins 55 secs,6 mins 54 secs,6.54
+Auto,10/8/2016,3:49:16,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,1026,PLM-WINDPLM-DB,875,2 mins 32 secs,0 mins 49 secs,3 mins 22 secs,3.22
+Auto,10/8/2016,3:53:47,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,1027,,,3 mins 22 secs,,3 mins 22 secs,3.22
+Auto,10/8/2016,6:44:04,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,1028,PLM-WINDPLM-DB,876,7 mins 54 secs,0 mins 54 secs,8 mins 49 secs,8.49
+Auto,10/8/2016,8:24:52,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,1029,PLM-WINDPLM-DB,877,7 mins 50 secs,0 mins 49 secs,8 mins 39 secs,8.39
+Auto,10/8/2016,8:43:40,WINDPLM,DEV3,wind_dev_4_6,all,PLM-WINDPLM-APP,1030,PLM-WINDPLM-DB,878,8 mins 29 secs,0 mins 41 secs,9 mins 10 secs,9.1
+Manual,10/10/2016,6:29:05,ENERGYPLM,QA1,Release_6_1_30,db,PLM-ENERGYPLM-APP,420,PLM-ENERGYPLM-DB,332,3 mins 44 secs,0 mins 52 secs,4 mins 36 secs,4.36
+Auto,10/10/2016,6:44:08,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,1038,PLM-WINDPLM-DB,885,8 mins 21 secs,0 mins 54 secs,9 mins 16 secs,9.16
+Auto,10/10/2016,7:00:36,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,1039,PLM-WINDPLM-DB,886,8 mins 31 secs,0 mins 45 secs,9 mins 17 secs,9.17
+Manual,10/10/2016,7:38:50,ENERGYPLM,DEV1,Release_6_1_20,db,PLM-ENERGYPLM-APP,,PLM-ENERGYPLM-DB,333,0 mins 0 secs,0 mins 56 secs,0 mins 56 secs,0.56
+Manual,10/10/2016,7:53:12,ENERGYPLM,DEV1,Release_6_1_21,db,PLM-ENERGYPLM-APP,,PLM-ENERGYPLM-DB,334,0 mins 0 secs,0 mins 35 secs,0 mins 35 secs,0.35
+Manual,10/10/2016,8:05:12,ENERGYPLM,DEV1,Release_6_1_22,db,PLM-ENERGYPLM-APP,,PLM-ENERGYPLM-DB,335,0 mins 0 secs,0 mins 30 secs,0 mins 30 secs,0.3
+Manual,10/10/2016,8:21:42,ENERGYPLM,DEV1,Release_6_1_23,db,PLM-ENERGYPLM-APP,,PLM-ENERGYPLM-DB,336,0 mins 0 secs,0 mins 22 secs,0 mins 22 secs,0.22
+Auto,10/10/2016,8:43:58,WINDPLM,DEV3,wind_dev_4_6,all,PLM-WINDPLM-APP,1040,PLM-WINDPLM-DB,887,9 mins 23 secs,0 mins 38 secs,10 mins 2 secs,10.2
+Manual,10/10/2016,9:11:07,ENERGYPLM,DEV1,PGPLM_3DPDF_Test,all,PLM-ENERGYPLM-APP,422,PLM-ENERGYPLM-DB,337,3 mins 11 secs,0 mins 34 secs,3 mins 45 secs,3.45
+Auto,10/10/2016,10:41:36,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,1041,PLM-WINDPLM-DB,888,5 mins 38 secs,0 mins 50 secs,6 mins 28 secs,6.28
+Manual,10/10/2016,11:22:48,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,104,PLM-NuclearPLM-DB,91,14 mins 29 secs,0 mins 36 secs,15 mins 6 secs,15.6
+Manual,10/10/2016,12:40:35,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,112,PLM-POWERPLM-DB,92,0 mins 0 secs,0 mins 31 secs,0 mins 31 secs,0.31
+Manual,10/10/2016,12:43:30,ENERGYPLM,QA1,Release_6_1_30,all,PLM-ENERGYPLM-APP,423,PLM-ENERGYPLM-DB,338,9 mins 45 secs,0 mins 49 secs,10 mins 35 secs,10.35
+Manual,10/10/2016,13:51:01,WINDPLM,DEV4,wind_dev_4_7,all,PLM-WINDPLM-APP,1042,PLM-WINDPLM-DB,889,6 mins 28 secs,0 mins 40 secs,7 mins 8 secs,7.8
+Auto,10/11/2016,2:42:11,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,1043,PLM-WINDPLM-DB,890,5 mins 27 secs,0 mins 47 secs,6 mins 15 secs,6.15
+Manual,10/11/2016,7:17:53,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,113,PLM-POWERPLM-DB,93,15 mins 50 secs,0 mins 31 secs,16 mins 21 secs,16.21
+Manual,10/11/2016,10:25:56,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,105,PLM-NuclearPLM-DB,93,13 mins 22 secs,0 mins 34 secs,13 mins 56 secs,13.56
+Auto,10/11/2016,12:43:57,WINDPLM,DEV5,wind_dev_4_12,all,PLM-WINDPLM-APP,1044,PLM-WINDPLM-DB,891,6 mins 52 secs,0 mins 35 secs,7 mins 27 secs,7.27
+Auto,10/12/2016,2:41:48,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,1045,PLM-WINDPLM-DB,892,5 mins 54 secs,0 mins 52 secs,6 mins 46 secs,6.46
+Auto,10/12/2016,2:46:49,WINDPLM,DEV,wind_dev_4_5,app,PLM-WINDPLM-APP,1046,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,10/12/2016,2:58:22,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,1048,,,6 mins 3 secs,,6 mins 3 secs,6.3
+Auto,10/12/2016,3:40:09,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1049,PLM-WINDPLM-DB,894,5 mins 26 secs,0 mins 45 secs,6 mins 12 secs,6.12
+Manual,10/12/2016,6:48:16,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,106,PLM-NuclearPLM-DB,94,0 mins 0 secs,0 mins 55 secs,0 mins 55 secs,0.55
+Auto,10/12/2016,7:03:43,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,1051,PLM-WINDPLM-DB,896,5 mins 59 secs,0 mins 53 secs,6 mins 53 secs,6.53
+Auto,10/12/2016,7:09:17,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,1052,PLM-WINDPLM-DB,897,5 mins 47 secs,0 mins 46 secs,6 mins 34 secs,6.34
+Auto,10/12/2016,7:10:33,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,1053,,,2 mins 17 secs,,2 mins 17 secs,2.17
+Auto,10/12/2016,7:16:36,WINDPLM,QA3,Release_4_6,app,PLM-WINDPLM-APP,1054,,,6 mins 1 secs,,6 mins 1 secs,6.1
+Auto,10/12/2016,7:35:33,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,1055,,,6 mins 1 secs,,6 mins 1 secs,6.1
+Auto,10/12/2016,8:39:41,WINDPLM,DEV3,wind_dev_4_6,all,PLM-WINDPLM-APP,1056,PLM-WINDPLM-DB,898,5 mins 59 secs,0 mins 37 secs,6 mins 36 secs,6.36
+Auto,10/12/2016,10:34:07,WINDPLM,NEWDEV2,wind_dev_4_9_mbs_poc,all,PLM-WINDPLM-APP,1057,PLM-WINDPLM-DB,899,7 mins 14 secs,0 mins 47 secs,8 mins 1 secs,8.1
+Manual,10/12/2016,10:40:54,WINDPLM,DEV4,wind_dev_4_7,all,PLM-WINDPLM-APP,1058,PLM-WINDPLM-DB,900,6 mins 16 secs,0 mins 38 secs,6 mins 54 secs,6.54
+Auto,10/12/2016,10:47:11,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,1059,PLM-WINDPLM-DB,901,6 mins 8 secs,0 mins 38 secs,6 mins 47 secs,6.47
+Auto,10/12/2016,11:32:50,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,1060,PLM-WINDPLM-DB,902,5 mins 26 secs,0 mins 37 secs,6 mins 3 secs,6.3
+Manual,10/12/2016,11:47:24,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,107,PLM-NuclearPLM-DB,95,14 mins 34 secs,0 mins 31 secs,15 mins 5 secs,15.5
+Auto,10/12/2016,12:44:30,WINDPLM,DEV5,wind_dev_4_12,all,PLM-WINDPLM-APP,1061,PLM-WINDPLM-DB,903,6 mins 46 secs,0 mins 42 secs,7 mins 28 secs,7.28
+Manual,10/12/2016,15:12:07,POWERPLM,DEV1,Release_1_0,db,PLM-POWERPLM-APP,114,PLM-POWERPLM-DB,94,11 mins 59 secs,0 mins 32 secs,12 mins 31 secs,12.31
+Auto,10/12/2016,23:42:46,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1062,PLM-WINDPLM-DB,904,5 mins 45 secs,0 mins 50 secs,6 mins 35 secs,6.35
+Auto,10/13/2016,1:21:17,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,1063,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,10/13/2016,1:24:12,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,1064,PLM-WINDPLM-DB,905,1 mins 25 secs,0 mins 44 secs,2 mins 9 secs,2.9
+Auto,10/13/2016,1:32:48,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,1065,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,10/13/2016,2:07:48,WINDPLM,DEV4,wind_dev_4_7,all,PLM-WINDPLM-APP,1066,PLM-WINDPLM-DB,906,6 mins 57 secs,0 mins 39 secs,7 mins 37 secs,7.37
+Auto,10/13/2016,2:42:49,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,1067,PLM-WINDPLM-DB,907,6 mins 23 secs,0 mins 41 secs,7 mins 5 secs,7.5
+Auto,10/13/2016,4:41:08,WINDPLM,DEV5,wind_dev_4_12,all,PLM-WINDPLM-APP,1068,PLM-WINDPLM-DB,908,6 mins 29 secs,0 mins 49 secs,7 mins 19 secs,7.19
+Auto,10/13/2016,6:21:38,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,1069,PLM-WINDPLM-DB,909,5 mins 25 secs,0 mins 43 secs,6 mins 9 secs,6.9
+Auto,10/13/2016,6:31:44,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,1070,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,10/13/2016,6:43:16,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,1071,PLM-WINDPLM-DB,910,8 mins 52 secs,1 mins 1 secs,9 mins 53 secs,9.53
+Manual,10/13/2016,6:48:24,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,108,PLM-NuclearPLM-DB,96,16 mins 30 secs,0 mins 52 secs,17 mins 23 secs,17.23
+Auto,10/13/2016,8:40:08,WINDPLM,DEV3,wind_dev_4_6,all,PLM-WINDPLM-APP,1072,PLM-WINDPLM-DB,911,6 mins 38 secs,0 mins 36 secs,7 mins 15 secs,7.15
+Auto,10/13/2016,9:16:16,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,1073,PLM-WINDPLM-DB,912,5 mins 26 secs,0 mins 54 secs,6 mins 21 secs,6.21
+Auto,10/13/2016,10:22:39,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,1074,PLM-WINDPLM-DB,913,5 mins 19 secs,0 mins 37 secs,5 mins 57 secs,5.57
+Auto,10/13/2016,10:28:30,WINDPLM,QA3,Release_4_6,app,PLM-WINDPLM-APP,1075,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,10/13/2016,10:40:46,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,1076,PLM-WINDPLM-DB,914,5 mins 15 secs,0 mins 43 secs,5 mins 58 secs,5.58
+Auto,10/13/2016,11:41:41,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,1077,PLM-WINDPLM-DB,915,5 mins 28 secs,0 mins 48 secs,6 mins 16 secs,6.16
+Manual,10/13/2016,12:22:00,ENERGYPLM,QA1,Release_6_1_30,all,PLM-ENERGYPLM-APP,425,PLM-ENERGYPLM-DB,340,3 mins 29 secs,0 mins 46 secs,4 mins 16 secs,4.16
+Manual,10/13/2016,12:36:29,ENERGYPLM,QA1,Release_6_1_30,db,PLM-ENERGYPLM-APP,426,PLM-ENERGYPLM-DB,341,2 mins 19 secs,0 mins 43 secs,3 mins 2 secs,3.2
+Auto,10/13/2016,12:48:03,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,1078,PLM-WINDPLM-DB,916,5 mins 32 secs,0 mins 42 secs,6 mins 14 secs,6.14
+Auto,10/13/2016,23:43:39,WINDPLM,DEV3,wind_dev_4_6,all,PLM-WINDPLM-APP,1079,PLM-WINDPLM-DB,917,6 mins 58 secs,0 mins 37 secs,7 mins 35 secs,7.35
+Auto,10/14/2016,1:46:59,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,1080,PLM-WINDPLM-DB,918,5 mins 26 secs,1 mins 20 secs,6 mins 47 secs,6.47
+Manual,10/14/2016,2:01:30,ENERGYPLM,QA1,Release_6_1_30,db,PLM-ENERGYPLM-APP,427,PLM-ENERGYPLM-DB,342,2 mins 29 secs,0 mins 48 secs,3 mins 17 secs,3.17
+Auto,10/14/2016,2:12:47,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,1081,PLM-WINDPLM-DB,919,1 mins 39 secs,1 mins 6 secs,2 mins 45 secs,2.45
+Auto,10/14/2016,2:43:14,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,1082,PLM-WINDPLM-DB,920,6 mins 30 secs,0 mins 51 secs,7 mins 21 secs,7.21
+Auto,10/14/2016,2:49:14,WINDPLM,QA3,Release_4_6,all,PLM-WINDPLM-APP,1083,PLM-WINDPLM-DB,921,6 mins 46 secs,0 mins 38 secs,7 mins 24 secs,7.24
+Manual,10/14/2016,3:06:45,POWERPLM,DEV1,Release_1_0,db,PLM-POWERPLM-APP,116,PLM-POWERPLM-DB,96,11 mins 31 secs,0 mins 42 secs,12 mins 13 secs,12.13
+Auto,10/14/2016,3:41:37,WINDPLM,DEV3,wind_dev_4_6,all,PLM-WINDPLM-APP,1084,PLM-WINDPLM-DB,922,7 mins 15 secs,0 mins 39 secs,7 mins 55 secs,7.55
+Auto,10/14/2016,3:47:14,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,1085,PLM-WINDPLM-DB,923,5 mins 15 secs,0 mins 39 secs,5 mins 55 secs,5.55
+Auto,10/14/2016,4:40:26,WINDPLM,DEV5,wind_dev_4_12,all,PLM-WINDPLM-APP,1086,PLM-WINDPLM-DB,924,6 mins 12 secs,0 mins 40 secs,6 mins 53 secs,6.53
+Auto,10/14/2016,5:33:06,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,1087,PLM-WINDPLM-DB,925,5 mins 26 secs,0 mins 43 secs,6 mins 9 secs,6.9
+Auto,10/14/2016,5:43:36,WINDPLM,QA3,Release_4_6,app,PLM-WINDPLM-APP,1088,,,2 mins 19 secs,,2 mins 19 secs,2.19
+Auto,10/14/2016,6:28:58,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,1089,PLM-WINDPLM-DB,926,1 mins 26 secs,0 mins 38 secs,2 mins 5 secs,2.5
+Auto,10/14/2016,6:36:11,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,1090,PLM-WINDPLM-DB,927,5 mins 28 secs,0 mins 48 secs,6 mins 17 secs,6.17
+Auto,10/14/2016,6:41:31,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,1091,PLM-WINDPLM-DB,928,5 mins 31 secs,0 mins 41 secs,6 mins 12 secs,6.12
+Manual,10/14/2016,7:59:49,POWERPLM,DEV1,Release_1_0,app,PLM-POWERPLM-APP,117,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,10/14/2016,8:39:25,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1092,PLM-WINDPLM-DB,929,5 mins 33 secs,0 mins 47 secs,6 mins 21 secs,6.21
+Manual,10/14/2016,10:06:43,ENERGYPLM,QA1,Release_6_1_30,db,PLM-ENERGYPLM-APP,428,PLM-ENERGYPLM-DB,343,2 mins 19 secs,0 mins 51 secs,3 mins 11 secs,3.11
+Auto,10/14/2016,10:42:19,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,1093,PLM-WINDPLM-DB,930,6 mins 3 secs,0 mins 41 secs,6 mins 44 secs,6.44
+Auto,10/14/2016,12:43:00,WINDPLM,DEV5,wind_dev_4_12,db,PLM-WINDPLM-APP,1094,PLM-WINDPLM-DB,931,5 mins 21 secs,0 mins 45 secs,6 mins 7 secs,6.7
+Manual,10/14/2016,13:14:24,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,109,PLM-NuclearPLM-DB,97,14 mins 24 secs,0 mins 38 secs,15 mins 3 secs,15.3
+Auto,10/14/2016,23:43:25,WINDPLM,DEV3,wind_dev_4_6,all,PLM-WINDPLM-APP,1095,PLM-WINDPLM-DB,932,6 mins 43 secs,0 mins 42 secs,7 mins 26 secs,7.26
+Auto,10/15/2016,2:41:58,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,1096,PLM-WINDPLM-DB,933,5 mins 20 secs,0 mins 42 secs,6 mins 3 secs,6.3
+Auto,10/17/2016,2:22:10,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,1097,PLM-WINDPLM-DB,934,6 mins 34 secs,0 mins 48 secs,7 mins 22 secs,7.22
+Auto,10/17/2016,3:28:34,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,1098,,,3 mins 21 secs,,3 mins 21 secs,3.21
+Auto,10/17/2016,4:40:26,WINDPLM,DEV5,wind_dev_4_12,db,PLM-WINDPLM-APP,1099,PLM-WINDPLM-DB,935,5 mins 26 secs,0 mins 54 secs,6 mins 20 secs,6.2
+Auto,10/17/2016,6:43:19,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,1100,PLM-WINDPLM-DB,936,8 mins 37 secs,0 mins 48 secs,9 mins 26 secs,9.26
+Manual,10/17/2016,6:48:26,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,110,PLM-NuclearPLM-DB,98,16 mins 23 secs,0 mins 32 secs,16 mins 55 secs,16.55
+Auto,10/17/2016,8:45:25,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1102,PLM-WINDPLM-DB,938,5 mins 7 secs,0 mins 46 secs,5 mins 54 secs,5.54
+Auto,10/17/2016,8:50:39,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,1103,PLM-WINDPLM-DB,939,5 mins 13 secs,0 mins 48 secs,6 mins 1 secs,6.1
+Auto,10/17/2016,9:03:38,WINDPLM,QA3,Release_4_6,app,PLM-WINDPLM-APP,1104,,,0 mins 0 secs,,0 mins 0 secs,0
+Manual,10/17/2016,10:01:39,ENERGYPLM,QA1,Release_6_1_30,db,PLM-ENERGYPLM-APP,429,PLM-ENERGYPLM-DB,344,2 mins 20 secs,0 mins 52 secs,3 mins 13 secs,3.13
+Auto,10/17/2016,10:21:18,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,1105,PLM-WINDPLM-DB,940,5 mins 35 secs,0 mins 47 secs,6 mins 23 secs,6.23
+Auto,10/17/2016,10:41:39,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,1106,PLM-WINDPLM-DB,941,6 mins 10 secs,0 mins 37 secs,6 mins 47 secs,6.47
+Auto,10/17/2016,11:00:38,WINDPLM,QA,Release_4_5,app,PLM-WINDPLM-APP,1107,,,0 mins 0 secs,,0 mins 0 secs,0
+Manual,10/17/2016,12:17:39,ENERGYPLM,QA1,Release_6_1_30,db,PLM-ENERGYPLM-APP,430,PLM-ENERGYPLM-DB,345,2 mins 23 secs,0 mins 51 secs,3 mins 15 secs,3.15
+Auto,10/17/2016,22:27:13,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,1108,PLM-WINDPLM-DB,942,1 mins 37 secs,0 mins 43 secs,2 mins 20 secs,2.2
+Auto,10/17/2016,23:41:51,WINDPLM,DEV3,wind_dev_4_6,app,PLM-WINDPLM-APP,1109,,,6 mins 19 secs,,6 mins 19 secs,6.19
+Auto,10/18/2016,2:42:27,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,1110,PLM-WINDPLM-DB,943,5 mins 33 secs,0 mins 47 secs,6 mins 20 secs,6.2
+Manual,10/18/2016,2:54:45,ENERGYPLM,QA1,Release_6_1_30,db,PLM-ENERGYPLM-APP,431,PLM-ENERGYPLM-DB,346,2 mins 20 secs,0 mins 46 secs,3 mins 7 secs,3.7
+Manual,10/18/2016,3:03:46,ENERGYPLM,QA1,Release_6_1_30,db,PLM-ENERGYPLM-APP,432,PLM-ENERGYPLM-DB,347,2 mins 15 secs,0 mins 46 secs,3 mins 2 secs,3.2
+Auto,10/18/2016,3:40:23,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1111,PLM-WINDPLM-DB,944,5 mins 38 secs,0 mins 41 secs,6 mins 19 secs,6.19
+Auto,10/18/2016,4:33:06,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,1112,PLM-WINDPLM-DB,945,5 mins 17 secs,0 mins 44 secs,6 mins 1 secs,6.1
+Auto,10/18/2016,4:40:41,WINDPLM,DEV4,wind_dev_4_7,all,PLM-WINDPLM-APP,1113,PLM-WINDPLM-DB,946,6 mins 0 secs,0 mins 37 secs,6 mins 37 secs,6.37
+Auto,10/18/2016,4:52:25,WINDPLM,QA3,Release_4_6,app,PLM-WINDPLM-APP,1114,,,5 mins 58 secs,,5 mins 58 secs,5.58
+Manual,10/18/2016,5:22:29,ENERGYPLM,QA1,Release_6_1_30,db,PLM-ENERGYPLM-APP,433,PLM-ENERGYPLM-DB,348,3 mins 3 secs,1 mins 2 secs,4 mins 6 secs,4.6
+Auto,10/18/2016,5:33:28,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,1116,PLM-WINDPLM-DB,948,5 mins 28 secs,0 mins 44 secs,6 mins 13 secs,6.13
+Manual,10/18/2016,6:37:16,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,1117,PLM-WINDPLM-DB,949,6 mins 35 secs,0 mins 42 secs,7 mins 18 secs,7.18
+Auto,10/18/2016,6:43:54,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,1118,PLM-WINDPLM-DB,950,7 mins 14 secs,0 mins 50 secs,8 mins 4 secs,8.4
+Auto,10/18/2016,8:22:18,WINDPLM,QA,Release_4_5,all,PLM-WINDPLM-APP,1119,PLM-WINDPLM-DB,951,5 mins 54 secs,0 mins 44 secs,6 mins 38 secs,6.38
+Auto,10/18/2016,8:40:08,WINDPLM,DEV5,wind_dev_4_12,all,PLM-WINDPLM-APP,1120,PLM-WINDPLM-DB,952,6 mins 22 secs,0 mins 45 secs,7 mins 7 secs,7.7
+Auto,10/18/2016,8:45:53,WINDPLM,DEV3,wind_dev_4_6,all,PLM-WINDPLM-APP,1121,PLM-WINDPLM-DB,953,5 mins 58 secs,0 mins 37 secs,6 mins 36 secs,6.36
+Manual,10/18/2016,9:45:48,PGSLM,QA2,Release_1_2,db,PLM-PGSLM-APP,55,PLM-PGSLM-DB,37,5 mins 47 secs,0 mins 25 secs,6 mins 12 secs,6.12
+Auto,10/18/2016,10:42:03,WINDPLM,DEV,wind_dev_4_5,all,PLM-WINDPLM-APP,1122,PLM-WINDPLM-DB,954,6 mins 33 secs,0 mins 39 secs,7 mins 12 secs,7.12
+Auto,10/18/2016,11:26:30,WINDPLM,QA,Release_4_5,db,PLM-WINDPLM-APP,1123,PLM-WINDPLM-DB,955,5 mins 35 secs,0 mins 53 secs,6 mins 28 secs,6.28
+Manual,10/18/2016,11:36:30,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,111,PLM-NuclearPLM-DB,99,14 mins 31 secs,0 mins 35 secs,15 mins 7 secs,15.7
+Manual,10/18/2016,11:44:49,ENERGYPLM,QA1,Release_6_1_30,db,PLM-ENERGYPLM-APP,434,PLM-ENERGYPLM-DB,349,2 mins 16 secs,0 mins 49 secs,3 mins 5 secs,3.5
+Manual,10/18/2016,13:13:15,NuclearPLM,DEV,Release_4_0,db,PLM-NuclearPLM-APP,112,PLM-NuclearPLM-DB,101,16 mins 47 secs,0 mins 39 secs,17 mins 26 secs,17.26
+Manual,10/18/2016,13:17:12,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,118,PLM-POWERPLM-DB,97,21 mins 38 secs,0 mins 29 secs,22 mins 8 secs,22.8
+Manual,10/18/2016,14:47:18,ENERGYPLM,QA1,Release_6_1_30,db,PLM-ENERGYPLM-APP,435,PLM-ENERGYPLM-DB,350,2 mins 22 secs,0 mins 54 secs,3 mins 17 secs,3.17
+Auto,10/18/2016,23:42:32,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1124,PLM-WINDPLM-DB,956,5 mins 31 secs,0 mins 50 secs,6 mins 21 secs,6.21
+Manual,10/19/2016,1:19:22,ENERGYPLM,QA1,Release_6_1_30,db,PLM-ENERGYPLM-APP,436,PLM-ENERGYPLM-DB,351,2 mins 29 secs,0 mins 54 secs,3 mins 23 secs,3.23
+Manual,10/19/2016,1:36:17,POWERPLM,DEV1,Release_1_0,db,PLM-POWERPLM-APP,119,PLM-POWERPLM-DB,98,12 mins 2 secs,0 mins 30 secs,12 mins 33 secs,12.33
+Manual,10/19/2016,2:22:37,POWERPLM,DEV1,Release_1_0,db,PLM-POWERPLM-APP,120,PLM-POWERPLM-DB,99,10 mins 53 secs,0 mins 37 secs,11 mins 30 secs,11.3
+Auto,10/19/2016,2:42:33,WINDPLM,DEV,wind_dev_4_5,db,PLM-WINDPLM-APP,1125,PLM-WINDPLM-DB,957,5 mins 36 secs,0 mins 49 secs,6 mins 26 secs,6.26
+Auto,10/19/2016,3:41:19,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1126,PLM-WINDPLM-DB,958,5 mins 33 secs,1 mins 2 secs,6 mins 36 secs,6.36
+Auto,10/19/2016,4:40:35,WINDPLM,DEV4,wind_dev_4_7,db,PLM-WINDPLM-APP,1127,PLM-WINDPLM-DB,959,5 mins 32 secs,0 mins 41 secs,6 mins 13 secs,6.13
+Manual,10/19/2016,6:46:06,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,114,PLM-NuclearPLM-DB,102,0 mins 0 secs,0 mins 35 secs,0 mins 35 secs,0.35
+Auto,10/19/2016,7:33:15,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,1128,PLM-WINDPLM-DB,960,5 mins 34 secs,0 mins 51 secs,6 mins 25 secs,6.25
+Auto,10/19/2016,7:59:06,WINDPLM,QA3,Release_4_6,app,PLM-WINDPLM-APP,1129,,,2 mins 24 secs,,2 mins 24 secs,2.24
+Manual,10/19/2016,11:27:43,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,115,PLM-NuclearPLM-DB,103,14 mins 0 secs,0 mins 31 secs,14 mins 31 secs,14.31
+Manual,10/19/2016,13:28:51,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,121,PLM-POWERPLM-DB,100,15 mins 56 secs,0 mins 33 secs,16 mins 29 secs,16.29
+Auto,10/19/2016,23:43:14,WINDPLM,DEV3,wind_dev_4_6,all,PLM-WINDPLM-APP,1130,PLM-WINDPLM-DB,961,6 mins 39 secs,0 mins 37 secs,7 mins 17 secs,7.17
+Auto,10/20/2016,3:09:48,AEROPLM,DEV,Dev_3_13_0,db,PLM-AEROPLM-APP,213,PLM-AEROPLM-DB,218,5 mins 34 secs,0 mins 42 secs,6 mins 17 secs,6.17
+Auto,10/20/2016,3:10:44,AEROPLM,DEV,Dev_3_13_0,app,PLM-AEROPLM-APP,214,,,2 mins 6 secs,,2 mins 6 secs,2.6
+Auto,10/20/2016,3:36:25,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1131,PLM-WINDPLM-DB,962,1 mins 34 secs,0 mins 46 secs,2 mins 21 secs,2.21
+Manual,10/20/2016,6:46:56,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,116,PLM-NuclearPLM-DB,104,15 mins 16 secs,0 mins 33 secs,15 mins 50 secs,15.5
+Auto,10/20/2016,7:33:58,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,1132,PLM-WINDPLM-DB,963,6 mins 2 secs,0 mins 52 secs,6 mins 55 secs,6.55
+Auto,10/20/2016,7:35:03,WINDPLM,QA3,Release_4_6,app,PLM-WINDPLM-APP,1133,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,10/20/2016,8:39:42,WINDPLM,DEV3,wind_dev_4_6,all,PLM-WINDPLM-APP,1134,PLM-WINDPLM-DB,964,6 mins 56 secs,0 mins 38 secs,7 mins 34 secs,7.34
+Manual,10/20/2016,12:01:01,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,117,PLM-NuclearPLM-DB,105,14 mins 59 secs,0 mins 37 secs,15 mins 36 secs,15.36
+Auto,10/20/2016,12:45:48,WINDPLM,DEV5,wind_dev_4_12,db,PLM-WINDPLM-APP,1135,PLM-WINDPLM-DB,965,7 mins 44 secs,0 mins 58 secs,8 mins 43 secs,8.43
+Manual,10/20/2016,12:53:20,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,122,PLM-POWERPLM-DB,101,0 mins 0 secs,0 mins 30 secs,0 mins 30 secs,0.3
+Manual,10/20/2016,16:13:10,PGSLM,PROD,Release_1_2,db,PLM-PGSLM-APP,56,PLM-PGSLM-DB,38,6 mins 9 secs,0 mins 29 secs,6 mins 38 secs,6.38
+Manual,10/20/2016,16:54:31,PGSLM,PROD,R_01_02_00,app,PLM-PGSLM-APP,57,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,10/20/2016,23:42:48,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1136,PLM-WINDPLM-DB,966,5 mins 47 secs,1 mins 1 secs,6 mins 48 secs,6.48
+Auto,10/21/2016,4:31:13,AEROPLM,DEV,Dev_3_13_0,all,PLM-AEROPLM-APP,215,PLM-AEROPLM-DB,219,2 mins 7 secs,0 mins 36 secs,2 mins 44 secs,2.44
+Auto,10/21/2016,4:40:48,WINDPLM,DEV5,wind_dev_4_12,all,PLM-WINDPLM-APP,1137,PLM-WINDPLM-DB,967,6 mins 18 secs,0 mins 40 secs,6 mins 59 secs,6.59
+Manual,10/21/2016,6:46:31,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,118,PLM-NuclearPLM-DB,106,14 mins 43 secs,0 mins 35 secs,15 mins 18 secs,15.18
+Auto,10/21/2016,8:40:10,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1138,PLM-WINDPLM-DB,968,5 mins 47 secs,0 mins 52 secs,6 mins 40 secs,6.4
+Auto,10/21/2016,8:45:57,WINDPLM,DEV5,wind_dev_4_12,all,PLM-WINDPLM-APP,1139,PLM-WINDPLM-DB,969,6 mins 16 secs,0 mins 43 secs,7 mins 0 secs,7
+Manual,10/21/2016,11:34:58,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,119,PLM-NuclearPLM-DB,107,14 mins 1 secs,0 mins 32 secs,14 mins 34 secs,14.34
+Auto,10/21/2016,12:40:01,WINDPLM,DEV5,wind_dev_4_12,app,PLM-WINDPLM-APP,1140,,,2 mins 48 secs,,2 mins 48 secs,2.48
+Auto,10/21/2016,23:42:22,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1141,PLM-WINDPLM-DB,970,5 mins 24 secs,0 mins 48 secs,6 mins 12 secs,6.12
+Auto,10/22/2016,8:35:48,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1142,PLM-WINDPLM-DB,971,1 mins 25 secs,0 mins 40 secs,2 mins 6 secs,2.6
+Auto,10/24/2016,2:58:40,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,1143,PLM-WINDPLM-DB,972,5 mins 38 secs,0 mins 56 secs,6 mins 34 secs,6.34
+Auto,10/24/2016,3:40:25,AEROPLM,DEV,Dev_3_13_0,db,PLM-AEROPLM-APP,216,PLM-AEROPLM-DB,220,1 mins 20 secs,0 mins 41 secs,2 mins 2 secs,2.2
+Auto,10/24/2016,5:49:35,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1144,PLM-WINDPLM-DB,973,5 mins 35 secs,0 mins 43 secs,6 mins 18 secs,6.18
+Manual,10/24/2016,6:47:00,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,120,PLM-NuclearPLM-DB,108,0 mins 0 secs,0 mins 54 secs,0 mins 54 secs,0.54
+Auto,10/24/2016,8:36:06,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1145,PLM-WINDPLM-DB,974,1 mins 39 secs,0 mins 48 secs,2 mins 28 secs,2.28
+Manual,10/24/2016,11:31:54,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,121,PLM-NuclearPLM-DB,109,15 mins 2 secs,0 mins 46 secs,15 mins 49 secs,15.49
+Manual,10/24/2016,12:14:13,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,123,PLM-POWERPLM-DB,102,17 mins 27 secs,0 mins 31 secs,17 mins 59 secs,17.59
+Auto,10/24/2016,23:44:31,WINDPLM,DEV3,wind_dev_4_6,all,PLM-WINDPLM-APP,1148,PLM-WINDPLM-DB,977,6 mins 53 secs,0 mins 52 secs,7 mins 46 secs,7.46
+Auto,10/25/2016,1:24:06,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,1149,PLM-WINDPLM-DB,978,5 mins 42 secs,1 mins 12 secs,6 mins 55 secs,6.55
+Manual,10/25/2016,1:52:54,ENERGYPLM,QA2,Release_6_1_21,db,PLM-ENERGYPLM-APP,437,PLM-ENERGYPLM-DB,352,7 mins 54 secs,1 mins 29 secs,9 mins 24 secs,9.24
+Manual,10/25/2016,2:09:44,ENERGYPLM,QA2,Release_6_1_22,db,PLM-ENERGYPLM-APP,438,PLM-ENERGYPLM-DB,353,7 mins 11 secs,0 mins 41 secs,7 mins 53 secs,7.53
+Manual,10/25/2016,2:23:17,ENERGYPLM,QA2,Release_6_1_23,db,PLM-ENERGYPLM-APP,439,PLM-ENERGYPLM-DB,354,6 mins 44 secs,0 mins 30 secs,7 mins 14 secs,7.14
+Manual,10/25/2016,2:40:22,ENERGYPLM,QA2,Release_6_1_30,all,PLM-ENERGYPLM-APP,440,PLM-ENERGYPLM-DB,355,8 mins 21 secs,1 mins 14 secs,9 mins 36 secs,9.36
+Auto,10/25/2016,3:40:22,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1151,PLM-WINDPLM-DB,979,5 mins 18 secs,0 mins 57 secs,6 mins 16 secs,6.16
+Manual,10/25/2016,4:21:53,WINDPLM,QA2,Release_4_12,db,PLM-WINDPLM-APP,1152,PLM-WINDPLM-DB,980,5 mins 19 secs,0 mins 35 secs,5 mins 55 secs,5.55
+Auto,10/25/2016,4:39:39,WINDPLM,DEV5,wind_dev_4_12,app,PLM-WINDPLM-APP,1153,,,6 mins 10 secs,,6 mins 10 secs,6.1
+Manual,10/25/2016,6:36:58,ENERGYPLM,QA2,Release_6_2,all,PLM-ENERGYPLM-APP,441,PLM-ENERGYPLM-DB,356,8 mins 51 secs,0 mins 37 secs,9 mins 29 secs,9.29
+Manual,10/25/2016,6:49:55,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,122,PLM-NuclearPLM-DB,110,0 mins 0 secs,1 mins 2 secs,1 mins 2 secs,1.2
+Auto,10/25/2016,6:50:46,AEROPLM,DEV,Dev_3_13_0,db,PLM-AEROPLM-APP,217,PLM-AEROPLM-DB,221,1 mins 28 secs,0 mins 39 secs,2 mins 7 secs,2.7
+Manual,10/25/2016,7:26:31,WINDPLM,DEV5,wind_dev_4_12,all,PLM-WINDPLM-APP,1154,PLM-WINDPLM-DB,981,2 mins 43 secs,0 mins 43 secs,3 mins 26 secs,3.26
+Auto,10/25/2016,8:39:16,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1155,PLM-WINDPLM-DB,982,5 mins 38 secs,0 mins 40 secs,6 mins 18 secs,6.18
+Auto,10/25/2016,8:58:25,WINDPLM,QA3,Release_4_6,all,PLM-WINDPLM-APP,1156,PLM-WINDPLM-DB,983,6 mins 9 secs,0 mins 37 secs,6 mins 47 secs,6.47
+Auto,10/25/2016,10:51:03,AEROPLM,QA,Release_3_13_0,all,PLM-AEROPLM-APP,218,PLM-AEROPLM-DB,222,6 mins 7 secs,0 mins 38 secs,6 mins 45 secs,6.45
+Manual,10/25/2016,11:23:04,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,123,PLM-NuclearPLM-DB,111,16 mins 36 secs,0 mins 35 secs,17 mins 11 secs,17.11
+Manual,10/25/2016,11:30:15,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,124,PLM-POWERPLM-DB,103,21 mins 20 secs,0 mins 28 secs,21 mins 49 secs,21.49
+Auto,10/25/2016,11:39:21,WINDPLM,DEV4,wind_dev_4_7,db,PLM-WINDPLM-APP,1157,PLM-WINDPLM-DB,984,5 mins 46 secs,0 mins 44 secs,6 mins 30 secs,6.3
+Auto,10/25/2016,12:43:38,WINDPLM,DEV5,wind_dev_4_12,all,PLM-WINDPLM-APP,1158,PLM-WINDPLM-DB,985,6 mins 14 secs,0 mins 45 secs,6 mins 59 secs,6.59
+Manual,10/26/2016,1:37:03,POWERPLM,DEV1,Release_1_0,app,PLM-POWERPLM-APP,125,,,0 mins 0 secs,,0 mins 0 secs,0
+Manual,10/26/2016,3:12:28,POWERPLM,DEV1,Release_1_0,app,PLM-POWERPLM-APP,126,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,10/26/2016,3:41:04,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1159,PLM-WINDPLM-DB,986,5 mins 45 secs,0 mins 50 secs,6 mins 35 secs,6.35
+Manual,10/26/2016,6:20:47,WINDPLM,DEV5,Release_4_5,db,PLM-WINDPLM-APP,1162,PLM-WINDPLM-DB,989,1 mins 22 secs,0 mins 43 secs,2 mins 5 secs,2.5
+Manual,10/26/2016,6:46:28,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,124,PLM-NuclearPLM-DB,112,0 mins 0 secs,0 mins 42 secs,0 mins 42 secs,0.42
+Manual,10/26/2016,7:04:56,POWERPLM,DEV1,Release_1_0,db,PLM-POWERPLM-APP,127,PLM-POWERPLM-DB,104,12 mins 7 secs,0 mins 37 secs,12 mins 45 secs,12.45
+Auto,10/26/2016,8:40:19,WINDPLM,DEV3,wind_dev_4_6,all,PLM-WINDPLM-APP,1163,PLM-WINDPLM-DB,990,6 mins 36 secs,0 mins 37 secs,7 mins 14 secs,7.14
+Auto,10/26/2016,8:58:13,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,1164,PLM-WINDPLM-DB,991,5 mins 27 secs,0 mins 43 secs,6 mins 11 secs,6.11
+Auto,10/26/2016,9:08:42,WINDPLM,QA3,Release_4_6,app,PLM-WINDPLM-APP,1165,,,0 mins 0 secs,,0 mins 0 secs,0
+Manual,10/26/2016,11:21:24,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,125,PLM-NuclearPLM-DB,113,14 mins 53 secs,0 mins 40 secs,15 mins 33 secs,15.33
+Manual,10/26/2016,12:07:11,WINDPLM,DEV5,wind_dev_4_12,all,PLM-WINDPLM-APP,1168,PLM-WINDPLM-DB,994,3 mins 6 secs,0 mins 43 secs,3 mins 50 secs,3.5
+Manual,10/26/2016,14:05:22,ENERGYPLM,QA1,Release_6_1_40,all,PLM-ENERGYPLM-APP,443,PLM-ENERGYPLM-DB,358,8 mins 17 secs,0 mins 37 secs,8 mins 54 secs,8.54
+Manual,10/26/2016,15:22:11,PGSLM,QA2,Release_1_3,all,PLM-PGSLM-APP,59,PLM-PGSLM-DB,39,0 mins 0 secs,0 mins 44 secs,0 mins 44 secs,0.44
+Auto,10/26/2016,23:43:59,WINDPLM,DEV3,wind_dev_4_6,all,PLM-WINDPLM-APP,1169,PLM-WINDPLM-DB,995,6 mins 46 secs,0 mins 39 secs,7 mins 26 secs,7.26
+Manual,10/27/2016,2:31:08,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,128,PLM-POWERPLM-DB,105,0 mins 0 secs,0 mins 57 secs,0 mins 57 secs,0.57
+Auto,10/27/2016,3:37:02,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1170,PLM-WINDPLM-DB,996,1 mins 46 secs,0 mins 47 secs,2 mins 33 secs,2.33
+Manual,10/27/2016,5:12:25,ENERGYPLM,QA1,Release_6_1_40,db,PLM-ENERGYPLM-APP,444,PLM-ENERGYPLM-DB,359,2 mins 22 secs,0 mins 34 secs,2 mins 56 secs,2.56
+Manual,10/27/2016,5:24:45,POWERPLM,DEV1,Release_1_0,db,PLM-POWERPLM-APP,129,PLM-POWERPLM-DB,106,11 mins 58 secs,0 mins 31 secs,12 mins 29 secs,12.29
+Auto,10/27/2016,6:23:54,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,1171,PLM-WINDPLM-DB,997,5 mins 39 secs,0 mins 50 secs,6 mins 30 secs,6.3
+Manual,10/27/2016,6:36:44,WINDPLM,DEV3,Release_4_5,db,PLM-WINDPLM-APP,1172,PLM-WINDPLM-DB,998,5 mins 31 secs,0 mins 59 secs,6 mins 31 secs,6.31
+Manual,10/27/2016,6:47:49,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,126,PLM-NuclearPLM-DB,114,0 mins 0 secs,0 mins 38 secs,0 mins 38 secs,0.38
+Auto,10/27/2016,8:03:38,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,1173,PLM-WINDPLM-DB,999,5 mins 44 secs,0 mins 50 secs,6 mins 35 secs,6.35
+Auto,10/27/2016,8:40:16,WINDPLM,DEV5,wind_dev_4_12,all,PLM-WINDPLM-APP,1174,PLM-WINDPLM-DB,1000,6 mins 26 secs,0 mins 53 secs,7 mins 19 secs,7.19
+Manual,10/27/2016,9:56:35,WINDPLM,DEV3,wind_dev_4_6,all,PLM-WINDPLM-APP,1175,PLM-WINDPLM-DB,1002,6 mins 22 secs,0 mins 39 secs,7 mins 2 secs,7.2
+Manual,10/27/2016,10:24:28,ENERGYPLM,QA1,Release_6_1_40,all,PLM-ENERGYPLM-APP,445,PLM-ENERGYPLM-DB,360,3 mins 21 secs,0 mins 37 secs,3 mins 58 secs,3.58
+Manual,10/27/2016,11:01:17,ENERGYPLM,QA2,Release_6_2,all,PLM-ENERGYPLM-APP,446,PLM-ENERGYPLM-DB,361,7 mins 59 secs,0 mins 33 secs,8 mins 33 secs,8.33
+Manual,10/27/2016,11:21:36,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,127,PLM-NuclearPLM-DB,115,13 mins 57 secs,0 mins 39 secs,14 mins 36 secs,14.36
+Manual,10/27/2016,12:34:08,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,130,PLM-POWERPLM-DB,107,16 mins 22 secs,0 mins 31 secs,16 mins 54 secs,16.54
+Auto,10/27/2016,12:43:00,WINDPLM,DEV5,wind_dev_4_12,app,PLM-WINDPLM-APP,1176,,,6 mins 35 secs,,6 mins 35 secs,6.35
+Manual,10/27/2016,12:55:17,WINDPLM,QA3,Release_4_6,all,PLM-WINDPLM-APP,1177,PLM-WINDPLM-DB,1003,5 mins 57 secs,0 mins 39 secs,6 mins 37 secs,6.37
+Manual,10/27/2016,13:29:19,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,131,PLM-POWERPLM-DB,108,16 mins 6 secs,0 mins 29 secs,16 mins 35 secs,16.35
+Auto,10/27/2016,23:43:20,WINDPLM,DEV3,wind_dev_4_6,all,PLM-WINDPLM-APP,1178,PLM-WINDPLM-DB,1004,6 mins 42 secs,0 mins 43 secs,7 mins 25 secs,7.25
+Manual,10/28/2016,2:57:02,ENERGYPLM,QA2,Release_6_2,db,PLM-ENERGYPLM-APP,447,PLM-ENERGYPLM-DB,362,2 mins 23 secs,0 mins 38 secs,3 mins 1 secs,3.1
+Manual,10/28/2016,3:39:27,WINDPLM,QA2,Release_4_5,db,PLM-WINDPLM-APP,1179,PLM-WINDPLM-DB,1005,5 mins 41 secs,0 mins 55 secs,6 mins 37 secs,6.37
+Auto,10/28/2016,3:44:15,WINDPLM,DEV3,wind_dev_4_6,app,PLM-WINDPLM-APP,1180,,,6 mins 11 secs,,6 mins 11 secs,6.11
+Manual,10/28/2016,4:34:22,ENERGYPLM,QA1,Release_6_1_40,db,PLM-ENERGYPLM-APP,448,PLM-ENERGYPLM-DB,363,7 mins 18 secs,1 mins 3 secs,8 mins 22 secs,8.22
+Auto,10/28/2016,4:41:52,WINDPLM,DEV5,wind_dev_4_12,all,PLM-WINDPLM-APP,1181,PLM-WINDPLM-DB,1006,6 mins 23 secs,0 mins 42 secs,7 mins 6 secs,7.6
+Manual,10/28/2016,7:01:33,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,128,PLM-NuclearPLM-DB,116,14 mins 48 secs,0 mins 34 secs,15 mins 22 secs,15.22
+Auto,10/28/2016,8:40:37,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1182,PLM-WINDPLM-DB,1007,5 mins 43 secs,0 mins 47 secs,6 mins 30 secs,6.3
+Auto,10/28/2016,8:51:35,WINDPLM,QA2,Release_4_12,all,PLM-WINDPLM-APP,1183,PLM-WINDPLM-DB,1008,6 mins 5 secs,0 mins 41 secs,6 mins 46 secs,6.46
+Auto,10/28/2016,9:21:03,WINDPLM,QA3,Release_4_6,all,PLM-WINDPLM-APP,1184,PLM-WINDPLM-DB,1009,6 mins 10 secs,0 mins 38 secs,6 mins 49 secs,6.49
+Auto,10/28/2016,10:18:49,WINDPLM,QA3,Release_4_6,app,PLM-WINDPLM-APP,1185,,,2 mins 19 secs,,2 mins 19 secs,2.19
+Auto,10/28/2016,10:44:51,AEROPLM,DEV,Dev_3_13_0,all,PLM-AEROPLM-APP,219,PLM-AEROPLM-DB,223,5 mins 57 secs,0 mins 36 secs,6 mins 33 secs,6.33
+Auto,10/28/2016,11:05:22,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,1186,PLM-WINDPLM-DB,1010,1 mins 37 secs,0 mins 46 secs,2 mins 24 secs,2.24
+Manual,10/28/2016,11:14:17,ENERGYPLM,QA2,Release_6_2,db,PLM-ENERGYPLM-APP,449,PLM-ENERGYPLM-DB,364,7 mins 27 secs,0 mins 46 secs,8 mins 14 secs,8.14
+Manual,10/28/2016,11:22:15,ENERGYPLM,QA1,Release_6_1_40,all,PLM-ENERGYPLM-APP,450,PLM-ENERGYPLM-DB,365,7 mins 51 secs,0 mins 35 secs,8 mins 27 secs,8.27
+Auto,10/28/2016,11:29:01,WINDPLM,QA3,Release_4_6,app,PLM-WINDPLM-APP,1187,,,2 mins 39 secs,,2 mins 39 secs,2.39
+Manual,10/28/2016,11:53:49,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,129,PLM-NuclearPLM-DB,117,14 mins 13 secs,0 mins 33 secs,14 mins 46 secs,14.46
+Auto,10/28/2016,12:44:01,WINDPLM,DEV5,wind_dev_4_12,all,PLM-WINDPLM-APP,1188,PLM-WINDPLM-DB,1011,6 mins 26 secs,0 mins 42 secs,7 mins 9 secs,7.9
+Auto,10/29/2016,3:40:25,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1189,PLM-WINDPLM-DB,1012,5 mins 29 secs,0 mins 46 secs,6 mins 16 secs,6.16
+Manual,10/31/2016,4:13:36,ENERGYPLM,QA1,Release_6_1_32,db,PLM-ENERGYPLM-APP,451,PLM-ENERGYPLM-DB,366,7 mins 28 secs,0 mins 49 secs,8 mins 17 secs,8.17
+Manual,10/31/2016,4:29:16,ENERGYPLM,QA1,Release_6_1_40,db,PLM-ENERGYPLM-APP,452,PLM-ENERGYPLM-DB,367,6 mins 53 secs,0 mins 39 secs,7 mins 32 secs,7.32
+Auto,10/31/2016,4:40:37,WINDPLM,DEV5,wind_dev_4_12,db,PLM-WINDPLM-APP,1190,PLM-WINDPLM-DB,1013,5 mins 38 secs,0 mins 45 secs,6 mins 24 secs,6.24
+Manual,10/31/2016,6:48:14,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,130,PLM-NuclearPLM-DB,118,14 mins 40 secs,0 mins 37 secs,15 mins 17 secs,15.17
+Manual,10/31/2016,7:50:29,ENERGYPLM,QA2,Release_6_2,db,PLM-ENERGYPLM-APP,453,PLM-ENERGYPLM-DB,368,7 mins 29 secs,0 mins 51 secs,8 mins 20 secs,8.2
+Auto,10/31/2016,9:41:03,AEROPLM,DEV,Dev_3_13_0,all,PLM-AEROPLM-APP,220,PLM-AEROPLM-DB,224,2 mins 11 secs,0 mins 33 secs,2 mins 45 secs,2.45
+Manual,10/31/2016,11:09:40,ENERGYPLM,QA1,Release_6_1_40,db,PLM-ENERGYPLM-APP,454,PLM-ENERGYPLM-DB,369,7 mins 41 secs,1 mins 1 secs,8 mins 42 secs,8.42
+Manual,10/31/2016,11:19:19,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,131,PLM-NuclearPLM-DB,119,15 mins 21 secs,0 mins 36 secs,15 mins 57 secs,15.57
+Manual,11/1/2016,1:44:31,ENERGYPLM,QA2,Release_6_2,all,PLM-ENERGYPLM-APP,455,PLM-ENERGYPLM-DB,370,8 mins 29 secs,0 mins 34 secs,9 mins 4 secs,9.4
+Manual,11/1/2016,5:46:23,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,132,PLM-POWERPLM-DB,109,16 mins 14 secs,0 mins 28 secs,16 mins 42 secs,16.42
+Auto,11/1/2016,9:25:44,AEROPLM,DEV,Dev_3_13_0,db,PLM-AEROPLM-APP,221,PLM-AEROPLM-DB,225,1 mins 35 secs,0 mins 41 secs,2 mins 17 secs,2.17
+Manual,11/1/2016,10:02:48,POWERPLM,DEV1,Release_1_0,app,PLM-POWERPLM-APP,133,,,0 mins 0 secs,,0 mins 0 secs,0
+Manual,11/1/2016,10:48:00,ENERGYPLM,QA2,Release_6_2,db,PLM-ENERGYPLM-APP,456,PLM-ENERGYPLM-DB,371,2 mins 36 secs,0 mins 42 secs,3 mins 19 secs,3.19
+Manual,11/1/2016,12:12:43,NuclearPLM,QA,Release_4_0,app,PLM-NuclearPLM-APP,133,,,0 mins 0 secs,,0 mins 0 secs,0
+Auto,11/1/2016,12:47:40,AEROPLM,DEV2,Dev_3_15_0,app,PLM-AEROPLM-APP,222,,,6 mins 21 secs,,6 mins 21 secs,6.21
+Auto,11/1/2016,12:49:30,AEROPLM,DEV2,Dev_3_15_0,app,PLM-AEROPLM-APP,223,,,2 mins 0 secs,,2 mins 0 secs,2
+Auto,11/1/2016,13:13:01,AEROPLM,DEV2,Dev_3_15_0,db,PLM-AEROPLM-APP,224,PLM-AEROPLM-DB,226,1 mins 16 secs,0 mins 22 secs,1 mins 38 secs,1.38
+Auto,11/1/2016,13:17:50,AEROPLM,DEV2,Dev_3_15_0,db,PLM-AEROPLM-APP,225,PLM-AEROPLM-DB,227,1 mins 15 secs,0 mins 18 secs,1 mins 34 secs,1.34
+Auto,11/1/2016,13:42:46,AEROPLM,DEV2,Dev_3_15_0,db,PLM-AEROPLM-APP,226,PLM-AEROPLM-DB,228,1 mins 18 secs,0 mins 17 secs,1 mins 36 secs,1.36
+Auto,11/1/2016,23:42:42,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1191,PLM-WINDPLM-DB,1014,5 mins 39 secs,0 mins 44 secs,6 mins 24 secs,6.24
+Auto,11/2/2016,1:48:34,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,1192,PLM-WINDPLM-DB,1015,5 mins 29 secs,0 mins 49 secs,6 mins 19 secs,6.19
+Manual,11/2/2016,3:45:53,AEROPLM,DEV2,Dev_3_15_0,db,PLM-AEROPLM-APP,227,PLM-AEROPLM-DB,229,1 mins 23 secs,0 mins 25 secs,1 mins 48 secs,1.48
+Manual,11/2/2016,4:02:32,AEROPLM,DEV2,Dev_3_15_0,db,PLM-AEROPLM-APP,228,PLM-AEROPLM-DB,230,1 mins 17 secs,0 mins 23 secs,1 mins 41 secs,1.41
+Auto,11/2/2016,4:03:55,AEROPLM,DEV2,Dev_3_15_0,app,PLM-AEROPLM-APP,229,,,2 mins 5 secs,,2 mins 5 secs,2.5
+Auto,11/2/2016,4:23:06,AEROPLM,DEV2,Dev_3_15_0,db,PLM-AEROPLM-APP,230,PLM-AEROPLM-DB,231,1 mins 20 secs,0 mins 21 secs,1 mins 42 secs,1.42
+Auto,11/2/2016,6:35:42,AEROPLM,QA,Release_3_13_0,all,PLM-AEROPLM-APP,231,PLM-AEROPLM-DB,232,5 mins 54 secs,0 mins 47 secs,6 mins 42 secs,6.42
+Manual,11/2/2016,6:48:22,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,134,PLM-NuclearPLM-DB,122,15 mins 17 secs,0 mins 37 secs,15 mins 54 secs,15.54
+Manual,11/2/2016,7:09:45,ENERGYPLM,QA1,Release_6_1_40,all,PLM-ENERGYPLM-APP,457,PLM-ENERGYPLM-DB,372,8 mins 27 secs,0 mins 41 secs,9 mins 8 secs,9.8
+Auto,11/2/2016,7:24:16,WINDPLM,QA3,Release_4_6,app,PLM-WINDPLM-APP,1193,,,2 mins 44 secs,,2 mins 44 secs,2.44
+Manual,11/2/2016,7:58:07,ENERGYPLM,QA1,Release_6_1_40,db,PLM-ENERGYPLM-APP,458,PLM-ENERGYPLM-DB,373,2 mins 20 secs,0 mins 36 secs,2 mins 56 secs,2.56
+Manual,11/2/2016,8:06:58,ENERGYPLM,QA2,Release_6_2,db,PLM-ENERGYPLM-APP,459,PLM-ENERGYPLM-DB,374,7 mins 10 secs,0 mins 49 secs,7 mins 59 secs,7.59
+Auto,11/2/2016,8:38:57,WINDPLM,DEV3,wind_dev_4_6,app,PLM-WINDPLM-APP,1194,,,6 mins 27 secs,,6 mins 27 secs,6.27
+Manual,11/2/2016,10:07:40,PGSLM,QA2,Release_1_3,app,PLM-PGSLM-APP,60,,,0 mins 0 secs,,0 mins 0 secs,0
+Manual,11/2/2016,11:26:08,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,134,PLM-POWERPLM-DB,110,0 mins 0 secs,0 mins 40 secs,0 mins 40 secs,0.4
+Manual,11/2/2016,11:32:07,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,135,PLM-NuclearPLM-DB,123,19 mins 16 secs,0 mins 34 secs,19 mins 50 secs,19.5
+Manual,11/2/2016,12:43:08,PGSLM,QA2,Release_1_3,all,PLM-PGSLM-APP,61,PLM-PGSLM-DB,40,8 mins 38 secs,0 mins 30 secs,9 mins 8 secs,9.8
+Auto,11/2/2016,23:38:42,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1195,PLM-WINDPLM-DB,1016,1 mins 39 secs,0 mins 51 secs,2 mins 30 secs,2.3
+Manual,11/3/2016,03:28:24,ENERGYPLM,QA2,Release_6_2,db,PLM-ENERGYPLM-APP,460,PLM-ENERGYPLM-DB,375,2 mins 38 secs,0 mins 32 secs,3 mins 11 secs,3.11
+Auto,11/3/2016,06:47:00,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,1196,PLM-WINDPLM-DB,1017,8 mins 43 secs,0 mins 58 secs,9 mins 42 secs,9.42
+Manual,11/3/2016,06:48:31,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,137,PLM-NuclearPLM-DB,124,15 mins 42 secs,0 mins 52 secs,16 mins 35 secs,16.35
+Auto,11/3/2016,07:04:31,AEROPLM,DEV,Dev_3_13_0,db,PLM-AEROPLM-APP,232,PLM-AEROPLM-DB,233,5 mins 16 secs,0 mins 38 secs,5 mins 54 secs,5.54
+Auto,11/3/2016,07:24:14,WINDPLM,QA3,Release_4_6,app,PLM-WINDPLM-APP,1197,,,2 mins 34 secs,,2 mins 34 secs,2.34
+Auto,11/3/2016,08:39:51,WINDPLM,DEV3,wind_dev_4_6,all,PLM-WINDPLM-APP,1198,PLM-WINDPLM-DB,1018,6 mins 17 secs,0 mins 39 secs,6 mins 57 secs,6.57
+Manual,11/3/2016,10:14:36,NuclearPLM,PROD,Release_4_0,all,PLM-NuclearPLM-APP,138,PLM-NuclearPLM-DB,125,14 mins 43 secs,0 mins 33 secs,15 mins 16 secs,15.16
+Manual,11/3/2016,11:37:33,ENERGYPLM,QA2,Release_6_2,db,PLM-ENERGYPLM-APP,461,PLM-ENERGYPLM-DB,376,2 mins 21 secs,0 mins 40 secs,3 mins 1 secs,3.1
+Manual,11/3/2016,16:29:29,PGSLM,PROD,Release_1_3,db,PLM-PGSLM-APP,62,PLM-PGSLM-DB,41,13 mins 44 secs,0 mins 25 secs,14 mins 9 secs,14.9
+Auto,11/3/2016,23:40:08,WINDPLM,DEV3,wind_dev_4_6,all,PLM-WINDPLM-APP,1199,PLM-WINDPLM-DB,1019,2 mins 47 secs,0 mins 47 secs,3 mins 34 secs,3.34
+Auto,11/4/2016,01:23:36,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,1200,PLM-WINDPLM-DB,1020,5 mins 42 secs,0 mins 51 secs,6 mins 33 secs,6.33
+Auto,11/4/2016,02:35:15,AEROPLM,DEV,Dev_3_13_0,db,PLM-AEROPLM-APP,233,PLM-AEROPLM-DB,234,1 mins 22 secs,0 mins 34 secs,1 mins 57 secs,1.57
+Auto,11/4/2016,03:09:06,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,1201,PLM-WINDPLM-DB,1021,1 mins 31 secs,0 mins 39 secs,2 mins 10 secs,2.10
+Auto,11/4/2016,03:40:13,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1202,PLM-WINDPLM-DB,1022,5 mins 23 secs,0 mins 51 secs,6 mins 14 secs,6.14
+Auto,11/4/2016,03:57:42,WINDPLM,QA3,Release_4_6,app,PLM-WINDPLM-APP,1203,,,6 mins 9 secs,,6 mins 9 secs,6.9
+Manual,11/4/2016,04:21:40,ENERGYPLM,QA2,Release_6_2,db,PLM-ENERGYPLM-APP,462,PLM-ENERGYPLM-DB,377,2 mins 23 secs,0 mins 40 secs,3 mins 3 secs,3.3
+Auto,11/4/2016,05:42:25,AEROPLM,DEV2,Dev_3_15_0,app,PLM-AEROPLM-APP,234,,,6 mins 21 secs,,6 mins 21 secs,6.21
+Auto,11/4/2016,05:44:18,AEROPLM,DEV2,Dev_3_15_0,db,PLM-AEROPLM-APP,235,PLM-AEROPLM-DB,235,1 mins 18 secs,0 mins 21 secs,1 mins 40 secs,1.40
+Auto,11/4/2016,06:04:50,AEROPLM,QA,Release_3_13_0,db,PLM-AEROPLM-APP,236,PLM-AEROPLM-DB,236,4 mins 57 secs,0 mins 36 secs,5 mins 33 secs,5.33
+Auto,11/4/2016,06:09:39,AEROPLM,DEV2,Dev_3_15_0,db,PLM-AEROPLM-APP,237,PLM-AEROPLM-DB,237,5 mins 2 secs,0 mins 27 secs,5 mins 30 secs,5.30
+Manual,11/4/2016,07:15:21,AEROPLM,QA,Release_3_13_0,db,PLM-AEROPLM-APP,238,PLM-AEROPLM-DB,238,4 mins 57 secs,0 mins 31 secs,5 mins 28 secs,5.28
+Auto,11/4/2016,08:45:50,WINDPLM,DEV3,wind_dev_4_6,all,PLM-WINDPLM-APP,1205,PLM-WINDPLM-DB,1024,6 mins 28 secs,0 mins 53 secs,7 mins 22 secs,7.22
+Auto,11/4/2016,08:57:37,WINDPLM,QA3,Release_4_6,app,PLM-WINDPLM-APP,1206,,,0 mins 0 secs,,0 mins 0 secs,0.0
+Manual,11/4/2016,09:05:16,ENERGYPLM,DEV1,Release_6_1_30,all,PLM-ENERGYPLM-APP,463,PLM-ENERGYPLM-DB,378,8 mins 42 secs,0 mins 53 secs,9 mins 35 secs,9.35
+Manual,11/4/2016,09:54:00,ENERGYPLM,DEV1,Release_6_1_32,db,PLM-ENERGYPLM-APP,465,PLM-ENERGYPLM-DB,380,6 mins 34 secs,0 mins 36 secs,7 mins 11 secs,7.11
+Manual,11/4/2016,11:29:31,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,139,PLM-NuclearPLM-DB,126,14 mins 9 secs,0 mins 36 secs,14 mins 46 secs,14.46
+Auto,11/4/2016,11:39:31,WINDPLM,DEV4,wind_dev_4_7,db,PLM-WINDPLM-APP,1207,PLM-WINDPLM-DB,1025,5 mins 45 secs,0 mins 44 secs,6 mins 29 secs,6.29
+Auto,11/4/2016,12:42:58,WINDPLM,DEV5,wind_dev_4_12,db,PLM-WINDPLM-APP,1208,PLM-WINDPLM-DB,1026,5 mins 24 secs,0 mins 43 secs,6 mins 7 secs,6.7
+Auto,11/4/2016,23:44:41,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1210,PLM-WINDPLM-DB,1028,5 mins 15 secs,0 mins 46 secs,6 mins 1 secs,6.1
+Auto,11/5/2016,04:40:01,WINDPLM,DEV4,wind_dev_4_7,db,PLM-WINDPLM-APP,1211,PLM-WINDPLM-DB,1029,5 mins 11 secs,0 mins 36 secs,5 mins 47 secs,5.47
+Auto,11/5/2016,11:34:43,WINDPLM,DEV4,wind_dev_4_7,db,PLM-WINDPLM-APP,1212,PLM-WINDPLM-DB,1030,1 mins 22 secs,0 mins 30 secs,1 mins 52 secs,1.52
+Auto,11/5/2016,13:37:34,AEROPLM,DEV2,Dev_3_15_0,all,PLM-AEROPLM-APP,239,PLM-AEROPLM-DB,239,5 mins 51 secs,0 mins 23 secs,6 mins 14 secs,6.14
+Auto,11/6/2016,11:28:23,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,1213,PLM-WINDPLM-DB,1031,5 mins 30 secs,0 mins 49 secs,6 mins 19 secs,6.19
+Auto,11/6/2016,23:40:30,WINDPLM,DEV4,wind_dev_4_7,db,PLM-WINDPLM-APP,1214,PLM-WINDPLM-DB,1032,5 mins 29 secs,1 mins 1 secs,6 mins 31 secs,6.31
+Auto,11/6/2016,23:46:00,WINDPLM,DEV3,wind_dev_4_6,db,PLM-WINDPLM-APP,1215,PLM-WINDPLM-DB,1033,5 mins 21 secs,0 mins 51 secs,6 mins 12 secs,6.12
+Manual,11/7/2016,00:40:09,ENERGYPLM,DEV1,Release_6_1_34,db,PLM-ENERGYPLM-APP,466,PLM-ENERGYPLM-DB,381,7 mins 34 secs,0 mins 34 secs,8 mins 8 secs,8.8
+Manual,11/7/2016,04:52:33,ENERGYPLM,DEV1,PGPLM_3DPDF_Test,all,PLM-ENERGYPLM-APP,467,PLM-ENERGYPLM-DB,382,8 mins 3 secs,1 mins 5 secs,9 mins 8 secs,9.8
+Manual,11/7/2016,05:12:38,ENERGYPLM,QA1,Release_6_1_40,db,PLM-ENERGYPLM-APP,468,PLM-ENERGYPLM-DB,383,8 mins 12 secs,1 mins 19 secs,9 mins 32 secs,9.32
+Manual,11/7/2016,06:05:08,ENERGYPLM,QA1,Release_6_1_40,db,PLM-ENERGYPLM-APP,469,PLM-ENERGYPLM-DB,384,2 mins 13 secs,0 mins 32 secs,2 mins 46 secs,2.46
+Manual,11/7/2016,06:45:55,NuclearPLM,QA,Release_4_0,all,PLM-NuclearPLM-APP,140,PLM-NuclearPLM-DB,127,14 mins 55 secs,0 mins 35 secs,15 mins 30 secs,15.30
+Auto,11/7/2016,08:42:08,WINDPLM,DEV5,wind_dev_4_12,all,PLM-WINDPLM-APP,1217,PLM-WINDPLM-DB,1034,6 mins 41 secs,0 mins 49 secs,7 mins 30 secs,7.30
+Auto,11/7/2016,08:47:02,WINDPLM,DEV3,wind_dev_4_8,app,PLM-WINDPLM-APP,1218,,,0 mins 0 secs,,0 mins 0 secs,0.0
+Auto,11/7/2016,08:54:18,WINDPLM,DEV4,wind_dev_4_7,all,PLM-WINDPLM-APP,1219,PLM-WINDPLM-DB,1035,6 mins 13 secs,0 mins 37 secs,6 mins 51 secs,6.51
+Auto,11/7/2016,09:06:09,WINDPLM,QA2,Release_4_12,db,PLM-WINDPLM-APP,1220,PLM-WINDPLM-DB,1036,5 mins 20 secs,0 mins 47 secs,6 mins 7 secs,6.7
+Auto,11/7/2016,09:11:21,WINDPLM,QA3,Release_4_6,db,PLM-WINDPLM-APP,1221,PLM-WINDPLM-DB,1037,5 mins 23 secs,0 mins 40 secs,6 mins 3 secs,6.3
+Manual,11/7/2016,10:12:33,ENERGYPLM,QA1,Release_6_1_40,all,PLM-ENERGYPLM-APP,470,PLM-ENERGYPLM-DB,385,3 mins 44 secs,0 mins 40 secs,4 mins 24 secs,4.24
+Manual,11/7/2016,10:45:58,NuclearPLM,PROD,Release_4_0,all,PLM-NuclearPLM-APP,141,PLM-NuclearPLM-DB,128,0 mins 0 secs,0 mins 58 secs,0 mins 58 secs,0.58
+Manual,11/7/2016,11:01:08,NuclearPLM,DEV,Release_4_0,all,PLM-NuclearPLM-APP,142,PLM-NuclearPLM-DB,129,0 mins 0 secs,0 mins 35 secs,0 mins 35 secs,0.35
+Auto,11/7/2016,11:39:11,WINDPLM,DEV4,wind_dev_4_7,app,PLM-WINDPLM-APP,1222,,,0 mins 0 secs,,0 mins 0 secs,0.0
+Manual,11/7/2016,12:43:50,POWERPLM,DEV1,Release_1_0,all,PLM-POWERPLM-APP,135,PLM-POWERPLM-DB,111,0 mins 0 secs,0 mins 46 secs,0 mins 46 secs,0.46
+Auto,11/7/2016,23:42:36,WINDPLM,DEV3,wind_dev_4_8,db,PLM-WINDPLM-APP,1223,PLM-WINDPLM-DB,1038,5 mins 54 secs,0 mins 38 secs,6 mins 33 secs,6.33
+Auto,11/8/2016,00:50:41,WINDPLM,QA2,Release_4_12,app,PLM-WINDPLM-APP,1224,,,6 mins 7 secs,,6 mins 7 secs,6.7
