@@ -79,6 +79,14 @@ app.controller('MyCtrl', function($scope, $http, $rootScope) {
 app.controller('InfoCtrl',
 		function($scope, $http, $rootScope, Excel, $timeout) {
 
+	
+	$scope.sortDate = function(x) {
+	    var date = new Date(x.Date);
+	    return date;
+	};
+	
+	
+	
 			$scope.exportToExcel = function(tableId) { // ex: '#my-table'
 				$scope.exportHref = Excel.tableToExcel(tableId, 'sheet name');
 				$timeout(function() {
