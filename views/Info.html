@@ -90,7 +90,7 @@
         </thead>
 
         <tbody>
-     <tr ng-repeat="x in historyData|filter:{Application:application}:false|filter:{Environment:env}:true">
+     <tr ng-repeat="x in historyData|filter:{Application:application}:false|filter:{Environment:env}:true|orderBy:sortDate : true">
       <td>{{x['Build Type']}}</td>
                 <td>{{x['Date']}}</td>
                 <td>{{x['Time']}}</td>
@@ -114,16 +114,7 @@
     <button class="btn btn-link" ng-click="exportToExcel('#table1')">
         <span class="glyphicon glyphicon-share"></span> Export to Excel
     </button>
-<script>
 
-
-$(document).ready( function () {
-    $('#table').DataTable( {
-        searchHighlight: true
-    } );
-} );
-
-</script>
   <style>
   
   td{
